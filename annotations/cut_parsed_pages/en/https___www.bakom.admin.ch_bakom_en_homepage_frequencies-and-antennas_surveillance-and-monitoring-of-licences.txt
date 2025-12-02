@@ -1,0 +1,22 @@
+Surveillance and Checks
+Radio frequency spectrum is a limited natural resource. OFCOM ensures that users have access to this asset without any interference. Electrical devices and telecommunications equipment can have an unwanted impact on the frequency spectrum and impair communication. A radio can transmit on frequencies that are allocated to security services, for example, or a licensee might be using more equipment than they have reported, which can increase radio traffic considerably.
+In order to prevent these or other types of interferences, regulations are in place regarding the authorisation to install and operate radio equipment and radio networks for mobile terrestrial radio, maritime radio, aeronautical radio and amateur radio. OFCOM grants licences, call signs and permits that regulate frequencies and other parameters such as the number of devices, transmitted power and bandwidth occupied. Programmable radio equipment must only be programmed to the frequencies described in the licence. Any changes must be communicated to OFCOM.
+OFCOM exercises surveillance over the frequency spectrum and radiocommunications licences. It conducts spot checks every year, which examine whether:
+Art. 52 TCA
+The frequency spectrum can be used freely in compliance with the law. However, offences against the Telecommunications Act are punishable by a fine (see ). A product check may be carried out if there is a suspicion that non-compliant radio equipment is being used.
+Further information
+Frequency use with or without licences
+National Frequency Allocation Plan
+Disturbances
+Non-compliant equipment
+Legal framework
+Telecommunications Act (TCA)
+Ordinance on Telecommunications Installations (FAV)
+Ordinance on the Use of the Radio Frequency Spectrum (RFSO)
+Specialist staff
+
+				
+
+
+
+Last modification 18.09.2023

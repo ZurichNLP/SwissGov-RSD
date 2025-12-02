@@ -1,0 +1,27 @@
+Winners of the 2019 Watt d'Or awards
+The winners of the 2019 Watt d'Or awards have been chosen! This year's trophies were presented to the winners on the occasion of the Swiss Federal Office of Energy's New Year's event that was held on 10 January 2019 in Bern. The following projects were chosen to receive the various awards (all of which are of equal value):
+“Energy technologies” category
+DEPsys SA and IBB Energie AG: GridEye – autopilot in the smart grid
+DEPsys SA at Puidoux in the Canton of Vaud has brought the smart-grid platform “GridEye” to the point where it is ready for the market. The platform helps grid operators integrate ever-increasing amounts of decentrally produced fluctuating energy into the grid. Grideye can be easily incorporated into the existing infrastructure. On the basis of measurements the intelligent software learns about the actual condition of the grid. Information derived about the current situation is thus used to control energy flows optimally, safely and efficiently. GridEye was installed on behalf of IBB Energie AG at Birrfeld airfield. Since then the large 200 kW photovoltaic array on the hangar of the Aargau Aero Club has been able to feed in the maximum output without jeopardising the safety of the grid.
+“Renewable energy” category
+dhp technology AG and IBC Energie Wasser Chur: Suspended solar power plants – cable car technology facilitates double use of infrastructure areas
+To facilitate the use of infrastructure areas, such as car parks and the space above sewage treatment plants, dhp technology AG from Zizers in the Canton of Grisons has brought to market the “HORIZON” foldable, lightweight construction solar plant. Using cable car technology HORIZON is suspended five metres above the infrastructure area in question and folds up like a concertina. A meteorological algorithm deploys the array when the sun shines and folds it up again during windy spells and snowfall. The first major HORIZON plant was realised for IBC Energie Wasser Chur and installed over the Chur sewage treatment plant where it went into operation in 2018. The plant produces 540,000 kilowatt-hours of electricity per year, which covers around 20% of the electricity requirement of the facility.
+“Energy-efficient mobility” category
+BLS AG and the University of Basel: Step by step toward greater energy efficiency
+If we want to save energy, we first have to have detailed measurements of consumption. When retired physicist Prof. Dr. Peter Oelhafen came up with the idea of such a measurement campaign in railway vehicles and rolling stock, he was welcomed with open arms by BLS AG. The impressive results of the campaign led to a comprehensive modernisation programme for 36 NINA suburban trains that will be completed in 2019. In this way and using further efficiency measures for the remainder of the railway rolling stock, BLS saves about 13 million kilowatt-hours of electricity, an amount equivalent to the annual consumption of 3,000 households. Other transport companies and partners in research and industry are participating In sub-projects of the energy economy programme initiated by Peter Oelhafen.
+“Buildings and space” category
+Habitat Foundation and ADEV Energiegenossenschaft: Erlenmatt Ost – A sustainable, colourful area with local energy production and supply
+On the space that was once the Deutsche Bahn goods station in Basel the Stiftung Habitat (Habitat Foundation) has developed the new city district called Erlenmatt Ost. People moved into the first buildings in 2017; by the end of 2019 about 500 occupants will live in the area in more than 200 apartments. One thing is clear now: the district is lively, colourful and sustainable and entirely in harmony with the tenets of the 2,000 Watt Society. The standards for a sustainable district are measurable and create a logical framework which is understood by the residents and put into effect in their daily lives. The ADEV Energiegenossenschaft (energy cooperative) makes a significant contribution because it has established one of the largest solar energy consumer communities in Switzerland here. When it is completed Erlenmatt Ost will be supplied with 70% of its electricity and heating requirement from on-site facilities.
+Special “Transition” award
+Empa, Eawag and dransfeldarchitekten ag: NEST – a Lego house expedites innovation
+Energy conservation and resource-saving innovations are only slowly making inroads in the building sector. Investors and builders are reluctant to innovate and take a risk so they often fall back on existing solutions. The NEST "living lab" initiated by Empa and Eawag in 2016 along with 140 partners from research, the economy and the public sector aims to accelerate innovation processes in the building sector. Thematic units, which can be built into NEST like Lego bricks, make this possible. One particularly attractive unit is the fitness and wellness facility which is entirely solar powered and uses six times less energy than a conventional spa. The unit was planned by dransfeldarchitekten ag from Ermatingen.
+Documents
+Watt d'Or 2019
+Links
+SFOE-Blog energeiaplus dated 10 January 2019
+SFOE-Blog energeiaplus dated 11 January 2019
+Gallery of photos taken at the awards ceremony on 10 January 2019
+Watt d'Or on Youtube
+Media
+Swiss Federal Office of Energy awards the twelfth Watt d’Or Swiss energy prize
+Last modification 10.01.2019

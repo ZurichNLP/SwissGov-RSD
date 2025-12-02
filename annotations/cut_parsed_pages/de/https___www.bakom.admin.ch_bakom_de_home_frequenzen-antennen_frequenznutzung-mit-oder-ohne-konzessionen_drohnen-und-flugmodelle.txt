@@ -1,0 +1,60 @@
+Drohnen und Flugmodelle
+Drohnen sind ferngesteuerte, meist kleinere Fluggeräte. Sie sind rechtlich den Flugmodellen gleichgestellt und gelten als Funkanlagen. Die Anzahl der in der Schweiz kommerziell und privat betriebenen Drohnen nimmt kontinuierlich zu.
+Das Bundesamt für Zivilluftfahrt (BAZL) ist für die Luftfahrtentwicklung und die Aufsicht über die zivile Luftfahrt in der Schweiz zuständig:
+BAZL Homepage
+In Bezug auf die Frequenzspektrum- und Funkanlagen-Regulierung fallen Drohnen in die Zuständigkeit des BAKOM:
+kf-fk@bakom.admin.ch
+Fachkontakt Frequenzen und Funkkonzessionen:
+
+Konformität von Drohnen
+hier
+Eine Drohne ist – soweit sie einen Funksender und oder Empfänger enthält – eine Funkanlage. Die rechtlichen Voraussetzungen für den Marktzugang (z.B. Anbieten, Verkaufen, Verleihen, Inverkehrbringen) und die Konformität von Funkanlagen sind  beschrieben.
+hier
+Hinweise zum Kauf von Funkanlagen im Ausland für den Eigengebrauch oder den Wiederverkauf in der Schweiz finden Sie .
+ra-mk@bakom.admin.ch
+Fachkontakt Marktzugang und Konformität:
+
+Einsatz von Frequenzressourcen
+Für Befehls- und Steueranwendungen sowie für die Nutzdatenübertragung wie auch für Verkehrsinformations- und Kollisionsvermeidungssysteme werden Frequenzen benötigt.
+Die vorhandenen Frequenzen müssen meist mit anderen Nutzern geteilt werden. Da für Drohnen derzeit keine dedizierten Frequenzressourcen zur Verfügung stehen, lässt sich ein störungsfreier Betrieb nicht gewährleisten. Auf internationaler Ebene laufen derzeit Arbeiten zur Lösung dieser Problematik.
+Frequenzressourcen zur Steuerung und Kommunikation (Command and Control) sowie zur Übertragung von Nutzdaten (Payload)
+Für Befehls- und Steueranwendungen sowie für die Nutzdatenübertragung (ground-to-air / air-to-ground) stehen verschiedene Frequenzbereiche zur Verfügung. Deren Nutzung unterliegt gewissen regulatorischen Rahmenbedingungen (technische Schnittstellenanforderungen (RIR)):
+Für obige Frequenznutzungen werden keine Konzession, keine vorgängige Meldung oder kein Fähigkeitszeugnis vorausgesetzt.
+Verwendung von Mobilfunkfrequenzen
+Grundsätzlich ist die Nutzung des Mobilfunkfrequenzspektrums auf terrestrische Anwendungen beschränkt.
+ECC Report 309
+ECC Report 348
+ECC Decision (22)07
+Auf europäischer Ebene wurden Untersuchungen durchgeführt. Dabei wurde der Betrieb von aerial user equipment (UE) an Bord von unbemannten Luftfahrzeugen (z.B. Drohnen) oder bemannten Luftfahrzeugen (z.B. Hubschrauber) vor allem für professionelle Zwecke analysiert. Die Ergebnisse wurden durch das Electronic Communications Committee (ECC) in zwei Berichten ECC Report 309 und ECC Report 348) veröffentlicht. Die Erkenntnisse aus diesen Berichten flossen in die  ein. Diese Entscheidung beschreibt die technischen Anforderungen für die Nutzung von aerial UE für die Kommunikation mittels der Mobilfunktechnologien Long Term Evolution (LTE) und 5G New Radio (5G NR) in den für mobile/fixed communications networks (MFCN) bestimmten Frequenzbändern. Die Entscheidung erfordert allerdings noch weitere Studien und Verfahren für die Umsetzung dieser Anforderungen auf nationaler Ebene.
+Das BAKOM analysiert und diskutiert derzeit mögliche Szenarien zur Umsetzung der ECC Decision (22)07 in der Schweiz. Solange die Entscheidung nicht im nationalen Rahmen (d.h. NaFZ) umgesetzt ist, ist die Nutzung von MFCN-Frequenzen für die aerial UE in der Schweiz nicht erlaubt. Dennoch kann beim BAKOM eine Funkversuchskonzession für Versuche mit aerial UE auf MFCN-Frequenzen beantragt werden. Bitte beachten Sie, dass kein Anspruch auf die Erteilung einer solchen Konzession besteht.
+Frequenzressourcen zur Verkehrsinformation und Kollisionsvermeidung
+Die hierfür verwendeten Frequenzen unterliegen gewissen regulatorischen Rahmenbedingungen (technische Schnittstellenanforderungen (RIR)):
+Für obige Frequenznutzungen werden keine Konzession, keine vorgängige Meldung oder kein Fähigkeitszeugnis vorausgesetzt.
+Richtlinie über die Verwendung von Transpondern und ADS-B für Drohnen und Modellflugzeuge
+rpas@bazl.admin.ch
+Betriebsgenehmigung nach SORA
+Funkanlage in einem Luftfahrzeug melden - Detailinformationen | eGovernment UVEK
+Antragsteller werden gebeten, sich an das BAZL rpas@bazl.admin.ch zu wenden, um die Nutzung von Transpondern und ADS-B für eine Drohne zu beantragen. Weitere Informationen finden Sie auf der Website des BAZL: Betriebsgenehmigung nach SORA "Transponder (Info)"
+Sobald das BAZL die Verwendung des Transponders und von ADS-B auf der Drohne genehmigt hat (durch Zuweisung der 24-Bit-Adresse (ICAO-Code)), muss der Antragsteller zusätzlich die Anmeldung der Funkausrüstung tätigen: .
+Die Frequenzen, die zu diesem Zweck genutzt werden, unterliegen bestimmten regulatorischen Anforderungen (technische Schnittstellenanforderungen (RIR)):
+kf-fk@bakom.admin.ch
+Bei Fragen zur Nutzung des eGovernment-Portals können Sie sich auch direkt an das BAKOM wenden 
+Frequenzressourcen zur Detektion
+Für die Detektion von Drohnen stehen gegenwärtig in der Schweiz keine Frequenzen zur Verfügung. Es sind jedoch Arbeiten im Gange, um Frequenzen für diesen Anwendungszweck zu ermitteln. Sobald diese abgeschlossen sind, werden die regulatorischen Rahmenbedingungen (technische Schnittstellenanforderungen (RIR)) definiert.
+Internationale Gremien
+ECC - Groups - ECC - ECC PT1 - News (cept.org)
+ECC Project Team 1  - 
+Das Projektteam untersucht unter anderem die Probleme, die durch die Nutzung von aerial UE in Grenzgebieten auftreten.  Ausserdem bereitet es eine Antwort auf ein Mandat der Europäischen Kommission bezüglich harmonisierter technischer und betrieblicher Bedingungen für die Nutzung aerial Terminalstationen mit nicht aktiven Antennensystemen in harmonisierten MFCN-Bändern vor.
+Dokumente
+ECC Report 268 (PDF, 2 MB, 20.05.2020)
+ECC Report 309 (PDF, 13 MB, 24.08.2020)
+ECC Report 348 (PDF, 800 kB, 30.03.2023)
+ECC Decision (22)07 (PDF, 168 kB, 19.08.2024)
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 26.03.2025
+Zum Seitenanfang

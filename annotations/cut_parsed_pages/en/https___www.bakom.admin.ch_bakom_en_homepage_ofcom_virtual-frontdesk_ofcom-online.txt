@@ -1,0 +1,17 @@
+OFCOM Online to be replaced by a new portal
+The OFCOM Online virtual frontdesk has enabled users to order and pay for products and services in the areas for which OFCOM is responsible. It will be gradually replaced by the DETEC eGovernment portal by the end of 2024.
+The DETEC eGovernment portal is the central gateway for eGovernment services from the entire Federal Department of the Environment, Transport, Energy and Communications. This department-level portal brings together the activities of the various offices, including OFCOM, and simplifies cooperation between the Confederation, the cantons, the population, businesses and other organisations. The digital services on the new portal make it easy for users to conduct their business with the authorities, wherever they are and around the clock. Telecom-related services are available since 28 February. They include services for individual numbers, short codes, number blocks and telecommunications service providers.
+Interested parties can order individual numbers, short numbers or blocks of numbers or notify radio and television programmes.  They can also report radio interference, register for radio operator exams or request an amateur radio call sign.
+Radio licences and VHF licences for short-term events must still be applied for via OFCOM Online. Holders of a license for microwave frequencies can also search for the Tx status for microwave radio sites.
+Further information
+eGovernment portal DETEC
+Submit an application for a radiocommunication licence
+Submit for attribution of a regional VHF licence for short-term events
+Online High-Low band inquiry for microwave radio sites
+Specialist staff
+
+				
+
+
+
+Last modification 28.06.2024

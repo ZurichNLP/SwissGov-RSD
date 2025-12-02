@@ -1,0 +1,24 @@
+Surveillance & contrôles
+Le spectre des fréquences est un bien naturel rare. L'OFCOM assure aux utilisateurs un accès sans perturbations à ce bien. Des appareils électriques et des installations de télécommunication peuvent avoir des effets indésirables sur le spectre des fréquences et empêcher la communication. Un appareil radio peut par exemple émettre sur des fréquences réservées aux services de sécurité, ou alors un concessionnaire utilise un nombre supérieur d'appareils autorisé par sa concession, et de ce fait, surcharge le trafic radio.
+
+Afin d'éviter ce genre et d'autres types de perturbations, l'autorisation pour la mise en service et l'exploitation d'installations et de réseaux de radiocommunication dans le domaine de la radiocommunication terrestre, maritime, aérienne ou amateur est réglementée. L'OFCOM octroie des concessions, des indicatifs d'appel et des autorisations, dans lesquels sont fixées les fréquences, ainsi que d'autres paramètres comme le nombre d'installations, la puissance d'émission et la largeur de bande occupée. Les installations de radiocommunication programmables ne doivent l'être qu'avec les fréquences décrites dans la concession. Toute modification doit être annoncée à l'OFCOM.
+
+L'OFCOM est chargé de la surveillance du spectre des fréquences et des concessions de radiocommunication. Il réalise chaque année des contrôles ponctuels, où il vérifie si:
+art. 52 LTC
+Dans le respect des bases légales, le spectre des fréquences peut être utilisé librement. Les infractions à la loi sur les télécommunications sont toutefois punies d'une amende (voir ). En cas de suspicion d'utilisation d'installations de radiocommunication non conformes, un contrôle de produit peut être effectué.
+Informations complémentaires
+Utilisation des fréquences avec ou sans concessions
+Plan national d'attribution des fréquences
+Perturbations
+Appareils non conformes
+Bases légales
+Loi sur les télécommunications (LTC)
+Ordonnance sur les installations de télécommunication (OIT)
+Ordonnance sur le spectre des fréquences de radiocommunication (OUS)
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 18.09.2023

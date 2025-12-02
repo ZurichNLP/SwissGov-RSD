@@ -1,0 +1,16 @@
+Low-voltage installations
+The Federal Ordinance on Low-Voltage Installations (SR 734.27) specifies the prerequisites for carrying out work on electrical low-voltage installations and regulates their inspections. It applies to installations that are operated with a maximum of 1,000 volts alternating current or 1,500 volts direct current, including in particular electrical installations in buildings.
+All these electrical installations have to be manufactured, modified, maintained and inspected in accordance with the recognised technical regulations. In order to ensure compliance with these and other fundamental safety requirements, the Ordinance also specifies the prerequisites for the issue (and revocation) of installation and inspection licences, the implementation of work to be carried out on relevant installations, as well as their initial and periodical inspections.
+Fact sheets (in german)
+No fact sheets
+Documents
+Adaption of the legal basis for electrical equipment and Ex-equipment
+Links
+Federal Inspectorate for Heavy Current Installations
+EIT.swiss
+VSEK
+Law
+Bundesgesetz vom 24. Juni 1902 betreffend die elektrischen Schwach- und Starkstromanlagen (Elektrizitätsgesetz, EleG)
+Verordnung vom 7. November 2001 über elektrische Niederspannungsin-stallationen (Niederspannungs-Installationsverordnung, NIV)
+Verordnung des UVEK vom 30. April 2018 über elektrische Niederspannungsinstallationen
+Last modification 15.09.2021

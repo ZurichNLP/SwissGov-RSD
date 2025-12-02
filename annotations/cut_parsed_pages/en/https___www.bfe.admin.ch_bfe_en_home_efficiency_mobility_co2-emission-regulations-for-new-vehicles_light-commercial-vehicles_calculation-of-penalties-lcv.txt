@@ -1,0 +1,19 @@
+Calculation of penalties for light commercial vehicles
+The individual target is calculated on the basis of the target value of 153.9g CO2/km and also depends on the unladen weight.
+Calculation of penalties for large importers
+If the average carbon emissions of a large importer's newly registered LCV fleet (at least six new registrations per year) exceed the individually specified target level, a penalty is levied. The parameters for calculating the 2025 target are not yet finalised. As soon as the Federal Council has adopted the implementing provisions for 2025, a calculation example for large importers will be published. These new implementing provisions are expected to come into force in the second quarter of 2025, with retroactive effect from 1 January 2025.
+Calculation of penalties for small importers
+In the case of small importers (fewer than six new registrations per year), excess emissions and the penalty are calculated individually for each van or light articulated lorry. The size of the penalty is calculated on the basis of both on the vehicle's carbon emissions and its unladen weight. This means that a vehicle may be subject to a penalty even if it does not exceed the 153.9g/km carbon emissions target. The calculation formula will be adjusted in the course of 2025 when the updated implementing provisions enter into force by Federal Council decision. The calculation tool can be used to calculate any penalty due.
+Compensation of penalties for small importers
+Small importers of LCVs may be required to pay a carbon penalty before vehicles are registered in Switzerland. A penalty is due for vehicles that exceed the CO2 emissions target. If a vehicle's emissions are below the specified target, no penalty applies. However, no bonus is paid out in this case either. Small importers have the option of assigning their emissions to a large importer. This may reduce the penalty for a high-emission vehicle or a bonus may be paid out for an efficient vehicle. The assigning importer and the large importer draw up an agreement under private law to this effect. Assignments must be reported to the SFOE before initial vehicle registration in Switzerland.
+Documents
+Calculation of penalties
+Forms and fact sheets
+Brochures and reports
+Links
+Tool for calculating the penalty for small importers LCV
+CO2 exchange (in German)
+Antrag auf Bescheinigung bezüglich Art. 23 der Verordnung über die Reduktion der CO2-Emissionen für LNF
+Law
+Ordinance on the Reduction of CO2 Emissions (CO2 Ordinance)
+Last modification 06.01.2025

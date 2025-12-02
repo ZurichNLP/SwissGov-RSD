@@ -1,0 +1,36 @@
+Cloud
+L’Amministrazione federale gestisce le sue applicazioni nei suoi centri di calcolo, in cloud privati e in cloud pubblici di diversi fornitori. È responsabilità dei Dipartimenti selezionare la soluzione adatta a ogni applicazione. Il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (TDT) fornisce a livello centrale chiarimenti giuridici, un modello dei livelli di cloud e principi in materia di cloud, affinché l’Amministrazione possa decidere in base a principi uniformi.
+Strategia cloud dell’Amministrazione federale
+Strategia cloud l’Amministrazione federale
+Con la sua  fissa il quadro per l’impiego dei cloud al suo interno. L’Amministrazione punta su una strategia multi-cloud ibrido continuando quindi a fare affidamento soprattutto sui propri centri di calcolo e sulle prestazioni dei cloud privati di proprietà della Confederazione. A questi si aggiungono servizi cloud pubblici (perciò ibridi), ottenuti da diversi fornitori di cloud pubblici (perciò multi).
+Con il progetto «Cloud pubblico della Confederazione» la Confederazione ha dato la possibilità alle sue unità amministrative di ottenere, se necessario, servizi cloud pubblici. Spetta ai Dipartimenti decidere se far funzionare un’applicazione su un cloud privato o pubblico. Il settore TDT formula tuttavia raccomandazioni e mette a disposizione alcuni ausili (vedi sotto).
+L’utilizzo di servizi cloud sostiene la trasformazione digitale dell’Amministrazione federale. I servizi cloud consentono di utilizzare in modo flessibile le tecnologie di ultima generazione. Le risorse a disposizione possono essere adattate tempestivamente in caso di oscillazioni del fabbisogno. La combinazione di cloud privati e pubblici permette di soddisfare in modo ottimale le esigenze dell’Amministrazione (per es. nei settori della sicurezza delle informazioni e della protezione dei dati, della resilienza o della forza innovativa).
+Aspetti legali
+Cloud pubblico della Confederazione
+La sicurezza delle informazioni e la protezione dei dati hanno un ruolo fondamentale in tutte le applicazioni dell’Amministrazione federale. Nel caso dei servizi cloud pubblici, l’Amministrazione deve esaminare la questione ancora più attentamente, poiché questi funzionano al di fuori dei suoi centri di calcolo. Questo comprende tra l’altro un esame dei requisiti legali, del bisogno di protezione e dei rischi. In base all’esito di questo esame, l’unità amministrativa competente decide in quale offerta cloud e con quali misure precauzionali introdurre un’applicazione. L’Amministrazione federale può far capo a strumenti consolidati come l’analisi del bisogno di protezione e il concetto in materia di protezione delle informazioni e di sicurezza dei dati. Come ausilio per la scelta del livello di cloud appropriato sono inoltre disponibili il rapporto sulle basi legali e i principi in materia di cloud della Confederazione. Si tratta di elementi fondamentali della governance del «».
+Il rapporto sulle basi legali fornisce un’analisi delle basi legali dell’utilizzo di cloud ponendo l’accento sul diritto relativo alla protezione dei dati, alla protezione delle informazioni e al segreto d’ufficio. In esso sono anche contenuti strumenti quali liste di controllo che aiutano le unità amministrative negli accertamenti che sono tenute a eseguire prima di utilizzare servizi cloud.
+Modello dei livelli di cloud
+La seguente figura illustra in modo schematico i vari livelli di cloud che possono essere scelti nell’Amministrazione federale. I livelli più bassi (I e II) comprendono i cloud pubblici, quelli più alti (III e IV) i cloud privati nei centri di calcolo dell’Amministrazione federale.
+I diversi livelli non si differenziano soltanto per le loro funzionalità, ma anche per i dati che vi sono conservati. Più il numero del livello è alto e più è di norma elevato il livello di protezione dei dati. Di conseguenza, in base a questo modello, i dati particolarmente sensibili non vengono per principio conservati nel livello I.
+Non vi è una distinzione netta tra i vari livelli. Ad esempio un’applicazione specialistica potrebbe funzionare come cloud ibrido distribuita su più livelli, in modo da conservare nel cloud privato i dati personali degni di particolare protezione e nel contempo utilizzare servizi nel cloud pubblico per i dati non sensibili.
+Swiss Government Cloud
+Swiss Government Cloud (SGC)
+Con lo  è previsto lo sviluppo di una nuova infrastruttura cloud adeguata ai requisiti e alle esigenze della Confederazione attraverso l’Ufficio federale dell’informatica e della telecomunicazione (UFIT). In conformità con la strategia cloud dell’Amministrazione federale, lo SGC comprenderà sia offerte di cloud pubblici all’interno della Confederazione sia servizi di fornitori esterni. Lo SGC coprirà i livelli I–III del modello dei livelli di cloud.
+Ulteriori informazioni
+Documenti
+Strategia cloud dell’Amministrazione federale (disponibile in tedesco e francese)
+AR010 - Principi in materia di cloud della Confederazione (in tedesco)
+Livelli di cloud dell’Amministrazione federale (versione 1.0) (PDF, 138 kB, 26.09.2022)
+Quadro legale per l’utilizzo dei servizi cloud pubblici nell’Amministrazione federale (versione 1.1, allegato A+B incluso) (in tedesco) (PDF, 277 kB, 26.09.2022)
+Allegato C: Rischi e misure concernenti il rapporto Quadro legale per l’utilizzo dei servizi cloud pubblici nell’Amministrazione federale (in tedesco) (PDF, 108 kB, 26.09.2022)
+Allegato D: Lista di controllo concernente il rapporto Quadro legale per l’utilizzo dei servizi cloud pubblici nell’Amministrazione federale (in tedesco) (PDF, 112 kB, 26.09.2022)
+Allegato E: Utilizzo di cloud nell’amministrazione federale (in tedesco) (PDF, 322 kB, 26.09.2022)
+FAQ Quadro legale per l’utilizzo dei servizi cloud pubblici nell’Amministrazione federale (in tedesco) (PDF, 127 kB, 20.12.2023)
+Media
+22.05.2024 - Il Consiglio federale adotta il messaggio concernente lo sviluppo di uno Swiss Government Cloud
+02.11.2022 - «Cloud pubblico della Confederazione»: le prestazioni possono essere acquistate
+27.09.2022 - Cloud pubblico della Confederazione: contratti firmati
+01.03.2022 - Cloud pubblico della Confederazione: si stanno negoziando i contratti con gli offerenti
+10.11.2021 - Attuazione della strategia cloud dell'Amministrazione federale: per un utilizzo ordinato ed efficiente dei cloud
+21.07.2021 - Bando di concorso dell’OMC per il Cloud pubblico della Confederazione: interposto ricorso
+Messaggio per lo specialista

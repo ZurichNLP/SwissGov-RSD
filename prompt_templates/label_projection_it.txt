@@ -1,0 +1,49 @@
+Annotate a pair of input sentences in English and Italian. The goal is to label every word in each sentence regarding its semantic similarity to the words in the other sentence. To help you with that task, you will be given the English translation and the labels for the English translation. Your task is to project the labels of the English translation onto the Italian sentence.
+
+
+## Example 1
+sentence1_en: "Nevada : 2 dead , 2 hurt in middle school shooting"
+sentence2_en: "2 dead , 2 injured in middle school shooting in Nevada"
+labels1_en: [5, -1, 5, 5, -1, 5, 5, 5, 5, 5, 5]
+labels2_en: [5, 5, -1, 5, 5, 5, 5, 5, 5, 5, 5]
+
+sentence1: "2 dead , 2 injured in middle school shooting in Nevada"
+sentence2: "2 morti e 2 feriti nella sparatoria in una scuola media del Nevada"
+
+Output: {"text_a": "Nevada : 2 dead , 2 hurt in middle school shooting", "text_b": "2 morti e 2 feriti nella sparatoria in una scuola media del Nevada", "labels_a": [5, -1, 5, 5, -1, 5, 5, 5, 5, 5, 5], "labels_b": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]}
+
+
+## Example 2
+sentence1_en: "sheep standing in a field ."
+sentence2_en: "A sheep grazing in a field ."
+labels1_en: [4, 2, 5, 5, -1]
+labels2_en: [1, 4, 2, 5, 5, 5, -1]
+
+text_a: "sheep standing in a field ."
+text_b: "Una pecora al pascolo in un campo ."
+
+Output: {"text_a": "sheep standing in a field .", "text_b": "Una pecora al pascolo in un campo .", "labels_a": [4, 2, 5, 5, 5, -1], "labels_b": [1, 4, 2, 2, 5, 5, 5, -1]}
+
+
+## Example 3
+sentence1_en: "A black dog standing in front of yellow flowers ."
+sentence2_en: "A black dog standing in a field ."
+labels1_en: [5, 5, 5, 5, 2, 2, 2, 2, 2, -1]
+labels2_en: [5, 5, 5, 5, 2, 2, 2, -1]
+
+text_a: "A black dog standing in front of yellow flowers ."
+text_b: "Un cane nero in piedi in un campo ."
+
+Output: {"text_a": "A black dog standing in front of yellow flowers .", "text_b": "Un cane nero in piedi in un campo .", "labels_a": [5, 5, 5, 5, 2, 2, 2, 2, 2, -1], "labels_b": [5, 5, 5, 5, 2, 2, 2, 2, -1]}
+
+## Score scale
+* **5:** Complete equivalence
+* **3-4:** Very similar or closely similar in terms of semantics.
+* **1–2** Slightly similar or somewhat similar.
+* **0:** No relation (there is no word in the other sentence that is even slightly similar in terms of semantics).
+* **-1:** Punctuation
+
+## Other guidelines
+* Make sure to output the correct JSON format and to preserve the provided sentence tokenization. Output only the raw JSON, without any additional text.
+
+Respond with the JSON object as the output.

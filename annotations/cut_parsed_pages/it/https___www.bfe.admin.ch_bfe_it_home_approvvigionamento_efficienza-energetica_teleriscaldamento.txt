@@ -1,0 +1,31 @@
+Teleriscaldamento (calore a distanza)
+L'idea di impiegare le eccedenze di calore provenienti dai grandi impianti di produzione di energia e di incenerimento dei rifiuti per riscaldare edifici residenziali e commerciali e soddisfare il relativo fabbisogno di calore è sensata e non è nuova. Ne sono testimoni i noti progetti di teleriscaldamento degli anni Sessanta e Settanta. Energia2000, il programma della Confederazione che ha preceduto SvizzeraEnergia, promuoveva in modo mirato l'impiego del calore residuo con il teleriscaldamento. E oggi le reti termiche tornano alla ribalta grazie all'impiego di grandi centrali termiche a legna e impianti geotermici, le acque lacustri, fluviali e sotterranee, specialmente nel settore delle energie rinnovabili.
+Il calore a distanza viene prodotto in un impianto centrale, ad esempio in una centrale termica a legna o in un impianto di incenerimento dei rifiuti o dei trucioli di legna. Successivamente viene distribuito agli utenti attraverso una rete di condutture sotto forma di acqua calda destinata al riscaldamento degli edifici e alla produzione di acqua calda.
+Le reti termiche con pompe di calore riscaldano l’acqua di riscaldamento alla temperatura richiesta, in modo centralizzato o decentrato. Le pompe di calore possono alimentare contemporaneamente anche una rete di raffreddamento e utilizzare il calore residuo della produzione di freddo ad esempio per il riscaldamento dell’acqua calda.
+Con la cogenerazione è possibile produrre contemporaneamente energia elettrica e termica da distribuire agli utenti mediante una rete di teleriscaldamento. Il calore a distanza presenta numerosi vantaggi: i relativi impianti occupano poco spazio e gli utenti non devono preoccuparsi della loro manutenzione, né tantomeno dell'acquisto e dello stoccaggio di combustibili. Inoltre, dato che possono essere alimentati con diverse fonti energetiche, i sistemi di teleriscaldamento offrono un’elevata sicurezza dell’approvvigionamento.
+Classificazione per tipo
+Classificazione per tipo
+«Rete termica» è il termine generico per «teleriscaldamento»
+Spesso il termine «Rete termica» viene utilizzato per indicare una rete a bassa temperatura (fino a 60°C), specialmente quando il calore (prelievo di calore dalla rete) e il freddo (immissione di calore nella rete) sono prodotti in modo decentrato, perlopiù con pompe di calore e macchine del freddo.
+Documenti
+Rapporti
+Banca dati Pubblicazioni "Reti termiche"
+Link
+Calore ambientale
+Reti termiche
+Geodati specifici «reti termiche»
+Réseaux Thermiques Suisse
+Società Svizzera dell'Industria del Gas e delle Acque (SSIGA)
+Energia legno Svizzera
+Geotermia-Svizzera
+Geoinformazione
+QM Chauffage à distance
+Hochschule Luzern - Thermische Netze
+Geomaps - Thermische Netze
+Messaggio per lo specialista
+
+				
+
+
+
+Ultima modifica 17.12.2020

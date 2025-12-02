@@ -1,0 +1,29 @@
+Calculs des sanctions voitures de tourisme
+La valeur cible spécifique est calculée sur la base de la valeur cible de 93,6 g de CO2/km en tenant compte du poids à vide.
+Calcul de la sanction applicable aux grands importateurs
+Si les émissions moyennes de CO2 du parc de voitures de tourisme nouvellement immatriculées d'un grand importateur excèdent la valeur cible individuelle, celui-ci doit s'acquitter d'une sanction. Les paramètres pris en compte dans le calcul des valeurs cibles prescrites pour 2025 ne sont pas encore définitivement fixés. Dès que le Conseil fédéral aura adopté les dispositions d’exécution pour l’année 2025, un exemple de calcul pour grands importateurs sera mis en ligne. Ces nouvelles dispositions d’exécution devraient entrer en vigueur au deuxième trimestre 2025, avec effet rétroactif au 1er janvier 2025.
+Calcul de la sanction applicable aux petits importateurs
+Pour les petits importateurs, le dépassement de la valeur cible et la sanction applicable sont calculés de manière individuelle pour chaque voiture de tourisme. Le montant de la sanction dépend non seulement des émissions de CO2 mais aussi du poids à vide du véhicule nouvellement immatriculé. Ainsi, la sanction peut également s’appliquer aux véhicules dont les émissions de CO2 sont inférieures à 93,6 g/km. La formule de calcul subira des modifications au cours de l’année 2025 avec l’entrée en vigueur des dispositions d’exécution actualisées décidée par le Conseil fédéral. Pour en savoir plus sur le montant des sanctions éventuelles, voir l'outil de calcul.
+Compensation de la sanction pour les petits importateurs
+Les petits importateurs de voitures de tourisme doivent acquitter le montant éventuel dû à titre de sanction pour obtenir leur immatriculation. Une sanction est applicable pour les véhicules qui excèdent la valeur cible. Si les émissions du véhicule sont inférieures à la valeur cible, aucune sanction ne s’applique, mais aucun bonus n’est versé non plus. Les petits importateurs peuvent cependant céder leurs véhicules à un grand importateur. De cette manière, il se peut que la sanction pour un véhicule à fortes émissions soit réduite ou qu'un bonus soit versé pour un véhicule efficace.
+Ces conditions sont fixées dans un accord de droit privé entre l’importateur cédant et le repreneur. La cession doit être annoncée à l’Office fédéral de l'énergie avant la première mise en circulation en Suisse.
+Documents
+Calcul des sanctions
+Formulaires et notices
+Brochures et rapports
+Liens
+Statistiques des motorisations alternatives des voitures neuves
+Etiquette-énergie pour les voitures de tourisme
+Outil de calcul pour petits importateurs VT
+Bourse CO2
+Demande d’attestation relative à l’art. 23 de l’ordonnance sur la réduction des émissions de CO2 pour VT
+Droit
+Article 74 de la Constitution fédérale - Protection de l’environnement
+Loi fédérale du 23 décembre 2011 sur la réduction des émissions de CO2 (Loi sur le CO2)
+Ordonnance sur la réduction des émissions de CO2 (Ordonnance sur le CO2)
+Ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)
+Ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers (ORT)
+Liechtensteinisches Landesgesetzblatt 814.065: Gesetz vom 16. Dezember 2009 über die Reduktion der CO2-Emissionen (CO2-Gesetz)
+Liechtensteinisches Landesgesetzblatt 814.065.12: Verordnung vom 19. Juni 2012 über die Verminderung der CO2-Emissionen von Personenwagen
+Règlement (CE) No 443/2009 établissant des normes de performance en matière d’émissions pour les voitures particulières neuves
+Dernière modification 06.01.2025

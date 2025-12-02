@@ -1,0 +1,25 @@
+Aufsicht und Kontrolle
+Das Funkspektrum ist ein knappes natürliches Gut. Das BAKOM stellt sicher, dass Nutzerinnen und Nutzer einen störungsfreien Zugang zu diesem Gut haben. Elektrische Geräte und Fernmeldeanlagen können eine unerwünschte Wirkung im Frequenzspektrum haben und die Kommunikation beeinträchtigen. So kann ein Funkgerät auf Frequenzen senden, die beispielsweise Sicherheitsdiensten vorbehalten sind. Oder eine Konzessionärin oder ein Konzessionär nutzt neben den gemeldeten Anlagen weitere Geräte, was den Funkverkehr beträchtlich steigert.
+
+Um Störungen dieser und anderer Art zu verhindern, ist die Berechtigung für das Erstellen und Betreiben von Funkanlagen und Funknetzen in den Bereichen mobiler Landfunk, Schiffs-, Flug- und Amateurfunk reglementiert. Das BAKOM erteilt Konzessionen, Rufzeichen und Bewilligungen, in denen es die Frequenzen sowie weitere Parameter, wie beispielsweise Anzahl Anlagen, Sendeleistung und die belegte Bandbreite, regelt. Programmierbare Funkanlagen sind nur mit denjenigen Frequenzen zu programmieren, die in der Konzession beschrieben sind. Kommt es zu Änderungen, sind diese dem BAKOM zu melden.
+
+Das BAKOM übt die Aufsicht über das Frequenzspektrum und die Funkkonzessionen aus. Es führt dazu jährlich Stichkontrollen durch. Dabei kontrolliert es, ob
+Art. 52 FMG
+Unter Berücksichtigung der gesetzlichen Grundlagen kann das Frequenzspektrum frei genutzt werden. Indes werden Widerhandlungen gegen das Fernmeldegesetz mit Busse bestraft (vgl. ). Bei Verdacht auf Nutzung nicht-konformer Funkanlangen kann das BAKOM eine Produktekontrolle durchführen.
+Weitere Informationen
+Frequenznutzung mit oder ohne Konzessionen
+Nationaler Frequenzzuweisungsplan
+Störungen
+Nicht-konforme Geräte
+Rechtliche Grundlagen
+Fernmeldegesetz (FMG)
+Verordnung über Fernmeldeanlagen (FAV)
+Verordnung über die Nutzung des Frequenzspektrums (VNF)
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 18.09.2023
+Zum Seitenanfang

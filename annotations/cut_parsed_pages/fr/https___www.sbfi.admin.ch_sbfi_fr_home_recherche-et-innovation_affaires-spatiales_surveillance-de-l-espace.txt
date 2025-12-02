@@ -1,0 +1,18 @@
+Surveillance de l'espace - sécurité spatiale
+© ESA
+L’exploration sûre et l’exploitation durable de l’espace nécessitent une surveillance systématique du milieu spatial. Les aspects de la sécurité et de la durabilité gagnent en importance à mesure que se généralise l’utilisation d’applications et de services basés sur des infrastructures spatiales, aussi bien à des fins scientifiques que commerciales. L’objectif du programme  «Space Safety» de l’ESA (anciennement programme «Space Situational Awareness») est de contribuer à la protection de notre planète, de l’humanité et des infrastructures terrestres et spatiales contre les menaces de l’espace. Des activités sont menées dans les domaines de la météorologie spatiale, de la protection de la planète contre les impacts d’astéroïdes, des risques de collisions de satellites avec des débris spatiaux et de l’utilisation durable de l’espace.
+© ESA
+L’ampleur même des activités spatiales conduit à une multiplication d’objets gravitant autour de la Terre, ce qui augmente le risque de collisions et représente une menace pour les satellites en fonctionnement. Le premier accident entre deux satellites opérationnels a eu lieu le 10 février 2009 à une hauteur de 776 km au-dessus de la Sibérie. Un satellite de communication privé américain a percuté un satellite militaire russe à une vitesse relative de 11,7 km/seconde.
+La météorologie de l’espace est un autre aspect important de la surveillance du milieu spatial. Les orages magnétiques peuvent endommager les instruments électroniques très sensibles et les panneaux solaires des satellites. Ils perturbent par ailleurs les systèmes de navigation et de communication modernes et peuvent même les rendre inopérants. Les courants ionosphériques constituent aussi un danger pour les infrastructures au sol, notamment pour les réseaux à haute tension et les postes électriques.
+Les impacts d’astéroïdes constituent une autre menace pour notre planète. Dans le cas de l’impact de l’astéroïde de 1908 à Toungouska (Sibérie), on suppose que l’astéroïde avait un diamètre de 60 à 100 m. Dans le cas de Tcheliabinsk en 2013, on estime que l’onde de choc qui a frappé six villes russes a été causée par un astéroïde de 20 m.
+Dans le cadre du programme  «Space Safety» de l’ESA, des satellites et des capteurs sont développés pour mieux surveiller la météo spatiale et protéger la planète contre les impacts d’astéroïdes. Il s’agit d’étendre le réseau d’observation pour la collecte de données et de développer des modèles prédictifs pour les prévisions et les avertissements. En outre, sous la conduite de la Suisse, la première mission satellite au monde pour l’enlèvement actif de débris spatiaux est en cours de développement (mission ADRIOS de l’ESA) et des technologies de capteurs sont mises au point pour la surveillance des débris spatiaux et pour l’évitement automatique des collisions.
+Des entreprises et des instituts de recherche suisses participent au programme depuis son lancement. Ils apportent le savoir-faire nécessaire en termes de développement technologique, de logiciels et de matériel, ou font valoir leurs compétences en recherche astronomique pour l’observation optique des objets proches de la Terre (débris spatiaux) et des satellites ainsi que pour l’étude de la météorologie de l’espace.
+Liens
+Programme SSA de l'ESA
+Météorologie de l'espace
+Débris spatiaux
+Contact
+SEFRI, Jürg Schopfer
+
+T +41 58 464 10 72
+Panier d'achat

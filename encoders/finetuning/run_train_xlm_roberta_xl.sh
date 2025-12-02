@@ -1,0 +1,15 @@
+python -m encoders.finetuning.train_xlm_roberta_xl \
+    --model_name_or_path facebook/xlm-roberta-xl \
+    --output_dir out/xlm-roberta-xl-rsd \
+    --learning_rate 3e-5 \
+    --num_train_epochs 4 \
+    --per_device_train_batch_size 8 \
+    --gradient_accumulation_steps 4 \
+    --per_device_eval_batch_size 16 \
+    --logging_steps 25 \
+    --evaluation_strategy steps \
+    --eval_steps 25 \
+    --save_strategy steps \
+    --load_best_model_at_end True \
+    --metric_for_best_model eval_loss \
+    --save_total_limit 1

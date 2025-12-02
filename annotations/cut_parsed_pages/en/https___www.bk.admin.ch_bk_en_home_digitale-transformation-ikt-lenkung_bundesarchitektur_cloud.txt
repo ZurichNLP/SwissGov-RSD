@@ -1,0 +1,31 @@
+Cloud
+The Federal Administration runs its applications in its own data centres, in private clouds and in public clouds drawing on several providers. It is the responsibility of the departments to select the right solution for each application. The DTI Sector provides legal clarifications, a tiered model and cloud principles centrally so that the administration can make decisions based on common principles.
+Cloud Strategy Bund
+Cloud Strategy Bund
+The framework for the use of cloud solutions in the Federal Administration is defined in the ‘’ (available in german). The government is pursuing a hybrid multi-cloud strategy and is therefore continuing to rely primarily on its own data centres and services from federally owned private clouds. These are complemented by public cloud services (hence hybrid), which are obtained from a number of public cloud providers (hence multi).
+The federal government's ‘Public Clouds Bund’ project provides its administrative units with the possibility of obtaining public cloud services if required. The decision as to whether an application runs in a private or public cloud rests with the departments. However, the DTI Sector does provide recommendations and tools (see below).
+The use of cloud services supports the digital transformation process in the Federal Administration. Cloud services enable the flexible use of the latest technologies. Capacity can be adjusted promptly to take account of fluctuating demand. The combination of private and public clouds allows optimal coverage of administration requirements (e.g. in the area of IT security and data protection, resilience and innovative strength).
+Legal considerations
+Public Clouds Bund
+Information security and data protection play a central role in all Federal Administration applications. In the case of public cloud services, the administration must exercise additional care, as these run outside its own data centres. Considerations include, among other things, an examination of the legal requirements, the need for protection and the risks. Based on this, the administrative unit concerned must decide which cloud service to use to run a particular application and what precautionary measures to take. The Federal Administration can draw on established tools such as a protection requirement analysis and an information protection and data security concept. In addition, a report on the legal basis and the federal government's cloud principles are available as aids in choosing the appropriate cloud level. They are a central element of governance pertaining to ‘’.
+The report on the legal basis provides an analysis of the legal basis for the use of cloud solutions with a focus on data protection and information protection law and professional secrecy. It also contains tools such as checklists to help administrative units with the clarifications they are obliged to make before using cloud services.
+Cloud Tier Model
+The following graphic shows the different cloud tiers that are available in the Federal Administration. The two upper tiers (I and II) are public clouds, tiers III and IV are private clouds in Federal Administration data centres.
+The various tiers differ not only in their functionalities, but also in the data held in them. Generally speaking, the higher the tier number, the higher the data protection level.  So according to the tier model, particularly sensitive data is not stored in tier I as a matter of principle.
+The tiers are not entirely distinct. For example, a specialised application could run as a hybrid cloud spread over several tiers, to keep sensitive personal data in the private cloud and at the same time use cloud services in the public cloud for non-critical data.
+Further information
+Documents
+Federal Administration Cloud Strategy (german)
+AR010 - The federal government's cloud principles (german)
+Federal Administration Cloud Tier Model (Version 1.0) (PDF, 116 kB, 30.05.2024)
+Legal framework for the use of public cloud services in the Federal Administration (german, Version 1.1) (PDF, 277 kB, 26.09.2022)
+Annex C: Risks and measures regarding report on the legal framework for the use of public cloud services in the Federal Administration (german) (PDF, 108 kB, 26.09.2022)
+Annex D: Checklist regarding report on the legal framework for the use of public cloud services in the Federal Administration (german) (PDF, 112 kB, 26.09.2022)
+Annex E: Cloud use in the Federal Administration (german) (PDF, 322 kB, 26.09.2022)
+FAQ Legal framework for the use of public cloud services in the Federal Administration (german) (PDF, 127 kB, 20.12.2023)
+Media
+27.09.2022 - «Public Clouds Bund»: Verträge sind abgeschlossen
+01.03.2022 - «Public Clouds Bund»: Verträge mit den Anbietern werden ausgearbeitet
+10.11.2021 - Bundesverwaltung setzt Cloud-Strategie um – für eine geordnete und effiziente Nutzung von Clouds
+21.07.2021 - WTO-Beschaffung Public Clouds Bund: Beschwerde eingegangen
+Specialist staff

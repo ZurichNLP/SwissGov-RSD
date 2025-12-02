@@ -1,0 +1,11 @@
+Adjustment for climatic conditions
+The level of energy consumption required for providing room heating (and to a lesser extent, hot water and process heat) depends on the existing ambient conditions. For example, more energy is required for generating heating in cold winters than in warmer periods. In order to identify long-term trends in energy consumption or emissions, it is necessary to quantify the dependence of consumption on climatic conditions and depict energy consumption levels after they have been adjusted to reflect those conditions. Special procedures have been developed for this purpose, and these are complemented by model-based estimates of (climate-related) energy consumption.
+Documents
+Adjustment for climatic conditions
+Specialist staff
+
+				
+
+
+
+Last modification 31.10.2008

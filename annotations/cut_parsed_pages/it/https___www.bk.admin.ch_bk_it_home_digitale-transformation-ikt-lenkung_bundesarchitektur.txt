@@ -1,0 +1,18 @@
+Architettura della Confederazione
+L'obiettivo dell'architettura aziendale è di riunire in un tutto funzionale le componenti, con le loro caratteristiche e relazioni, in maniera da evitare i doppioni e da semplificare la collaborazione. Questo risultato va tra l'altro raggiunto mediante l'approntamento e l'utilizzazione di standard generalmente riconosciuti.
+Organizzazione
+Lo sviluppo dell'architettura aziendale nell'ambito dell'Amministrazione federale è effettuato in un approccio federato dal settore TDT, dai dipartimenti, dagli Uffici e dai fornitori di prestazioni.
+Dipartimenti e uffici federali
+Per i loro settori di compiti principali i dipartimenti e le unità amministrative sviluppano l’architettura aziendale a livello decentralizzato.
+Uffici federali con compiti trasversali
+Gli uffici federali con compiti trasversali, come l’Amministrazione federale delle finanze (AFF) e l’Ufficio federale di topografia (swisstopo), definiscono e coordinano l’architettura aziendale per gli aspetti trasversali del loro ambito di responsabilità.
+Il settore TDT
+A livello della Confederazione il settore TDT assume il ruolo di architetto della Confederazione e mette a disposizione i metodi, i processi e gli strumenti necessari alla visualizzazione e alla realizzazione dell'architettura della Confederazione.
+Architekturboard Bund
+L'Architecture Board della Confederazione (Architekturboard Bund) è l'organo specializzato in seno al quale i beneficiari e i fornitori di prestazioni discutono le questioni rilevanti di architettura e decidono in merito alle direttive di architettura.
+Processo et metodo
+L’architettura aziendale dell’Amministrazione federale è gestita secondo il metodo TOGAF («The Open Group Architecture Framework»).
+P030 - The Open Group Architecture Framework (TOGAF)
+TOGAF è messo a disposizione e sviluppato dal consorzio The Open Group. La versione originale può essere scaricata gratuitamente dal sito del fornitore.
+TOGAF
+Messaggio per lo specialista

@@ -1,0 +1,19 @@
+Calcul des sanctions voitures de livraison et tracteurs à sellette légers
+La valeur cible individuelle est calculée sur la base de la valeur cible de 153,9 g de CO2/km et tient compte du poids à vide.
+Calcul de la sanction applicable aux grands importateurs
+Si les émissions moyennes de CO2 du parc de véhicules utilitaires légers nouvellement immatriculés d'un grand importateur (au moins six immatriculations par an) excèdent sa valeur cible individuelle, celui-ci doit s'acquitter d'une sanction. Les paramètres pris en compte dans le calcul des valeurs cibles prescrites pour 2025 ne sont pas encore définitivement fixés. Dès que le Conseil fédéral aura adopté les dispositions d’exécution pour l’année 2025, un exemple de calcul pour grands importateurs sera mis en ligne. Ces nouvelles dispositions d’exécution devraient entrer en vigueur au deuxième trimestre 2025, avec effet rétroactif au 1er janvier 2025.
+Calcul de la sanction applicable aux petits importateurs
+Pour les petits importateurs (moins de six nouvelles immatriculations par an), le dépassement de la valeur cible et la sanction applicable sont calculés de manière individuelle pour chaque voiture de livraison ou tracteur à sellette léger. Le montant d’une éventuelle sanction dépend non seulement des émissions de CO2 mais aussi du poids à vide du véhicule nouvellement immatriculé. Ainsi, un véhicule dont les émissions de CO2 sont inférieures à 153,9 g/km peut aussi être passible d'une sanction. La formule de calcul subira des modifications au cours de l’année 2025 avec l’entrée en vigueur des dispositions d’exécution actualisées décidée par le Conseil fédéral. Pour en savoir plus sur le montant des sanctions éventuelles, voir l'outil de calcul.
+Compensation de la sanction pour les petits importateurs
+Les petits importateurs de VUL doivent acquitter le montant éventuel dû à titre de sanction CO2 pour obtenir leur immatriculation. Une sanction est applicable pour les véhicules qui excèdent la valeur cible. Si les émissions du véhicule sont inférieures à la valeur cible, aucune sanction ne s’applique, mais aucun bonus n’est versé non plus. Les petits importateurs peuvent cependant céder leurs véhicules à un grand importateur. De cette manière, il se peut que la sanction pour un véhicule à fortes émissions soit réduite ou qu'un bonus soit versé pour un véhicule efficace. Ces conditions sont fixées dans un accord de droit privé entre l’importateur cédant et le repreneur. La cession doit être annoncée à l’Office fédéral de l'énergie avant la première mise en circulation en Suisse.
+Documents
+Calcul des sanctions
+Formulaires et notices
+Brochures et rapports
+Liens
+Outil de calcul pour petits importateurs VUL
+Bourse CO2
+Demande d’attestation relative à l’art. 23 de l’ordonnance sur la réduction des émissions de CO2 pour VUL
+Droit
+Ordonnance sur la réduction des émissions de CO2 (Ordonnance sur le CO2)
+Dernière modification 06.01.2025

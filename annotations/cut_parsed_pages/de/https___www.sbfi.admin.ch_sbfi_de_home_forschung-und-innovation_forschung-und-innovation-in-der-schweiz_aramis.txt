@@ -1,0 +1,22 @@
+ARAMIS
+Informationssystem über Forschung und Entwicklung
+Die Datenbank ARAMIS enthält Informationen über die Forschungsprojekte und Evaluationen, die der Bund selber durchführt oder finanziert. ARAMIS dient der Koordination der wissenschaftlichen Inhalte und der Transparenz.
+Mit dem Informationssystem ARAMIS verfolgt der Bund die folgenden Ziele:
+Bundesamt für Statistik
+Staatssekretariat für Bildung, Forschung und Innovation
+ARAMIS besteht aus einem Teil mit öffentlichen Informationen zu Projekten und Evaluationen sowie einem geschlossenen, verwaltungsinternen Bereich mit ergänzenden Informationen für das Projektmanagement.  Das Informationssystem funktioniert als eine Datenbankanwendung, in welcher alle Forschungsvorhaben, Wirksamkeitsüberprüfungen und Evaluationen der Bundesverwaltung als einzelne oder miteinander verknüpfte Projekte abgebildet sind. Die Datensätze enthalten dabei neben Grundinformationen wie Titel und Laufzeit der Projekte auch Angaben zu den Zielen und die Abschlussberichte sowie Vertragsdaten. Namentlich letztere dienen dem Bundesamt für Statistik und dem  als Grundlage für statistische und weitere Auswertungen.
+Ressortforschung des Bundes
+ARAMIS ist seit 1997 in Betrieb. Seit 2004 ist die Datenbank als ein Pfeiler in die Qualitätssicherung in der  eingebunden. Seit 2005 werden in ARAMIS alle Wirksamkeitsüberprüfungen und Evaluationen der Bundesverwaltung erfasst.
+Competence Center ARAMIS
+ARAMIS-Verordnung vom 29. November 2013
+Die Gesamtverantwortung für ARAMIS liegt beim Competence Center ARAMIS im Staatssekretariat für Bildung, Forschung und Innovation SBFI. Rechtliche Grundlage ist die .
+Externe Studien
+Weitere Studien und Berichte der Bundesverwaltung finden sich auf der Datenbank «».
+Link
+ARAMIS Internet Abfragesystem
+Kontakt
+SBFI, Thomas Boschung
+
+Leiter ARAMIS
+T +41 58 462 96 88
+Warenkorb

@@ -1,0 +1,31 @@
+District heat
+The idea of utilising surplus heat from large energy and waste incineration plants for heating purposes in residential areas and service centres is expedient, but by no means new. The district heating concepts that were developed in the 1960s and 1970s were widely known, and Energy 2000 – the predecessor of SwissEnergy – specifically promoted the utilisation of waste heat for district heating. Today, the use of large-scale wood and geothermal power plants, together with the utilisation of water from various sources (lakes, rivers and groundwater), means that thermal networks are again increasing in importance – above all in the area of renewable energy.
+District heating is produced in a central facility – e.g. a thermal power plant, a waste incineration plant or a wood-chip combustion plant. The heat is then supplied to consumers via a pipeline network in the form of hot water for heating purposes and for their hot-water supply.
+Either centrally or locally, thermal networks with heat pumps bring water required for heating purposes up to the necessary temperature. Heat pumps can also supply a refrigeration network and the resulting waste heat can be used for other purposes such as the production of hot water.
+In the case of cogeneration (or combined heat and power), electricity and heat are generated simultaneously and supplied via a district heating network.  District heating offers a variety of advantages: for example, heating systems require less space, and consumers do not have to worry about buying and storing fuels and maintenance of the heating system. Furthermore, supply security is very high, since district heating networks do not depend on a single energy source.
+Distinction by type
+Distinction by type
+"Thermal network" is the generic term for district heating.
+The term "thermal network" is frequently used to describe low-temperature networks (up to 60° C), especially when heat (extraction of heat from the network) and refrigeration (input of heat into the network) are to be provided locally, as a rule through the use of heat pumps and cooling appliances.
+Documents
+Reports
+"Thermal networks" publications database
+Links
+Ambient heat
+Thermal networks
+Geodata on thermal networks
+Thermische Netze Schweiz
+Schweizerischer Verein des Gas- und Wasserfachs (SVGW)
+Holzenergie Schweiz
+Geothermie-Schweiz
+Geoinformation
+QM District heating
+Hochschule Luzern - Thermische Netze
+Geomaps - Thermische Netze
+Specialist staff
+
+				
+
+
+
+Last modification 17.12.2020

@@ -1,0 +1,20 @@
+Linea aerea o cavo interrato
+La decisione se, al livello di rete 1 (LR1, 220kV e 380 kV), sia il caso di realizzare un elettrodotto ad alta tensione sotto forma di linea aerea o di cavo interrato deve essere presa caso per caso e sulla base di criteri oggettivi. A tale scopo l'Ufficio federale dell'energia ha messo a punto uno schema di valutazione per le linee di trasmissione che consente di esaminare le diverse varianti di corridoio e di scegliere la soluzione più adeguata. Questa procedura permette di prendere una decisione su basi oggettive, con conseguente accelerazione delle procedure di autorizzazione. Lo schema si basa su quattro «pilastri», ciascuno composto di 3-4 gruppi di criteri (sviluppo territoriale, aspetti tecnici, ambiente ed economia), che consentono di analizzare e valutare il progetto.
+Per determinare se un progetto di elettrodotto deve essere realizzato sotto forma di linea aerea o di cavo interrato per i livelli di tensione da 3 a 7 (<220 kV), è necessario calcolare il fattore dei costi aggiuntivi conformemente all’OLEl. Per determinare tale fattore, l’Ufficio federale dell’energia ha preparato una direttiva e un file Excel, da utilizzare per ogni progetto in esame.
+Documenti
+Schema di valutazione (in tedesco)
+Calcolo del fattore dei costi aggiuntivi
+Link
+Piano settoriale Elettrodotti (PSE)
+Diritto
+Legge sugli impianti elettrici, RS 734.0
+Modifica della LIE del 15 dicembre 2017
+Ordinanza sulle linee elettriche, OLEl, RS 734.31
+Ordinanza sulle linee elettriche, OLEl, RS 734.31, modifica del 3 aprile 2019
+Messaggio per lo specialista
+
+				
+
+
+
+Ultima modifica 19.07.2021

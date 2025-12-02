@@ -1,0 +1,22 @@
+Elektromagnetische Felder
+Technische Aspekte
+Bei den Auswirkungen der elektromagnetischen Wellen auf den Menschen und die Umwelt ist das BAKOM die Fachstelle des Bundes in Bezug auf die technischen Aspekte. Die Kompetenz des BAKOM liegt bei der Berechnung der Wellenausbreitung, der Messung der Feldstärke, der Durchführung von Messkampagnen und bei Fragestellungen zu Messverfahren.
+Gesundheitliche Auswirkungen
+Für Fragen zu möglichen gesundheitlichen Auswirkungen stehen Ihnen hingegen das Bundesamt für Umwelt BAFU oder das Bundesamt für Gesundheit BAG als entsprechende Fachstellen des Bundes zur Verfügung.
+5G und adaptive Antennen
+adaptiven Antennen
+Für den Ausbau von 5G setzen die Betreiber neue Antennen ein, sogenannte , die Informationen gezielt an einzelne Nutzerinnen und Nutzer übertragen, die so eine optimale Übertragungsrate erhalten. In alle anderen Richtungen wird die Sendeleistung reduziert.
+Das folgende vom BAKOM produzierte Erklärvideo veranschaulicht, wie adaptive Antennen den Empfang bei der Mobilfunknutzung verbessern und gleichzeitig die Belastung der umliegenden Orte verringern. Es verwendet die realen Parameter einer Antenne in einem Wohnquartier und zeigt anhand von Simulationen, wie sich die Funkwellen in diesem Quartier ausbreiten.
+Voraussetzungen zum Betrieb adaptiver Antennen sind erfüllt
+Die adaptiven 5G-Antennen der Mobilfunkbetreiber erfüllen die Voraussetzungen der Vollzugshilfe zur Verordnung über den Schutz vor nichtionisierender Strahlung (NISV). Dies ergab eine mehrteilige Prüfung des BAKOM bei den Netzbetreibern. Sowohl die automatische Leistungsbegrenzung wie auch die Qualitätssicherungssysteme der Antennen tragen den rechtlichen Vorgaben Rechnung. Damit können die Kantone den Einsatz adaptiver Antennen in den Mobilfunknetzen bewilligen.
+Erste Tests und Messungen des BAKOM mit adaptiven Antennen (Sommer 2020)
+Im März 2020 beauftragte das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) das BAKOM, Tests mit adaptiven Antennen durchzuführen. Der Bericht "Testkonzession und Messungen adaptive Antennen" vom 24. September 2020  hält die im Rahmen dieses Auftrags vorgenommenen Messungen und Simulationen fest.
+Mobilfunk: Die Vollzugshilfe für den Umgang mit adaptiven Antennen ist bereit
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 09.04.2025
+Zum Seitenanfang

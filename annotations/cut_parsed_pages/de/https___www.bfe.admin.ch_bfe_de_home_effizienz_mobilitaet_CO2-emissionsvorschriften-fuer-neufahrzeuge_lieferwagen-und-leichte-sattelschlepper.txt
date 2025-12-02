@@ -1,0 +1,43 @@
+Lieferwagen und leichte Sattelschlepper
+Geltungsbereich
+Den CO2-Emissionsvorschriften für LNF unterliegen gemäss CO2-Gesetz Lieferwagen und leichte Sattelschlepper, die zum ersten Mal in der Schweiz in Verkehr gesetzt werden. Als LNF gelten Fahrzeuge der Fahrzeugart 30 oder 38 mit einem Gesamtgewicht von höchstens 3.5 Tonnen. Ebenfalls unter die Vorschriften fallen Fahrzeuge mit einem emissionsfreien Antrieb und einem Gesamtgewicht von über 3.50 t bis zu 4.25 t, die abgesehen vom Gewicht der Definition des Lieferwagens entsprechen und bei denen das 3.50 t überscheitende Gewicht einzig durch das Mehrgewicht des emissionsfreien Antriebs verursacht wird.
+Fahrzeuge, die vorgängig in der Schweiz zugelassen waren, fallen nicht unter die Vorschriften. Fahrzeuge, die vor der Erstzulassung in der Schweiz bereits im Ausland zugelassen waren, fallen dann unter den Geltungsbereich der CO2-Emissionsvorschriften, wenn zwischen der Zollanmeldung in der Schweiz und der Erstzulassung im Ausland höchstens zwölf Monate liegen. Während Fahrzeuge, deren Zollanmeldung weniger als 6 Monate nach der ersten Zulassung im Ausland dem Geltungsbereich in jedem Fall unterstellt sind, wird bei Fahrzeugen, die zwischen sechs und zwölf Monaten nach ihrer Erstinverkehrsetzung im Ausland am Schweizer Zoll angemeldet werden, nach Fahrleistung zum Zeitpunkt der Zollanmeldung differenziert. Diese Fahrzeuge fallen dann unter den Geltungsbereich, wenn ihre Fahrleistung zum Zeitpunkt der Zollanmeldung (oder, falls die Fahrleistung zum Zeitpunkt der Zollanmeldung nicht erfasst ist, zum Zeitpunkt der Erstinverkehrsetzung in der Schweiz) bei weniger als 5'000 km liegt. Beträgt der km-Stand eines Fahrzeugs zum Zeitpunkt der Zollanmeldung (oder zum Zeitpunkt der Erstinverkehrsetzung in der Schweiz) hingegen mehr als 5’000 km oder liegen mehr als zwölf Monate zwischen der Erstinverkehrsetzung im Ausland und der Zollanmeldung in der Schweiz, so gilt das Fahrzeug als Occasionsfahrzeug und es fällt nicht in den Geltungsbereich der CO2-Emissionsvorschriften (Art. 17d Abs. 3 und 4 CO2-Verordnung). Ebenfalls ausgenommen sind LNF mit einem Leergewicht von über 2‘585 kg, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009 gemessen werden, sofern sie nicht ausschliesslich elektrisch angetrieben werden.
+Zielvorgabe
+Jeder Importeur hat eine für seine Neuwagenflotte spezifische CO2-Zielvorgabe (bei einem Klein- oder Einzelimporteur ist es die fahrzeugspezifische Zielvorgabe) einzuhalten. Diese Zielvorgabe wird in der Regel auf Basis des durchschnittlichen Zielwerts berechnet, wobei das Leergewicht des Fahrzeugs berücksichtigt wird (siehe FAQ). Wenn die CO2-Emissionen pro Kilometer die Zielvorgabe überschreiten, wird pro Gramm Überschreitung und Fahrzeug ein Sanktionsbetrag fällig.
+Abtretungen
+Jeder Importeur kann mit einem Grossimporteur vereinbaren, dass dieser Fahrzeuge von ihm übernimmt (sog. Abtretung, Art. 22a Abs. 1 CO2-Verordnung). Die Abtretung muss vor der Erstinverkehrssetzung in der Schweiz dem BFE gemeldet werden (Art. 22a Abs. 2). Ein Fahrzeug kann maximal einmal abgetreten werden, ein Widerruf ist nicht möglich (Art. 22a Abs. 3 CO2- Verordnung).
+eGovernment Portal UVEK
+Grundsätzlich sind Abtretungen dem BFE mittels Service über das  zu melden. In wenigen Ausnahmefällen sind Abtretungen dem BFE mittels eines Formulars zu melden (siehe Abtretungsprozess).
+Abtretungsprozess
+Weitere Informationen zu den Abtretungen: 
+Prozess für Kleinimporteure
+KDI-Portal des ASTRA
+eGovernment Portal UVEK
+Abtretungsprozess
+In einem ersten Schritt muss der Kleinimporteur die Fahrzeugdaten im KDI-Portal des ASTRA erfassen: Fahrzeugimport. Anschliessend müssen Kleinimporteure, sofern das Fahrzeug dem Geltungsbereich der CO2-Emissionsvorschriften unterstellt ist, für ihr Fahrzeug auf dem eGovernment Portal UVEK einen Antrag auf Bescheinigung stellen. Alternativ kann ein Kleinimporteur sein Fahrzeug auch auf einen Grossimporteur abtreten (weitere Informationen unter ). Eine allfällige Sanktion muss vor der ersten Zulassung in der Schweiz entrichtet werden.
+Dokumente
+Vollzugsresultate
+Das Bundesverwaltungsgericht (BVGer) hat im Jahr 2017 entschieden, dass das öffentliche Interesse an den Resultaten des Vollzugs der CO2-Emissionsvorschriften für Fahrzeuge dem Datenschutz überwiegt (Urteil A-6755/2016 vom 23. Oktober 2017). Gestützt auf dieses Urteil veröffentlicht das Bundesamt für Energie (BFE) jährlich eine Übersicht der Vollzugsresultate.
+Sanktionsberechnung
+Brancheninformation
+Broschüren und Berichte
+Formulare und Merkblätter
+Links
+Europäische Kommission - Reducing CO2 emissions from vans
+Recht
+Verordnung über die Reduktion der CO2-Emissionen (CO2-Verordnung)
+Europäische Kommission - Reducing CO2 emissions from passenger cars - Documentation
+Europäische Kommission - Reducing CO2 emissions from vans - Documentation
+Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen
+Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge
+Verordnung (EU) Nr. 253/2014 des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Änderung der Verordnung (EU) Nr. 510/2011 hinsichtlich der Festlegung der Modalitäten für das Erreichen des Ziels für 2020 zur Verringerung der CO2-Emissionen
+Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) Nr. 510/2011 hinsichtlich der Festlegung der Modalitäten für das Erreichen des Ziels für 2020 zur Verringerung der CO2-Emissionen neuer leichter Nutzfahrzeuge
+Commission Staff Working Document Impact Assessment Accompanying the documents Proposal for a regulation of the European Parliament and of the Council amending Regulation (EC) No 443/2009
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 06.01.2025
+Zum Seitenanfang

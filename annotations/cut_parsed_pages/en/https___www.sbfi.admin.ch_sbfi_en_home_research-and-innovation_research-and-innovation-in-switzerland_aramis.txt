@@ -1,0 +1,22 @@
+ARAMIS
+Research and Development Information System
+The ARAMIS database contains information regarding research projects and evaluations that are run or funded by the Confederation itself. ARAMIS serves as a tool to coordinate scientific content while providing transparency.
+The objectives pursued by the Confederation with regard to ARAMIS are as follows:
+Federal Statistical Office (FSO)
+State Secretariat for Education, Research and Innovation (SERI)
+The ARAMIS information system consists of a section with information on projects and evaluations that is intended for the general public and a section with additional information for project management that is restricted to internal administrative users. It is a database application, which lists all research projects, impact assessments and evaluations conducted within the federal administration as individual or cross-referenced projects. Each project entry includes basic information such as project title and duration as well as project objectives, final report and contractual information. The Federal Statistical Office (FSO) and the  are able to use this information, in particular the contractual information, for statistical and other assessment purposes.
+federal policy sector research
+ARAMIS has been operational since 1997. Since 2004, the ARAMIS database has served as a pillar of quality assurance in the area of . Since 2005, ARAMIS keeps a record of all impact studies and assessments carried out by the federal administration.
+ARAMIS Competence Center
+ARAMIS Ordinance of 29 November 2013
+The ARAMIS Competence Center in the State Secretariat for Education, Research and Innovation (SERI) bears overall responsibility for ARAMIS. The legal basis for ARAMIS is provided in the .
+«External studies» database
+Additional studies and reports commissioned by the federal administration can be found in the .
+Link
+ARAMIS internet request system
+Contact
+SERI, Thomas Boschung
+
+Head ARAMIS
+T +41 58 462 96 88
+Shopping cart

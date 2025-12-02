@@ -1,0 +1,52 @@
+Coordinamento territoriale: Piano settoriale Elettrodotti (PSE)
+La pianificazione settoriale è lo strumento sovraordinato di pianificazione e coordinamento della Confederazione per l’attuazione dei suoi compiti nell'ambito della pianificazione territoriale. I progetti per la costruzione di nuove linee dell’alta tensione a 220/380 kV o per l’ampliamento di quelle esistenti, che hanno un impatto rilevante sul territorio e sull’ambiente, devono di norma essere inseriti come dati acquisiti nel Piano settoriale Elettrodotti (PSE). Il PSE viene elaborato dall’Ufficio federale dell’energia (UFE), in collaborazione con l’Ufficio federale dello sviluppo territoriale (ARE). Il Consiglio federale decide in merito alla definizione di dato acquisito da inserire nel PSE. Nella procedura del piano settoriale sono coinvolti anche altri soggetti. Un ruolo importante è svolto dal gruppo di accompagnamento.
+Il gruppo di accompagnamento specifico del progetto viene coinvolto dall'UFE nell'ambito della procedura del piano settoriale. Il gruppo di accompagnamento è composto da rappresentanti dell'ARE, dell'UFAM e di eventuali altri Uffici federali interessati dal progetto, nonché della ElCom, dell'ESTI, dei Cantoni interessati, delle organizzazioni ambientaliste attive in tutta la Svizzera e dell'impresa richiedente (di norma Swissgrid SA).
+Il gruppo di accompagnamento
+Il piano settoriale è una procedura tra Autorità ed è volto a inserire un progetto nel miglior modo possibile nel paesaggio e a garantire la sua conformità ai requisiti della pianificazione territoriale e della protezione dell’ambiente. Confluiscono nella procedura anche considerazioni di natura tecnica ed economica. I soggetti privati interessati possono esprimere il proprio parere sul progetto nel quadro della procedura di audizione e di partecipazione. La procedura del piano settoriale si svolge in più fasi.
+L'impresa che presenta la domanda (di solito la Società nazionale di rete Swissgrid SA) elabora alcune varianti di possibili zone di pianificazione e conclude un accordo di coordinamento con i Cantoni interessati. In tale accordo vengono stabiliti gli obiettivi della pianificazione, le responsabilità e il calendario per le successive fasi della procedura, la partecipazione dei Comuni e la loro informazione, nonché la procedura per l'adeguamento della pianificazione cantonale. Ciò assicura che le esigenze dei Cantoni vengano prese in considerazione sin dall'inizio.
+Di seguito l'impresa richiedente avvia la procedura del piano settoriale presso l'UFE. La domanda deve essere accompagnata da una motivazione del progetto, da indicazioni sulla sua necessità, da una valutazione delle possibili zone di pianificazione e dall'accordo di coordinamento.
+L'UFE trasmette la documentazione della domanda agli Uffici rappresentati nella Conferenza della Confederazione sull’assetto del territorio (CAT), affinché presentino un parere entro due mesi.
+Una volta ricevuti i pareri, entro due mesi l’UFE istituisce un gruppo di accompagnamento. Al fine di ispezionare possibili zone di pianificazione può organizzare sopralluoghi con quest'ultimo.
+Il gruppo di accompagnamento esamina i documenti ricevuti e raccomanda una zona di pianificazione. Quest’ultima deve essere sufficientemente ampia da consentire al suo interno l’elaborazione di diversi corridoi di pianificazione.
+Sulla base della raccomandazione del gruppo di accompagnamento l’UFE redige la bozza della scheda di coordinamento e avvia la procedura di audizione e di partecipazione nei Cantoni. Nel quadro di quest'ultima i soggetti privati, le organizzazioni e le associazioni interessati possono esprimere il proprio parere sul progetto.
+A conclusione della procedura di audizione e di partecipazione l'UFE rivede la scheda di coordinamento e svolge una consultazione degli Uffici.
+Entro due mesi dalla conclusione della consultazione degli Uffici, l'UFE chiede al Consiglio federale di definire la zona di pianificazione.
+Nei casi in cui il margine per più zone di pianificazione è considerato insufficiente, l'impresa richiedente può proporre all'UFE, con l'accordo dei Cantoni interessati, una sola zona di pianificazione. Previa discussione con il gruppo di accompagnamento, l'UFE può rinunciare a una definizione formale della zona di pianificazione.
+In collaborazione con i Cantoni interessati, l'impresa richiedente elabora almeno due varianti del corridoio di pianificazione e presenta all’UFE i necessari documenti.
+L’UFE trasmette i documenti al gruppo di accompagnamento. Al fine di ispezionare i possibili corridoi di pianificazione può organizzare sopralluoghi con quest'ultimo.
+Il gruppo di accompagnamento esamina i corridoi proposti e raccomanda all’UFE uno tra questi nonché la tecnologia di trasporto da impiegare (linea aerea o cavo interrato). In questa valutazione prende in considerazione l'impatto sul territorio e sull'ambiente, gli aspetti tecnici ed economici.
+Sulla base della raccomandazione del gruppo di accompagnamento l’UFE redige la bozza della scheda di coordinamento e avvia la procedura di audizione e di partecipazione nei Cantoni.
+Infine rivede la bozza e svolge una consultazione degli Uffici.
+Entro due mesi dalla conclusione della consultazione degli Uffici, l'UFE chiede al Consiglio federale di definire il corridoio di pianificazione e la tecnologia di trasporto da impiegare.
+Il risultato di questa procedura è una scheda di coordinamento, in cui il Consiglio federale definisce un corridoio di pianificazione per il progetto della linea elettrica e la tecnologia di trasporto da utilizzare (linea aerea o cavo sotterraneo). La scheda di coordinamento è vincolante sia per l'impresa richiedente sia per le autorità federali, cantonali e comunali. Le decisioni prese dal Consiglio federale nell'ambito della procedura del piano settoriale non sono impugnabili.
+Una volta conclusasi la procedura del piano settoriale, l'impresa richiedente può procedere allo sviluppo del progetto concreto per l'elettrodotto all'interno del corridoio prestabilito e avviare la procedura di approvazione dei piani.
+In alcuni casi è possibile rinunciare alla procedura del piano settoriale. L'UFE stabilisce le eccezioni per cui è ammesso derogare all'obbligo di svolgere tale procedura.
+L’UFE verifica se un progetto riguardante una linea con una tensione nominale pari o superiore a 220 kV deve essere definito quale dato acquisito in un piano settoriale (verifica dell’obbligo del piano settoriale). Questa verifica è svolta d’ufficio oppure su richiesta dell’ESTI o della richiedente. L’UFE può esigere dall'impresa richiedente la presentazione di documenti adeguati.
+Se si può presumere che il progetto non incida considerevolmente sul territorio e sull’ambiente, lo stesso non è soggetto all’obbligo del piano settoriale. Altrimenti l'UFE verifica se sussistono i motivi per una deroga a tale obbligo e se deve essere avviata la procedura del piano settoriale.
+Le deroghe all'obbligo del piano settoriale sono descritte all'articolo 1b dell'ordinanzasulla procedura d’approvazione dei piani di impianti elettrici (OPIE; RS 734.25).
+Documenti
+Schema di valutazione per gli elettrodotti
+Documentazione relativa alle procedure del piano settoriale in corso
+Piano settoriale Elettrodotti (PSE)
+Link
+Cartina Piano settoriale elettrodotti (PSE)
+Geodati di base e modelli di geodati
+Procedura di approvazione dei piani (PAP) per gli impianti elettrici
+Società nazionale di rete Swissgrid SA
+Commissione federale dell’energia elettrica ElCom
+Ispettorato federale degli impianti a corrente forte (ESTI)
+Conferenza sull'assetto del territorio CAT
+Media
+Il Consiglio federale definisce il corridoio di pianificazione per una linea ad alta tensione nei Grigioni
+Il Consiglio federale definisce il corridoio di pianificazione per la linea ad alta tensione attraverso la Vallemaggia
+Deposito pubblico del corridoio di pianificazione per l’elettrodotto ad alta tensione tra All’Acqua e Magadino attraverso la Vallemaggia
+Il Consiglio federale adotta la revisione totale della parte concettuale del Piano settoriale Elettrodotti (PSE)
+Il Consiglio federale definisce due corridoi di pianificazione per la linea del Grimsel
+Il Consiglio federale definisce il corridoio di pianificazione per la linea ad altissima tensione nella valle della Reuss
+La linea del Grimsel sarà in gran parte interrata. Raccomandazione del gruppo di accompagnamento per la nuova linea ad altissima tensione Innertkirchen - Ulrichen
+Il DATEC avvia la procedura di consultazione relativa alla revisione della parte concettuale del Piano settoriale Elettrodotti
+Diritto
+RS 734.7 - Legge federale del 23 marzo 2007 sull'approvvigionamento elettrico (LAEI)
+RS 734.0 - Legge federale del 24 giugno 1902 concernente gli impianti elettrici a corrente forte e a corrente debole (legge sugli impianti elettrici; LIE)
+RS 734.25 - Ordinanza del 2 febbraio 2000 sulla procedura d’approvazione dei piani di impianti elettrici (OPIE)
+Ultima modifica 20.12.2024

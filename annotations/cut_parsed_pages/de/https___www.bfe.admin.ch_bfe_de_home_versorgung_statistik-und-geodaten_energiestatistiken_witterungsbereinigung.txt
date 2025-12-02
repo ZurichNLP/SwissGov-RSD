@@ -1,0 +1,12 @@
+Witterungsbereinigung
+Der Energieverbrauch zur Bereitstellung von Raumwärme (in geringem Masse auch von Warmwasser und Prozesswärme) ist von der Witterung abhängig, d.h. in kalten Wintermonaten wird mehr Energie für die Wärmeerzeugung aufgewendet als in warmen Wintern. Für die Darstellung von langfristigen Trends des Energieverbrauchs oder Emissionen ist es notwenig, die Abhängigkeit des Verbrauchs von der Witterung zu quantifizieren und witterungsbereinigte Energieverbräuche auszuweisen. Zu diesem Zweck werden Verfahren zur Witterungsbereinigung verwendet. Diese Verfahren kommen zudem bei modellbasierten Schätzungen des (witterungsabhängigen) Energieverbrauchs zur Anwendung.
+Dokumente
+Witterungsbereinigung
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 31.10.2008
+Zum Seitenanfang

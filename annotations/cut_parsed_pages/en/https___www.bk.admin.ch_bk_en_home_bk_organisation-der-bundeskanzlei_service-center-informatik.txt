@@ -1,0 +1,10 @@
+Digital Services Section
+The Digital Services Section IT and telecommunications support in the Federal Chancellery. Its provides the following services:
+Application, service and change management
+In addition to ensuring the smooth functioning of IT applications and services, we carry out modifications to applications and infrastructure, clearly and efficiently. Modifications are necessary when user requirements change or there are technological updates to the ICT infrastructure.
+Projects
+The Digital Services Section provides project leaders for IT projects, either to deal with the technical aspects or, when necessary, to manage a complete project. Depending on their scope, projects are run internally or with external partners.
+Architecture and security
+IT architecture ensures that individual applications are compatible, interfaces function and similar tasks are solved in the same way technically, thereby avoiding redundancies. IT security ensures that federal security guidelines are respected in IT projects and that the systems run by our service providers are state of the art and have no security flaws.
+ICT risk management is a further security task.
+Specialist staff

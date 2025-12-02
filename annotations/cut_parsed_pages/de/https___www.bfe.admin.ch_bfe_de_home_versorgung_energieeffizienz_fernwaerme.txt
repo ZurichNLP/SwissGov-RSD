@@ -1,0 +1,32 @@
+Fernwärme
+Die Idee, Wärmeüberschüsse aus grossen Energie- und Kehrichtverbrennungsanlagen für die Beheizung und den Wärmebedarf in Siedlungen und Dienstleistungszentren zu nutzen, ist erstens sinnvoll und zweitens nicht neu. Die Fernwärmekonzepte der 1960-er und 1970-er Jahre waren berühmt, Energie2000, das Vorgängerprogramm von EnergieSchweiz, förderte die Abwärmenutzung mit Fernwärme gezielt. Und heute erhalten die Thermischen Netze vor dem Hintergrund des Einsatzes von grösseren Holz- und Geothermie-Kraftwerken, See-, Fluss- und Grundwassernutzungen eine erneute Aktualität – vor allem im Bereich der erneuerbaren Energien.
+Fernwärme wird in einer zentralen Anlage – zum Beispiel einem Heizkraftwerk, einer Abfall- oder Holzschnitzel-Verbrennungsanlage – erzeugt. Die Wärme wird den Kunden in Form von heissem Wasser über ein Rohrleitungsnetz zum Heizen und zur Warmwasser-Aufbereitung zugeleitet.
+Thermische Netze mit Wärmepumpen erwärmen entweder zentral oder dezentral das Heizungswasser auf die nötige Temperatur. Wärmepumpen können gleichzeitig auch ein Kältenetz versorgen und die Abwärme aus der Kälteproduktion z.B. für die Warmwassererwärmung verwenden.
+Bei der Wärmekraftkopplung (WKK) werden gleichzeitig Strom und Heizwärme erzeugt und den Kunden durch ein Fernwärmenetz zugeführt. Fernwärme hat viele Vorteile: Fernwärmeheizungen brauchen wenig Platz und der Kunde muss sich nicht um Einkauf und Lagerung von Brennstoffen oder die Wartung kümmern. Zudem ist die Versorgungssicherheit hoch, weil Fernwärmesysteme mit verschiedenen Energien betrieben werden können.
+Typisierung
+Typisierung
+Thermische Netze stehen als Oberbegriff für Fernwärme.
+Der Begriff «thermisches Netz» wird häufig für Niedertemperaturnetze (bis 60°C) verwendet. Dies insbesondere, wenn Wärme (Wärmeentzug aus dem Netz) und Kälte (Wärmeeintrag ins Netz) dezentral bereitgestellt wird, meist durch Wärmepumpen und Kältemaschinen.
+Dokumente
+Berichte
+Datenbank Publikationen "Thermische Netze"
+Links
+Umgebungswärme
+Thermische Netze
+Geofachdaten «Thermische Netze»
+Thermische Netze Schweiz
+Schweizerischer Verein des Gas- und Wasserfachs (SVGW)
+Holzenergie Schweiz
+Geothermie-Schweiz
+Geoinformation
+QM Fernwärme
+Hochschule Luzern - Thermische Netze
+Geomaps - Thermische Netze
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 17.12.2020
+Zum Seitenanfang

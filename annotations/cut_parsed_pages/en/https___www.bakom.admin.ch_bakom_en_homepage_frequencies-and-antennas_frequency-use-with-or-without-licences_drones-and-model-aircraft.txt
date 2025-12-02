@@ -1,0 +1,56 @@
+Drones and model aircraft
+Drones are remote-controlled, usually small aircraft. Legally they are equivalent to model aircraft and are considered to be radio equipment. The number of drones operated commercially and privately in Switzerland is continuously increasing.
+The Federal Office of Civil Aviation (FOCA) is responsible for the development of aviation and the supervision of civil aviation in Switzerland:
+FOCA Homepage
+Drones fall within OFCOM’s area of responsibility with regard to regulation of the frequency spectrum and of radio equipment if they contain a radio transmitter and or receiver
+Specialist contact for frequencies and radio licenses:
+kf-fk@bakom.admin.ch
+Compliance of drones
+here
+A drone – provided that it contains a radio transmitter and/or receiver - is a radio equipment. The legal requirements for market access (e.g. offering, selling, hiring, placing on the market) and the conformity of radio equipment are described .
+here
+Information on buying radio equipment abroad for personal use or resale in Switzerland can be found .
+Technical contact for market access and conformity:
+ra-mk@bakom.admin.ch
+Use of frequency resources
+Frequencies are required for command and control applications and for the transmission of user data as well as for traffic information and collision avoidance systems
+The available frequencies usually have to be shared with other users. Since no dedicated frequency resources are currently available for drones, interference-free operation cannot be guaranteed. Work is currently underway at the international level to resolve this issue.
+Frequency resources for control and communication (command and control) and for the transmission of payload data
+Various frequency ranges are available for command and control applications and for user data transmission (ground-to-air/air-to-ground). Their use is subject to specific regulatory framework requirements (radio interface regulations (RIR)):
+No license, prior notification or certificate of proficiency is required for the above frequency usage.
+Frequency resources for traffic information and collision avoidance
+The frequencies used for this purpose are subject to certain regulatory framework requirements (radio interface regulations (RIR)):
+No license, prior notification or certificate of proficiency is required for the above frequency usage.
+Directive on the use of transponders and ADS-B for drones and model aircraft
+rpas@bazl.admin.ch
+Operational Authorization based on SORA
+Applicants are requested to contact FOCA rpas@bazl.admin.ch with a request for transponder and ADS-B use on a drone. For more information on the FOCA website:  "Transponder (Info)"
+Notify radio equipment in an aircraft - Detailed information | eGovernment DETEC
+Once FOCA has authorized the use of the transponder and ADS-B on the drone (by allocating the 24-bit address (ICAO code)), the applicant has to apply for the notification of the radio equipment at: .
+The frequency used for this purpose are subject to certain regulatory framework requirements (radio interface regulations (RIR)):
+kf-fk@bakom.admin.ch
+For questions about the use of the eGovernment portal, you can you also contact OFCOM directly 
+Frequency resources for detection
+No frequencies are currently available in Switzerland for the detection of drones. However, work is underway to identify frequencies for this application. As soon as these have been completed, the regulatory framework (radio interface regulations (RIR)) will be defined.
+Use of mobile radio frequencies
+ECC Report 309
+ECC Report 348
+ECC Decision (22)07
+In principle, the use of mobile radio spectrum is limited to terrestrial applications.
+ Investigations have been undertaken at European level to allow the operation of aerial user equipment (UE) either on board an unmanned aircraft (e.g., drones) or on board a manned aircraft (e.g., helicopters), mainly for professional purposes. The results were published by the Electronic Communications Committee (ECC) in two reports: in ECC Report 309 and ECC Report 348. The findings of the reports were used to develop the , which outlines the technical requirements for using aerial UE for communication based on Long Term Evolution (LTE) and 5G New Radio (5G NR) in specific frequency bands for mobile/fixed communications networks (MFCN). The decision still requires further studies and procedures for implementation at the national level.
+OFCOM is currently analysing and discussing the implications of implementing the ECC Decision (22)07 in Switzerland. Until the decision is not implemented into the national framework (namely NaFZ), the use of MFCN frequencies for aerial UE is not permitted in Switzerland. Nevertheless, a trial licence can be requested to OFCOM for trials with aerial UE at MFCN frequencies. Please be advised that there is no entitlement to the granting of such a licence.
+International bodies
+ECC - Groups - ECC - ECC PT1 - News (cept.org)
+ECC Project Team 1  - 
+The Project Team is examining, among other things, the issues due to usage of aerial UE in border areas.  As well as preparing a response to the European Commission Mandate regarding harmonised technical and operational conditions for the usage of non-active antenna systems with aerial terminal stations in harmonised MFCN bands.
+Documents
+ECC Report 309 (PDF, 13 MB, 24.08.2020)
+ECC Report 348 (PDF, 800 kB, 30.03.2023)
+ECC Decision (22)07 (PDF, 168 kB, 19.08.2024)
+Specialist staff
+
+				
+
+
+
+Last modification 26.03.2025

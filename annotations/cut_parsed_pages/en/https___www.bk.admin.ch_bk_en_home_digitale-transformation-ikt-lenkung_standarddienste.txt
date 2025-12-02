@@ -1,0 +1,8 @@
+Standard ICT Services
+ICT services required by the different units of the Federal Administration with the same or similar level of functionality and quality are managed centrally for the entire Federal Administration and provided as standard services by the Digital Transformation and ICT Steering Sector (DTI).
+The administrative units can choose between different specifications (proposed services) of standard ICT services. In accordance with the Ordinance on Digital Transformation and Information Technology, the Federal Chancellor defines the standard services that must be acquired.
+The DTI Sector also provides standard services. This means that it operates a centralised requirements and service provider management at federal level. The functionalities to be covered along with the sourcing, ordering and invoicing of services are defined In consultation with the departments and submitted to the Federal Chancellor.
+The principle of standard services allows for more effective steering and management of a substantial interdepartmental sub-segment of IT services by the Federal Council, and ultimately also enables synergies to be exploited and IT costs to be reduced.
+Current standard ICT services
+The DTI manages the following standard ICT services (SS):
+Specialist staff

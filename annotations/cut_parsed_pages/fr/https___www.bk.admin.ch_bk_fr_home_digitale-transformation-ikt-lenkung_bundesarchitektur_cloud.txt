@@ -1,0 +1,36 @@
+Informatique en nuage
+Pour ses applications, l’administration fédérale utilise ses propres centres de données, des nuages privés et les nuages publics de plusieurs fournisseurs. Chaque département doit choisir la solution qui convient le mieux à chacune de ses applications. Afin que l’administration puisse prendre des décisions selon les mêmes règles, le secteur TNI met à la disposition de tous des clarifications juridiques, une classification et des principes relatifs à l’informatique en nuage.
+Stratégie d’informatique en nuage de la Confédération
+stratégie d’informatique en nuage de la Confédération
+La  définit un cadre pour l’utilisation de nuages informatiques dans l’administration fédérale. L’administration mise sur une stratégie de nuage hybride multi-cloud et donc principalement sur ses propres centres de données et sur les nuages privés de la Confédération. Cette offre est complétée par les nuages publics (d’où le terme hybride) de plusieurs fournisseurs (d’où le terme multi).
+La Confédération a lancé le projet « Public Clouds Confédération » pour permettre à son administration d’acheter des services issus de nuages publics en cas de besoin. Mais la décision d’utiliser une application dans un nuage public ou privé appartient toujours aux départements. Le secteur TNI se contente de fournir des recommandations et des outils (voir ci-dessous).
+L’utilisation de l’informatique en nuage contribue à la transformation numérique de l’administration fédérale, car elle permet un meilleur usage des dernières technologies. Elle permet aussi d’adapter rapidement les capacités requises en cas de variation des besoins. La combinaison de nuages publics et privés couvre particulièrement bien l’ensemble des exigences de l’administration, notamment pour ce qui est de la sécurité de l’information, de la protection des données, de la résilience et de l’innovation.
+Aspects juridiques
+Public Clouds Confédération
+Sécurité de l’information et protection des données jouent un rôle crucial dans toutes les applications de l’administration fédérale. Lorsque l’administration travaille dans des nuages publics, elle doit être particulièrement attentive à cet aspect, étant donné que les services ne fonctionnent pas dans ses propres centres de données. Elle doit notamment faire attention au cadre réglementaire, au besoin de protection et aux risques encourus. Après analyse de ces aspects, l’unité administrative concernée choisit l’offre de nuage qu’elle veut utiliser pour son application et définit les mesures à prendre. Dans ce contexte, l’administration peut recourir à des outils éprouvés tels que l’analyse du besoin de protection et les plans de sécurité des données et de protection de l’information. Parmi les autres outils disponibles pour choisir un nuage du bon niveau, il y a aussi le rapport sur les bases juridiques et les principes de la Confédération sur le sujet. Ces principes sont un élément essentiel de la gouvernance relative au projet «  ».
+Le rapport sur les bases juridiques analyse les bases sur lesquelles repose l’utilisation des nuages informatiques principalement du point de vue de la protection des données, de la sécurité de l’information et du secret de fonction. Il contient aussi des outils tels que des listes de contrôle visant à aider les unités administratives à évaluer les conditions qu’elles doivent respecter pour pouvoir utiliser de tels nuages.
+Niveaux de l’informatique en nuage
+Le schéma ci-après montre les différents niveaux de l’informatique en nuage proposés dans l’administration fédérale. Les niveaux I et II correspondent aux nuages publics et les niveaux III et IV aux nuages privés gérés dans les centres de données de la Confédération.
+Les différents niveaux se distinguent non seulement par leurs fonctionnalités, mais aussi par le type de données qu’ils contiennent. En général, plus le niveau est élevé, plus le besoin de protection des données est important. Selon le modèle proposé, les données particulièrement sensibles ne sont ainsi en principe pas stockées au niveau I.
+La limite entre les différents niveaux n’est cependant pas strictement définie. Il se peut par exemple qu’une application fonctionne en mode hybride sur des nuages de différents niveaux, avec des données sensibles stockées dans un nuage privé et des services qui utilisent des données non critiques proposés dans un nuage public.
+Swiss Government Cloud
+Swiss Government Cloud (SGC)
+De 2025 à 2032, l’Office fédéral de l’informatique et de la télécommunication (OFIT) mettra en place le , une infrastructure en nuage capable de répondre aux exigences et aux besoins de la Confédération. Ainsi que le prévoit la stratégie d’informatique en nuage de l’administration fédérale, cette infrastructure comprendra un nuage privé développé en interne et un nuage public mis à disposition par des fournisseurs externes. Le SGC couvrira les niveaux I à III du modèle d’informatique en nuage.
+Informations complémentaires
+Documents
+SB020 - Stratégie d’informatique en nuage de l’administration fédérale
+AR010 – Principes relatifs à l’informatique en nuage
+Informatique en nuage de la Confédération: les différents niveaux (version 1.0) (PDF, 140 kB, 26.09.2022)
+Cadre juridique pour l'utilisation de services d’informatique en nuage public au sein de l'administration fédérale (version 1.1, compris annexe A et B) (PDF, 546 kB, 15.06.2023)
+Annexe C: Aperçu des risques et des mesures (PDF, 223 kB, 15.06.2023)
+Annexe D: Cadre juridique pour l’utilisation de services d’informatique en nuage public au sein de l’administration fédérale (PDF, 193 kB, 15.06.2023)
+Annexe E: Aperçu de l’utilisation de l’informatique en nuage dans l’administration fédérale (PDF, 314 kB, 15.06.2023)
+FAQ concernant le rapport « Cadre juridique pour l’utilisation de services d’informatique en nuage public au sein de l’administration fédérale » (PDF, 137 kB, 20.12.2023)
+Médias
+22.05.2024 - Le Conseil fédéral adopte le message concernant la mise en place d’un Swiss Government Cloud
+02.11.2022 - « Public Clouds Confédération » : les prestations peuvent être commandées
+27.09.2022 - Les contrats du projet « Public Clouds Confédération » sont signés
+01.03.2022 - « Public Clouds Confédération » – préparation des contrats avec les fournisseurs
+10.11.2021 - L’administration fédérale met en œuvre la Stratégie d’informatique en nuage en vue d’une utilisation efficace et ordonnée de services dématérialisés
+21.07.2021 - Dépôt d’un recours contre l’acquisition OMC « Public Clouds Confédération »
+Contact spécialisé

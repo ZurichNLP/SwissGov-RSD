@@ -1,0 +1,17 @@
+Sektion Digitale Dienste
+Die Sektion Digitale Dienste unterstützt die Bundeskanzlei bei der Aufgabenerfüllung durch Informatik und Telekomunikation und bietet Informatik-Wissen an. Das Aufgabengebiet umfasst folgende Bereiche:
+Applikations- Service- und Changemanagement
+Mit dem Applikations- und Servicemanagement wird das nachhaltige
+Funktionieren der Anwendungen und Dienste sichergestellt. Das Changemanagement sorgt dafür, dass Anpassungen an Anwendungen und Infrastrukturen geordnet und nachvollziehbar durchgeführt werden. Hauptauslöser von Changes sind geänderte Anforderungen der Benutzenden oder technologische Erneuerung der IKT-Infrastrukturen, welche durch die Anwendungen genutzt werden.
+Projekte
+Für die Abwicklung von Informatikprojekten, stellt die Sektion DD Projektleiter
+- für den technischen Bereich, und bei Bedarf auch für die gesamte
+Projektleitung - zur Verfügung. Die Realisierung der Projekte wird je nach
+Umfang intern oder in Zusammenarbeit mit externen Partnern sichergestellt.
+Architektur und Sicherheit
+Mit der IT-Architektur wird erreicht, dass die einzelnen Anwendungen
+zusammen passen, die Schnittstellen funktionieren und gleiche Aufgaben
+technisch gleich gelöst werden und Doppelspurigkeiten vermieden werden.
+Die IT-Sicherheit sorgt dafür, dass die Sicherheitsvorgaben des Bundes
+in den Projekten eingehalten werden und dass die von den Leistungserbringern betriebenen Systeme auf dem aktuellen Stand sind und die Sicherheitslücken geschlossen werden. Weiter gehört das IKT-Risikomanagement zu den Aufgaben der Sicherheit
+Fachkontakt

@@ -1,0 +1,18 @@
+Plateforme de données pour le secteur de l’électricité
+La plateforme de données (Datahub) dans le secteur de l'électricité sert d’infrastructure nationale  pour les données énergétiques suisses. Son objectif est de garantir un échange performant et sûr entre les acteurs du système énergétique en réunissant les entreprises d'approvisionnement en électricité, les groupes-bilan, la société nationale du réseau de transport et les consommateurs finaux au sein d’une infrastructure commune. La structure, les devoirs et les fonctionnalités de la plateforme de données sont régis par la loi sur l'approvisionnement en électricité, LApEl et son ordonnance, OApEI et précisés de manière détaillée dans les directives de la branche. Elle permettra aux consommateurs suisses de bénéficier d'un accès uniformisé à leurs données énergétiques. Ils pourront ainsi gérer de manière simple et sécurisée l’accès à leurs données et les partager avec des fournisseurs de services tiers indépendants afin de bénéficier de nouveaux services numériques innovants. La plateforme est une étape importante pour l'innovation numérique dans le secteur de l'énergie.
+Vous trouverez plus d’informations sur la demande d’approbation pour la constitution de la plateforme de données dans le communiqué de presse (lien) et les documents mis à disposition ci-dessous.
+Documents
+Liens
+Directives concernant l’échange de données standardisé sur la plateforme de données nationale (EDSP) - Recommandation de la branche
+Médias
+Nouvelle plateforme de données pour le secteur de l’électricité: le DETEC lance l’appel à candidatures
+Droit
+Loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)
+Ordonnance du 14 mars 2008 sur l’approvisionnement en électricité (OApEl) et l'ordonnance révisée sur l'énergie
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 03.03.2025

@@ -1,0 +1,36 @@
+Cloud
+Die Bundesverwaltung betreibt ihre Anwendungen in eigenen Rechenzentren, in Private Clouds und in Public Clouds von mehreren Anbietern. Es liegt in der Verantwortung der Departemente, für jede Anwendung die richtige Lösung auszuwählen. Der Bereich DTI stellt zentral rechtliche Abklärungen, ein Stufenmodell und Cloud-Prinzipien zur Verfügung, damit die Verwaltung nach einheitlichen Grundsätzen entscheiden kann.
+Cloud-Strategie Bund
+Cloud-Strategie Bund
+Den Rahmen für den Einsatz der Cloud in der Bundesverwaltung setzt die . Die Verwaltung setzt auf eine Hybrid-Multi-Cloud-Strategie und damit weiterhin primär auf eigene Rechenzentren und Leistungen aus bundeseigenen Private Clouds. Ergänzend dazu kommen Public-Cloud-Dienste zum Einsatz (daher Hybrid), welche von mehreren (daher Multi) Public-Cloud-Anbietern bezogen werden.
+Mit dem Vorhaben «Public Clouds Bund» hat der Bund für seine Verwaltungseinheiten die Möglichkeit geschaffen, bei Bedarf Public-Cloud-Leistungen zu beziehen. Der Entscheid, ob eine Anwendung in der Private oder Public Cloud läuft, liegt bei den Departementen. Der Bereich DTI stellt jedoch Empfehlungen und Hilfsmittel bereit (siehe unten).
+Der Einsatz von Cloud-Diensten unterstützt die digitale Transformation der Bundesverwaltung. Cloud-Dienste ermöglichen die flexible Nutzung neuester Technologien. Die Kapazität kann bei schwankendem Bedarf zeitnah angepasst werden. Die Kombination von Private- und Public-Clouds ermöglicht die optimale Abdeckung von Anforderungen der Verwaltung (z.B. im Bereich Informationssicherheit und Datenschutz, Resilienz oder Innovationskraft).
+Rechtliche Fragen
+Public Clouds Bund
+Informationssicherheit und Datenschutz spielen bei allen Anwendungen der Bundesverwaltung eine zentrale Rolle. Bei Public-Cloud-Diensten muss die Verwaltung das Thema mit zusätzlicher Sorgfalt prüfen, da diese ausserhalb der eigenen Rechenzentren laufen. Dazu gehört unter anderem eine Prüfung der rechtlichen Vorgaben, des Schutzbedarfs und der Risiken. Basierend darauf entscheidet die zuständige Verwaltungseinheit, in welches Cloud-Angebot und mit welchen vorkehrenden Massnahmen sie eine Anwendung einführt. Die Bundesverwaltung kann dabei auf etablierte Werkzeuge wie Schutzbedarfsanalyse und Informationsschutz- und Datensicherheitskonzept zurückgreifen. Darüber hinaus stehen als Hilfsmittel bei der Wahl der richtigen Cloud-Stufe der Bericht zu den Rechtsgrundlagen sowie die Cloud-Prinzipien des Bundes zur Verfügung. Sie sind ein zentrales Element der Governance zu «».
+Der Bericht zu den Rechtsgrundlagen liefert eine Analyse der rechtlichen Grundlagen der Cloud-Nutzung mit den Schwerpunkten Datenschutzrecht, Informationsschutzrecht und Amtsgeheimnis. Er enthält zudem Hilfsmittel wie Checklisten, die den Verwaltungseinheiten bei den Abklärungen helfen, zu denen sie vor der Nutzung von Cloud-Diensten verpflichtet sind.
+Cloud-Stufen-Modell
+Die folgende Abbildung zeigt schematisch die verschiedenen Cloud-Stufen, die in der Bundesverwaltung zur Auswahl stehen. Die zwei oberen Stufen I und II sind Public Clouds, die Stufen III und IV sind Private Clouds in Rechenzentren der Bundesverwaltung.
+Die verschiedenen Stufen unterscheiden sich nicht nur in ihren Funktionalitäten, sondern auch in den Daten, die darin gehalten werden. Je höher die Stufenzahl, desto höher ist in der Regel die Schutzstufe der Daten. So werden besonders sensible Daten gemäss dem Stufen-Modell grundsätzlich nicht in der Stufe I gespeichert.
+Die Stufen sind nicht absolut trennscharf. Beispielsweise könnte eine Fachanwendung als Hybrid-Cloud über mehrere Stufen verteilt laufen, um besonders schützenswerte Personendaten in der Private Cloud zu halten und gleichzeitig für unkritische Daten Cloud-Services in der Public Cloud zu nutzen.
+Swiss Government Cloud
+Swiss Government Cloud (SGC)
+Mit der  soll in den Jahren 2025 bis 2032 durch das Bundesamt für Informatik und Telekommunikation (BIT) eine neue, auf die zukünftigen Anforderungen und Bedürfnisse des Bundes zugeschnittene Cloud-Infrastruktur aufgebaut werden. Im Einklang mit der Cloud-Strategie der Bundesverwaltung soll sie sowohl bundesinterne Private-Cloud-Angebote als auch von externen Anbietern bereitgestellte Public-Cloud-Dienste in sich vereinen. Die SGC deckt die Stufen I bis III des Cloud-Stufen-Modells ab.
+Weiterführende Informationen
+Dokumente
+SB020 - Cloud-Strategie der Bundesverwaltung
+AR010 – Cloud-Prinzipien der Bundesverwaltung
+Cloud-Stufen der Bundesverwaltung (Version 1.0) (PDF, 146 kB, 26.09.2022)
+Rechtlicher Rahmen für die Nutzung von Public-Cloud-Diensten in der Bundesverwaltung (Version 1.1, inkl. Anhänge A und B) (PDF, 277 kB, 26.09.2022)
+Anhang C Risiken und Massnahmen zum Bericht Rechtlicher Rahmen für die Nutzung von Public-Cloud-Diensten in der Bundesverwaltung (PDF, 108 kB, 26.09.2022)
+Anhang D Checkliste zum Bericht Rechtlicher Rahmen für die Nutzung von Public-Cloud-Diensten in der Bundesverwaltung (PDF, 112 kB, 26.09.2022)
+Anhang E Cloud-Nutzung in der Bundesverwaltung (PDF, 322 kB, 26.09.2022)
+FAQ Bericht rechtlicher Rahmen für die Nutzung von Public Cloud Diensten in der Bundesverwaltung (PDF, 127 kB, 20.12.2023)
+Medien
+22.05.2024 - Bundesrat verabschiedet Botschaft zum Aufbau einer Swiss Government Cloud
+02.11.2022 - «Public Clouds Bund»: Leistungen können bezogen werden
+27.09.2022 - «Public Clouds Bund»: Verträge sind abgeschlossen
+01.03.2022 - «Public Clouds Bund»: Verträge mit den Anbietern werden ausgearbeitet
+10.11.2021 - Bundesverwaltung setzt Cloud-Strategie um – für eine geordnete und effiziente Nutzung von Clouds
+21.07.2021 - WTO-Beschaffung Public Clouds Bund: Beschwerde eingegangen
+Fachkontakt

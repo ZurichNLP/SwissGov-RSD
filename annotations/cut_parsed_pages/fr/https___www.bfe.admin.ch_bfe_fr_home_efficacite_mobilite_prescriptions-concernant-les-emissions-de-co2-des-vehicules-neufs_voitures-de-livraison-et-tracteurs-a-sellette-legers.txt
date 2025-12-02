@@ -1,0 +1,42 @@
+Voitures de livraison et tracteurs à sellette légers
+Champ d’application
+Selon la loi sur le CO2, les prescriptions relatives aux émissions de CO2 des véhicules utilitaires légers (VUL) sont applicables aux voitures de livraison et aux tracteurs à sellette légers mis en circulation pour la première fois en Suisse. Sont considérés comme véhicules utilitaires légers les véhicules des catégories 30 ou 38 dont le poids total n'excède pas 3,5 tonnes (t). La présente ordonnance considère aussi les véhicules équipés d’un système de propulsion à émission nulle et dont le poids total dépasse 3,50 t mais n’excède pas 4,25 t, qui, mis à part le poids, correspondent à la définition d’une voiture de livraison et dont le surplus de poids au-delà de 3,50 t n’est dû qu’au système de propulsion à émission nulle.
+Ces prescriptions ne concernent pas les véhicules déjà immatriculés en Suisse. Les véhicules déjà immatriculés à l’étranger avant leur première immatriculation en Suisse entrent dans le champ d’application des prescriptions concernant les émissions de CO2 si au maximum douze mois se sont écoulés entre leur première immatriculation à l’étranger et leur déclaration en douane suisse. Les véhicules dont la déclaration en douane suisse a lieu moins de six mois après la première immatriculation à l’étranger sont soumis aux prescriptions dans tous les cas. Quant aux véhicules déclarés à la douane suisse entre six et douze mois suivant leur première mise en circulation à l’étranger, c’est leur kilométrage qui est déterminant. Si le kilométrage au moment de la déclaration (ou au moment de la première mise en circulation en Suisse si le kilométrage n’est pas relevé au moment de la déclaration en douane en Suisse) est inférieur à 5000 km, ils sont soumis aux prescriptions. Si le kilométrage d’un véhicule est supérieur à 5000 km au moment de la déclaration en douane (ou au moment de la première mise en circulation en Suisse) ou s’il s’est écoulé plus de douze mois entre la première mise en circulation à l’étranger et la déclaration en douane en Suisse, le véhicule est considéré comme un véhicule d’occasion et n’entre pas dans le champ d’application des prescriptions concernant les émissions de CO2 (art. 17d, al. 3 et 4, ordonnance sur le CO2). Ne sont pas non plus assujettis à ces prescriptions les VUL dont le poids à vide est supérieur à 2585 kg, qui ont été évalués selon la procédure de mesure pour les voitures automobiles lourdes prévue dans le règlement (CE) n° 595/2009 et dont le type de propulsion n’est pas exclusivement électrique.
+Objectifs
+Chaque importateur doit respecter une valeur cible spécifique à son parc de voitures neuves (pour un petit importateur ou un importateur individuel, il s'agit de la valeur cible spécifique à chaque véhicule). Généralement, cette valeur cible est calculée sur la base de la valeur cible moyenne et tient compte du poids à vide du véhicule (voir FAQ). Si les émissions de CO2 par kilomètre excèdent la valeur cible, une sanction est appliquée par gramme en trop et par véhicule.
+Cessions
+Tout importateur peut convenir de la reprise de ses véhicules (cession, art. 22a, al. 1, ordonnance sur le CO2) avec un grand importateur. La cession doit être annoncée à l’Office fédéral de l'énergie (OFEN) avant la première immatriculation en Suisse des véhicules concernés (art. 22a, al. 2). Les véhicules ne peuvent être cédés qu’une seule fois. Une cession ne peut pas être révoquée (art. 22a, al. 3, ordonnance sur le CO2).
+portail eGovernment DETEC
+Les cessions doivent en principe être annoncées à l’OFEN par le biais des services disponibles sur le . Dans quelques cas exceptionnels, les cessions doivent être annoncées à l’OFEN au moyen d’un formulaire (voir processus de cession).
+Processus de cession
+Information complémentaire sur les cessions: 
+Procédure pour les petits importateurs
+portail de l’Office fédéral des routes
+portail eGovernment DETEC
+processus de cession
+Les petits importateurs doivent tout d’abord saisir les données relatives au véhicule sur le portail de l’Office fédéral des routes dédié aux petits importateurs directs: Importation d’un véhicule. Si le véhicule entre dans le champ d’application des prescriptions en matière d’émissions de CO2, ils doivent ensuite soumettre une demande d'attestation pour leur véhicule sur le portail eGovernment DETEC. Alternativement, un petit importateur peut aussi céder son véhicule à un grand importateur (le  fournit plus d’informations à ce sujet). En cas de sanction, ils doivent acquitter le montant dû avant la première immatriculation en Suisse.
+Documents
+Résultats d'exécution
+En 2017, le Tribunal administratif fédéral (TAF) a décidé que l'intérêt public pour l'exécution des prescriptions concernant les émissions de CO2 pour les véhicules l'emporte sur la protection des données (arrêt A-6755/2016 du 23 octobre 2017). Sur la base de cet arrêt, l'Office fédéral de l'énergie (OFEN) publie chaque année un aperçu des résultats d'exécution.
+Calcul des sanctions
+Informations à la branche
+Brochures et rapports
+Formulaires et notices
+Liens
+Commission européenne - Reducing CO2 emissions from vans
+Droit
+Ordonnance sur la réduction des émissions de CO2 (Ordonnance sur le CO2)
+Commission européenne - Reducing CO2 emissions from passenger cars - Documentation
+Commission européenne - Reducing CO2 emissions from vans - Documentation
+Règlement (CE) n° 595/2009 du Parlement Européen et du Conseil du 18 juin 2009 relatif à la réception des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) et à l’accès aux informations sur la réparation et l’entretien des véhicules
+Règlement (CE) n° 715/2007 du Parlement européen et du Conseil du 20 juin 2007 relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l'entretien des véhicules
+Règlement (UE) no 253/2014 du Parlement Européen et du Conseil du 26 février 2014 modifiant le règlement (UE) no 510/2011 en vue de définir les modalités permettant d’atteindre l’objectif de 2020 en matière de réduction des émissions de CO2 des véhicules
+Proposition de Règlement du Parlament Européen et du Conseil modifiant le règlement (UE) n° 510/2011 en vue de définir les modalités permettant d’atteindre l’objectif de 2020 en matière de réduction des émissions de CO2 des véhicules utilitaires légers neufs
+Commission Staff Working Document Impact Assessment Accompanying the documents Proposal for a regulation of the European Parliament and of the Council amending Regulation (EC) No 443/2009
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 06.01.2025

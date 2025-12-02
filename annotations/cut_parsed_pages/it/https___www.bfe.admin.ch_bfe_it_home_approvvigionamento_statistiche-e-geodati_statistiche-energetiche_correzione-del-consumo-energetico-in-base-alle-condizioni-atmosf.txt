@@ -1,0 +1,11 @@
+Correzione del consumo energetico in base alle condizioni atmosferiche
+Il consumo energetico necessario per il riscaldamento (in misura minore anche per la preparazione dell'acqua calda e per il calore di processo) dipende dalle condizioni atmosferiche, infatti nei mesi invernali freddi si consuma più energia per la produzione di calore rispetto ai mesi invernali più miti. Per rappresentare le tendenze a lungo termine del consumo energetico e delle emissioni, è necessario quantificare la dipendenza del consumo dalle condizioni atmosferiche e indicare un consumo energetico corretto in base alle condizioni atmosferiche. A tale scopo, vengono utilizzati processi di correzione degli effetti delle condizioni atmosferiche. Essi sono applicati anche nel caso di stime basate su modelli di consumo energetico (legato alle condizioni atmosferiche).
+Documenti
+Correzione del consumo energetico in base alle condizioni atmosferiche
+Messaggio per lo specialista
+
+				
+
+
+
+Ultima modifica 31.10.2008

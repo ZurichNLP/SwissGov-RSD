@@ -1,0 +1,41 @@
+Autofurgoni e trattori a sella leggeri
+Campo di applicazione
+Secondo la legge sul CO2, le prescrizioni sulle emissioni di CO2 per autofurgoni e trattori a sella leggeri sono applicabili ai veicoli di questo tipo immatricolati per la prima volta in Svizzera. Sono considerati autofurgoni e trattori a sella leggeri i veicoli del tipo 30 o 38 con un peso complessivo non superiore a 3,5 tonnellate. Sottostanno alle prescrizioni anche i veicoli con una trazione a zero emissioni e un peso complessivo oltre 3,5 t ma non superiore a 4,25 t che, a prescindere dal peso, corrispondono alla definizione di autofurgone e il cui peso superiore a 3,5 t sia dovuto unicamente al peso aggiuntivo della trazione a zero emissioni.
+Non rientrano nel campo di applicazione delle prescrizioni i veicoli precedentemente immatricolati in Svizzera. I veicoli già immatricolati all’estero precedentemente alla prima immatricolazione in Svizzera rientrano nel campo di applicazione delle prescrizioni solo se l’immatricolazione all’estero risale al massimo a 12 mesi prima della dichiarazione doganale in Svizzera. I veicoli la cui dichiarazione doganale avviene meno di sei mesi dopo la prima immatricolazione all’estero rientrano in ogni caso nel campo di applicazione delle prescrizioni; invece, per i veicoli che vengono dichiarati alla dogana in Svizzera tra i sei mesi e i 12 mesi dopo la prima immatricolazione all’estero si differenzia in base al chilometraggio raggiunto al momento della dichiarazione doganale. Infatti, questi veicoli rientrano nel campo di applicazione delle prescrizioni se il loro chilometraggio al momento della dichiarazione doganale (oppure al momento della prima immatricolazione in Svizzera, qualora il chilometraggio non venisse registrato al momento della dichiarazione doganale) è inferiore a 5000 km. Se invece il chilometraggio è superiore a 5000 km al momento della dichiarazione doganale (o al momento della prima immatricolazione in Svizzera) o se intercorrono più di 12 mesi tra la prima immatricolazione all’estero e la dichiarazione doganale in Svizzera, il veicolo è considerato veicolo d’occasione e non rientra nel campo d’applicazione delle prescrizioni sulle emissioni di CO2 (art. 17d cpv. 3 e 4 dell’ordinanza sul CO2). Sono esclusi anche gli autofurgoni e i trattori a sella leggeri con un peso a vuoto di oltre 2585 kg misurati secondo la procedura per i veicoli pesanti di cui al regolamento (CE) N. 595/2009, a condizione che non siano a trazione esclusivamente elettrica.
+Obiettivo
+Ogni importatore è tenuto a rispettare uno specifico obiettivo individuale di CO2 per il suo parco veicoli nuovi (nel caso di un piccolo importatore o di un singolo importatore si tratta dell’obiettivo specifico del veicolo). Di regola tale obiettivo è calcolato sulla base del valore obiettivo medio, tenendo conto del peso a vuoto del veicolo (cfr. FAQ). Se le emissioni di CO2 per chilometro superano l’obiettivo, gli importatori sono tenuti a pagare una sanzione per ogni grammo in eccesso di ciascun veicolo.
+Cessioni
+Ogni importatore può concordare con un grande importatore che quest’ultimo rilevi da lui veicoli (cosiddetta cessione, art. 22a cpv. 1 dell’ordinanza sul CO2). La cessione deve essere notificata all’UFE precedentemente alla prima immatricolazione in Svizzera (art. 22a cpv. 2 dell’ordinanza sul CO2). Un veicolo può essere ceduto una sola volta; la revoca di una cessione non è possibile (art. 22a cpv. 3 dell’ordinanza sul CO2).
+portale eGovernment DATEC
+In linea di principio, le cessioni devono essere notificate all’UFE tramite gli appositi servizi del . In pochi casi speciali, le cessioni devono essere notificate all’UFE tramite un modulo (v. processo relativo alle cessioni).
+Processo relativo alle cessioni
+Per ulteriori informazioni sulle cessioni: 
+Procedura per i piccoli importatori
+portale eGovernment DATEC
+Processo relativo alle cessioni
+In una prima fase i piccoli importatori devono registrare i dati dei veicoli sul portale KDI dell’USTRA: Importazione di veicoli. Successivamente, nel caso in cui il veicolo sia soggetto al campo di applicazione delle prescrizioni sulle emissioni di CO2, i piccoli importatori devono presentare una domanda di attestazione per tale veicolo sul portale eGovernment DATEC. In alternativa, un piccolo importatore può anche cedere il proprio veicolo a un grande importatore (ulteriori informazioni su: ). Un’eventuale sanzione deve essere pagata prima della prima immatricolazione in Svizzera.
+Documenti
+Risultati dell'attuazione
+Nel 2017 il Tribunale amministrativo federale (TAF) ha deciso che l'interesse pubblico ai risultati dell'attuazione delle prescrizioni sulle emissioni di CO2 per i veicoli sulla protezione dei dati (sentenza A-6755/2016 del 23 ottobre 2017). In ottemperanza a tale sentenza, l'Ufficio federale dell'energia (UFE) pubblica annualmente un quadro dei risultati dell'attuazione.
+Calcolo delle sanzioni
+Informazioni per il settore
+Opuscoli e rapporti
+Moduli e schede informative
+Link
+Commissione europea - Reducing CO2 emissions from vans
+Diritto
+Ordinanza sulla riduzione delle emissioni di CO2 (Ordinanza sul CO2)
+Commissione europea - Reducing CO2 emissions from passenger cars - Documentation
+Commissione europea - Reducing CO2 emissions from vans - Documentation
+Regolamento (CE) n. 595/2009 del Parlamento Europeo e del Consiglio del 18 giugno 2009 relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo
+Regolamento (CE) n. 715/2007 del Parlamento europeo e del Consiglio, del 20 giugno 2007, relativo all’omologazione dei veicoli a motore riguardo alle emissioni dai veicoli passeggeri e commerciali leggeri (Euro 5 ed Euro 6) e all’ottenimento di informazioni sulla riparazione e la manutenzione del veicolo
+Regolamento (UE) n. 253/2014 del Parlamento Europeo e del Consiglio del 26 febbraio 2014 che modifica il regolamento (UE) n. 510/2011 al fine di definire le modalità di conseguimento dell’obiettivo del 2020 di ridurre le emissioni di CO2 dei veicoli commerciali leggeri nuovi
+Proposta di Regolamento del Parlamento Europeo e del Consiglio che modifica il regolamento (UE) n. 510/2011 al fine di definire le modalità di conseguimento dell’obiettivo del 2020 di ridurre le emissioni di CO2 dei nuovi veicoli commerciali leggeri
+Commission Staff Working Document Impact Assessment Accompanying the documents Proposal for a regulation of the European Parliament and of the Council amending Regulation (EC) No 443/200
+Messaggio per lo specialista
+
+				
+
+
+
+Ultima modifica 06.01.2025

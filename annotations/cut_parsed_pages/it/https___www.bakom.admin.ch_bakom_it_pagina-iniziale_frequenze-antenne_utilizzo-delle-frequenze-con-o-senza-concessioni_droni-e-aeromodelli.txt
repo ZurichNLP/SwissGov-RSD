@@ -1,0 +1,56 @@
+Droni e aeromodelli
+I droni sono aeromobili telecomandati, generalmente di piccole dimensioni. Giuridicamente sono equiparabili agli aeromodelli e sono considerati impianti radio. In Svizzera il numero di droni a uso commerciale e privato è in costante aumento.
+L'Ufficio federale dell'aviazione civile (UFAC) è responsabile della strategia e della politica aeronautica e della sorveglianza dell'aviazione civile in Svizzera:
+UFAC Homepage
+A livello di regolamentazione dello spettro delle frequenze e degli impianti radio, i droni sono di competenza dell'UFCOM:
+Informazioni su frequenze e concessioni di radiocomunicazione:
+kf-fk@bakom.admin.ch
+Conformità dei droni
+Qui
+Un drone, se contiene un trasmettitore e/o un ricevitore radio, è considerato un impianto radio.  vengono descritti i requisiti legali per l'accesso al mercato (ad es. offerta, vendita, noleggio, immissione in commercio) e la conformità degli impianti radio.
+qui
+Informazioni relative all’acsto all'estero di impianti di radiocomunicazione per uso proprio o per la rivendita in Svizzera si trovano .
+Informazioni sull’accesso al mercato e conformità:
+ra-mk@bakom.admin.ch
+Impiego delle frequenze
+Le frequenze sono necessarie per il comando, il controllo e la trasmissione dati da e verso un drone, nonché per le informazioni sul traffico e per i sistemi di prevenzione delle collisioni.
+Le frequenze disponibili devono generalmente essere condivise con altri utenti. Dato che attualmente non sono disponibili frequenze destinate esclusivamente ai droni, non è possibile garantire un funzionamento senza interferenze. A livello internazionale sono in corso lavori volti a risolvere questa problematica.
+Frequenze necessarie al comando e alla comunicazione (command and control) e alla trasmissione dati (payload)
+Sono disponibili diverse gamme di frequenza per il comando, il controllo e la trasmissione dati da e verso un drone (terra-aria / aria-terra). Il loro utilizzo è soggetto a determinate regolamentazioni (prescrizioni tecniche applicabili alle interfacce [RIR]):
+Gli utilizzi di cui sopra non presuppongono una concessione, una notifica preliminare o un certificato di capacità.
+Frequenze per l’informazione sul traffico e per la prevenzione delle collisioni
+L'utilizzo delle frequenze per l’informazione sul traffico e per i sistemi di prevenzione delle collisioni è soggetto a determinate regolamentazioni (prescrizioni tecniche applicabili alle interfacce (RIR)):
+Gli utilizzi di cui sopra non presuppongono una concessione, una notifica preliminare o un certificato di capacità.
+Direttiva sull'utilizzo di transponder e ADS-B per droni e aeromodelli
+rpas@bazl.admin.ch
+Autorizzazione operativa basata sulla metodologia SORA
+I richiedenti sono pregati di contattare l'UFAC rpas@bazl.admin.ch per richiedere l'uso di transponder e ADS-B su un drone. Maggiori informazioni sul sito web dell'UFAC:  "Transponder (Info)"
+Notificare impianti radio in un aeromobile - Informazioni di dettaglio | eGovernment DATEC
+Una volta che l'UFAC ha autorizzato l'uso del transponder e dell'ADS-B sul drone (assegnando l'indirizzo a 24 bit (codice ICAO)), il richiedente deve richiedere la notifica dell'apparecchiatura radio presso: .
+Le frequenze utilizzate a questo scopo sono soggette a determinati requisiti normativi (prescrizioni tecniche applicabili alle interfacce (RIR)):
+kf-fk@bakom.admin.ch
+Per domande sull'utilizzo del portale di eGovernment, può anche contattare direttamente l'UFCOM 
+Frequenze per il rilevamento
+Attualmente in Svizzera non sono disponibili frequenze per il rilevamento di droni. Tuttavia, sono in corso lavori per individuare frequenze a tale scopo. Una volta conclusi, sarà definito il quadro normativo (prescrizioni tecniche applicabili alle interfacce (RIR)).
+Utilizzo delle frequenze di radiocomunicazione mobile
+ECC Report 309
+ECC Report 348
+ECC Decision (22)07
+In linea di principio, l'uso dello spettro radio mobile è limitato alle applicazioni terrestri.
+ A livello europeo sono state intraprese delle ricerche per consentire l'utilizzo di apparecchiature aerial user equipment (UE) sia a bordo di velivoli senza pilota (ad esempio, droni) sia a bordo di velivoli con equipaggio (ad esempio, elicotteri), principalmente per scopi professionali. I risultati sono stati pubblicati dal Electronic Communications Committee (ECC) in due rapporti: il ECC Report 309 e il ECC Report 348. I risultati dei rapporti sono stati utilizzati per sviluppare la , che delinea i requisiti tecnici per l'utilizzo di apparecchiature aerial UE per comunicazioni basate su Long Term Evolution (LTE) e 5G New Radio (5G NR) in bande di frequenza specifiche per le reti di comunicazione mobile/fixed communications networks (MFCN). La decisione richiede ulteriori studi e procedure di attuazione a livello nazionale.
+ L'UFCOM sta attualmente analizzando e discutendo le implicazioni dell'attuazione della decisione  in Svizzera. Fino a quando la decisione non sarà implementata nel quadro nazionale (ovvero PNAF), l'uso delle frequenze MFCN per le aerial UE non è consentito in Svizzera. Tuttavia, è possibile richiedere all'UFCOM una licenza di prova per l'utilizzo di frequenze MFCN. Ti informiamo che non esiste alcun diritto alla concessione di tale licenza.
+Organi internazionali
+ECC - Groups - ECC - ECC PT1 - News (cept.org)
+ECC Project Team 1  - 
+Il gruppo di progetto sta esaminando, tra le altre cose, le problematiche legate all'utilizzo di aerial UE nelle aree di confine.  Inoltre, sta preparando una risposta a un mandato della Commissione Europea riguardante le condizioni tecniche e operative armonizzate per l'utilizzo di stazioni terminali aerial con sistemi di antenne non attive nelle bande MFCN armonizzate.
+Documenti
+ECC Report 309 (PDF, 13 MB, 24.08.2020)
+ECC Report 348 (PDF, 800 kB, 30.03.2023)
+ECC Decision (22)07 (PDF, 168 kB, 19.08.2024)
+Messaggio per lo specialista
+
+				
+
+
+
+Ultima modifica 26.03.2025

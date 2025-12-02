@@ -1,0 +1,25 @@
+Sanktionsberechnung schwere Nutzfahrzeuge
+Sanktionsberechnung schwere Nutzfahrzeuge
+Für schwere Nutzfahrzeuge gelten gemäss CO2-Gesetz ab 1. Januar 2025 CO2-Zielwerte. Diese sind als prozentuale Reduktion gegenüber den Ausgangswerten gemäss der EU-Regelung festgelegt. Die Importeure von Fahrzeugen erhalten jährlich eine individuelle Zielvorgabe, die sich vom Zielwert und den Eigenschaften ihrer zugelassenen Fahrzeuge ableitet. Hält die Neuwagenflotte bzw. das Fahrzeug eines Importeurs die Zielvorgabe nicht ein, so wird für jedes Fahrzeug eine von der Überschreitung abhängige Sanktion fällig.
+Individuelle Zielvorgabe
+Die Berechnungsformel für die Zielvorgabe von schweren Nutzfahrzeugen entspricht den Bestimmungen der EU, welche die Fahrzeuge nach ihrer technischen Beschaffenheit bzw. nach dem Einsatzzweck in neun Untergruppen unterteilt.
+Die Ausgangswerte für die Berechnung der Zielvorgabe in Gramm CO2 je Tonnenkilometer sind branchenweit pro Untergruppe definiert. Die Zielvorgabe für Neuwagenflotten wird auf dieser Basis als einzelne Zahl für jeden Importeur berechnet unter Verwendung der Untergruppenanteile in seiner eigenen Neuwagenflotte im jeweiligen Jahr und fixen Gewichtungsfaktoren für Kilometerleistung und Nutzlast gemäss der Verordnung (EU) 2019/1242.
+Ausgangswerte je Untergruppe
+Die Ausgangswerte für die Berechnung der individuellen Zielvorgabe sind jene gemäss der EU-Regelung, publiziert im Durchführungsbeschluss (EU) 2021/781.
+CO2-Emissionen von schweren Nutzfahrzeugen
+Die CO2-Emissionen eines schweren Nutzfahrzeugs werden anhand des VECTO-Simulationsverfahrens ermittelt. Der sanktionsrelevante Emissionswert wird unter Berücksichtigung des Gewichtungsfaktors für Kilometerleistung und Nutzlast und der anrechenbaren synthetischen Treibstoffe berechnet. Bei Neuwagenflotten mit mehreren Fahrzeugen gilt der Durchschnitt der CO2-Emissionen, zudem kommt hier eine Erleichterung zum Tragen, falls die Neuwagenflotte die Schwellenwerte für elektrische Fahrzeuge nach Artikel übererfüllt.
+Sanktionsberechnung
+Überschreiten die durchschnittlichen CO2-Emissionen der neu zugelassenen SNF-Flotte eines Grossimporteurs (mindestens zwei Neuzulassungen pro Jahr) seine individuelle Zielvorgabe, ist eine Sanktion in Abhängigkeit der Überschreitung und der Anzahl Fahrzeuge zu entrichten.
+Abtretung von Fahrzeugen
+Importeure von SNF müssen eine allfällige CO2-Sanktion nach Beendigung des jeweiligen Referenzjahres entrichten. Für Fahrzeuge, die den Zielwert überschreiten, wird eine Sanktion fällig. Unterschreitet ein Fahrzeug die Zielvorgabe, fällt keine Sanktion an. Es wird in diesem Fall jedoch auch kein Bonus ausbezahlt. Importeure haben die Möglichkeit, ihre Fahrzeuge einem Grossimporteur abzutreten. Dadurch reduziert sich möglicherweise die Sanktion für ein emissionsstarkes Fahrzeug, bzw. ein Bonus auf ein effizientes Fahrzeug wird ausbezahlt. Diese Bedingungen sind eine privatrechtliche Vereinbarung zwischen dem abtretenden und dem übernehmenden Importeur. Die Abtretung muss vor der Erstinverkehrssetzung in der Schweiz dem BFE auf dem eGovernment Portal UVEK gemeldet werden.
+Dokumente
+Links
+eGovernment Portal UVEK
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 28.11.2024
+Zum Seitenanfang

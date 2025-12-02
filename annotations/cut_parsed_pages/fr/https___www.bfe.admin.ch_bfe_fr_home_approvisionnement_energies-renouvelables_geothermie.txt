@@ -1,0 +1,33 @@
+Géothermie
+L'énergie géothermique désigne l'énergie stockée sous forme de chaleur dans le sous-sol. À environ 15 m de profondeur déjà, la température du sol est constante toute l'année. En Suisse, de manière générale, la température dans le sol augmente d’environ 30°C par kilomètre de profondeur. La température qui règne à 5000 mètres de profondeur avoisine 160°C. Des quantités considérables de chaleur sont disponibles avec une température supérieure à 40°C (soit à des profondeurs supérieures à 1 km). Cette énergie géothermique est exploitée à l'aide de différentes méthodes.
+On utilise généralement des sondes géothermiques verticales, des puits d'eau souterraine, des géostructures (fondations sur pieux, parois moulées) et l'eau chaude de tunnels au moyen de pompes à chaleur à des fins de chauffage et, parfois, de refroidissement. L'OFEN publie chaque année dans ses statistiques sur les énergies renouvelables l'énergie thermique produite à partir de ces sources. Une partie de cette énergie est également produite de manière centralisée et distribuée à un réseau de consommateurs de chaleur via un réseau thermique.
+En réalisant des forages profonds, on peut atteindre des ressources suffisamment chaudes pour être utilisées directement (sans pompe à chaleur) pour la production de chaleur, notamment pour l’alimentation des réseaux de chauffage à distance urbains. Avec des températures de plus de 100°C, on peut également produire de l'électricité et utiliser la chaleur résiduelle à des fins de chauffage. Lorsque les ressource en eau souterraine (aquifères) ne sont pas disponibles, la chaleur et l’électricité peuvent être produites à partir de roches cristallines sèches au moyen de systèmes EGS (Enhanced Geothermal Systems).
+Alors que la géothermie alimente déjà un réseau de chauffage à distance en Suisse (Riehen, BS), aucune électricité d'origine géothermique n'y est pour l'heure produite. Un des principaux obstacles au développement de la géothermie de moyenne à grande profondeur réside dans le fait que les connaissances des profondeurs du sous-sol sont très limitées. Pour cette raison, les projets d’utilisation directe de la géothermie pour la production de chaleur et d’électricité peuvent profiter de contributions pour la recherche des ressources géothermiques depuis le 1.1.2018. De plus, les projets de production d’électricité disposent également d'une garantie pour la géothermie financée par le fonds alimenté par le supplément perçu sur le réseau.  Des contributions ont déjà été octroyées pour des projets de production de chaleur et d’électricité qui sont en cours de réalisation.
+En tout état de cause, la Suisse dispose d'un très important potentiel géothermique, en particulier pour la production d'électricité géothermique à partir de la technologie EGS. Les perspectives offertes par cette source d'énergie propre, inépuisable et permanente sont séduisantes: exempte de CO2, elle fournit de l'énergie locale 24h/24h, 365j/an sans prendre de place.
+Documents
+Généralités
+Géothermie de faible profondeur
+Géothermie de grande profondeur
+Liens
+Promotion de la géothermie
+Étude de TA-SWISS: Energy from the Earth: Deep Geothermal as a Resource for the Future?
+Contributions relativ à la Géothermie sur le Blog Energeia
+Géothermie-Suisse. L’association faîtière des acteurs de la géothermie en Suisse
+TRANSFER le programme de retour d’expériences et de partage de connaissances
+Médias
+Géothermie: Le comité de patronage de la Confédération en visite sur le site du forage de Haute-Sorne
+Projet de géothermie de Haute-Sorne: décision engageante du Gouvernement jurassien
+Le projet géothermique de SIG reçoit une contribution à la prospection
+Augmentation de la contribution à l’exploration du projet de géothermie de Geo-Energie Suisse AG à Haute-Sorne
+Contribution à la recherche de ressources géothermiques octroyée pour un projet à Riehen (BS)
+Projet de Haute-Sorne: octroi d’une contribution à la recherche de ressources géothermiques
+Droit
+Ordonnance sur l'énergie du 1er novembre 2017 (OEne)
+Ordonnance sur la réduction des émissions de CO2 (Ordonnance sur le CO2)
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 09.09.2024

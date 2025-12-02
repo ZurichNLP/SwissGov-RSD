@@ -1,0 +1,20 @@
+Lignes aériennes ou souterraines
+La question de savoir s'il faut pour le niveau de réseau 1 (NR1, 220kV et 380kV) enterrer les lignes à très haute tension ou réaliser des lignes aériennes doit être tranchée au cas par cas sur la base de critères objectifs. L'Office fédéral de l'énergie a développé à cette fin un système d'évaluation pour les lignes de transport d'électricité. L'objectif principal de ce système est d'analyser les différents corridors potentiels et de définir la variante la plus appropriée. Ce procédé permet de prendre une décision objective et d'accélérer les procédures d'autorisation. Le système se compose de quatre volets comportant chacun trois à quatre groupes de critères (développement du territoire, technique, environnement et économie) selon lesquels les projets sont analysés et évalués.
+Pour déterminer si un projet de ligne électrique doit être réalisé sous forme de ligne aérienne ou souterraine pour les niveaux de tension 3 à 7 (<220 kV) le facteur de surcout doit être calculé conformément à l’OLEl. Pour déterminer ce facteur, l'Office fédéral de l'énergie a développé une directive et un fichier Excel qui doivent être utilisés pour chaque projet concerné.
+Documents
+Système d'évaluation (en allemand)
+Calcul du facteur de surcoût
+Liens
+Plan sectoriel des lignes de transport d’électricité (PSE)
+Droit
+Loi sur les installations électriques, LIE, SR734.0
+Modification de la LIE du 15 décembre 2017
+Ordonnance sur les lignes électriques, OLEl, SR 734.31
+Ordonnance sur les lignes électriques, OLEl, SR 734.31, modification du 3 avril 2019
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 19.07.2021

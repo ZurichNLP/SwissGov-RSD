@@ -1,0 +1,24 @@
+Penalty calculation for heavy-duty vehicles
+Penalty calculation for heavy-duty vehicles
+Under the CO2 Act, CO2 targets apply to heavy-duty vehicles (HDVs) as of 1 January 2025. These are defined as a percentage reduction against the reference values of the relevant EU regulation. Vehicle importers are given an individual target each year based on the target value and the properties of their registered vehicles. If the new vehicle fleet or an importer's vehicle does not meet the target, a penalty is payable for each vehicle based on the amount by which the target is exceeded.
+Individual targets
+The method for calculating the target for HDVs is based on EU provisions which categorise vehicles into nine subgroups according to their technical characteristics or intended use.
+The reference values for calculating targets in grams of CO2 per tonne-kilometre are defined industry-wide for each subgroup. The target for fleets of new vehicles is calculated on this basis as a single figure for each im-porter using the sub-group's share of its own fleet of new vehicles in the respective year and fixed mileage and payload weighting factors in accord-ance with Regulation (EU) 2019/1242.
+Reference values per sub-group
+The reference values for calculating individual targets are those set out in the table published in Implementing Decision (EU) 2021/781.
+Heavy-duty vehicle CO2 emissions
+The CO2 emissions of a heavy-duty vehicle are determined using the VEC-TO simulation tool. The emission value relevant for penalties is calculated taking into account the mileage and payload weighting factor and the syn-thetic fuels that count. For new vehicle fleets with several vehicles, the aver-age of the CO2 emissions is used; additionally, relief applies if the new vehicle fleet exceeds the threshold values for electric vehicles under Article 26c of the CO2 Ordinance.
+Calculating penalties
+If the average CO2 emissions of a large-scale importer's newly registered HDV fleet (at least six new registrations per year) exceed the individually specified target, a penalty must be paid based on the extent of the excess and the number of vehicles.
+Vehicle assignments
+HDV importers must pay any CO2 penalty after the end of the respective reference year. A penalty is due for vehicles that exceed the CO2 emissions target. If a vehicle's emissions are below the specified target, no penalty applies. However, no bonus is paid out in this case either. Importers have the option of assigning their vehicles to a large-scale importer. This may reduce the penalty for a high-emission vehicle or a bonus may be paid out for an efficient vehicle. The assigning importer and the large-scale importer draw up an agreement under private law to this effect. Assignments must be reported to the SFOE on the DETEC eGovernment portal before the vehicle is first registered in Switzerland.
+Documents
+Links
+DETEC eGovernment portal
+Specialist staff
+
+				
+
+
+
+Last modification 28.11.2024

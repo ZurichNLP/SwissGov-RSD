@@ -1,0 +1,20 @@
+Sanktionsberechnung Lieferwagen und leichte Sattelschlepper
+Die individuelle Zielvorgabe wird auf Basis des Zielwerts von 153.9 g CO2/km unter Berücksichtigung des Leergewichts berechnet.
+Sanktionsberechnung für Grossimporteure
+Überschreiten die durchschnittlichen CO2-Emissionen der neu zugelassenen LNF-Flotte eines Grossimporteurs (mindestens sechs Neuzulassungen pro Jahr) seine individuelle Zielvorgabe, ist eine Sanktion zu entrichten. Die relevanten Berechnungsparameter für die Zielvorgabe für das Jahr 2025 sind gegenwärtig noch nicht definitiv bekannt. Sobald der Bundesrat die Ausführungsbestimmungen für das Jahr 2025 verabschiedet hat, wird ein Berechnungsbeispiel für Grossimporteure aufgeschaltet. Diese neuen Ausführungsbestimmungen treten voraussichtlich im 2. Quartal 2025, rückwirkend per 01.01.2025 in Kraft.
+Sanktionsberechnung für Kleinimporteure
+Bei Kleinimporteuren (weniger als sechs Neuzulassungen pro Jahr) werden die Überschreitung der Zielvorgabe und die Sanktion für jeden Lieferwagen oder leichten Sattelschlepper einzeln berechnet. Die Höhe einer allfälligen Sanktion hängt dabei nicht allein vom CO2-Ausstoss, sondern auch vom Leergewicht des neu zugelassenen Fahrzeugs ab. Somit können auch Fahrzeuge mit einem CO2-Ausstoss von weniger als 153.9 g/km sanktionspflichtig sein. Mit Inkrafttreten der aktualisierten Ausführungsbestimmungen per Bundesratsbeschluss wird die Berechnungsformel im Verlauf des Jahres 2025 eine Anpassung erfahren. Auskunft über die Höhe einer allfälligen Sanktion gibt das Berechnungstool.
+Kompensation von Sanktionen für Kleinimporteure
+Kleinimporteure von LNF müssen eine allfällige CO2-Sanktion vor der Fahrzeugzulassung entrichten. Für Fahrzeuge, die den Zielwert überschreiten, wird eine Sanktion fällig. Unterschreitet ein Fahrzeug die Zielvorgabe, fällt keine Sanktion an. Es wird in diesem Fall jedoch auch kein Bonus ausbezahlt. Kleinimporteuren haben jedoch die Möglichkeit ihre Fahrzeuge einem Grossimporteur abzutreten. Dadurch reduziert sich möglicherweise die Sanktion für ein emissionsstarkes Fahrzeug, bzw. ein Bonus auf ein effizientes Fahrzeug wird ausbezahlt. Diese Bedingungen sind eine privatrechtliche Vereinbarung zwischen dem abtretenden und dem übernehmenden Importeur. Die Abtretung muss vor der Erstinverkehrssetzung in der Schweiz dem BFE gemeldet werden.
+Dokumente
+Sanktionsberechnung
+Formulare und Merkblätter
+Broschüren und Berichte
+Links
+Berechnungstool für Kleinimporteure LNF
+CO2-Börse
+Antrag auf Bescheinigung bezüglich Art. 23 der Verordnung über die Reduktion der CO2-Emissionen für LNF
+Recht
+Verordnung über die Reduktion der CO2-Emissionen (CO2-Verordnung)
+Letzte Änderung 06.01.2025
+Zum Seitenanfang

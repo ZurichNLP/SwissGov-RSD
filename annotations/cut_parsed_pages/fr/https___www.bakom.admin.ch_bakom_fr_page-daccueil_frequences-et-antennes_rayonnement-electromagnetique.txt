@@ -1,0 +1,21 @@
+Champs électromagnétiques
+Aspect technique
+En ce qui concerne les effets des ondes électromagnétiques sur l'homme et l'environnement, l'OFCOM est le service spécialisé de la Confédération pour les aspects techniques. L'OFCOM est compétent en matière de calcul de la propagation des ondes, de mesure de l'intensité des champs, de réalisation de campagnes de mesure et de questions relatives aux méthodes de mesure.
+Effets sur la santé
+Pour les questions relatives aux éventuels effets sur la santé, il convient en revanche de vous adresser à l'Office fédéral de l'environnement OFEV ou à l'Office fédéral de la santé publique, OFS
+5G et antennes adaptatives
+antennes, dites adaptatives
+Pour le déploiement de la 5G, les opérateurs mettent en place de nouvelles , qui transmettent les informations de manière ciblée vers l'usager pour lui permettre de bénéficier du meilleur débit. Elles réduisent en parallèle le rayonnement dans les autres directions.
+La vidéo explicative suivante, réalisée par l'OFCOM, illustre en quoi les antennes adaptatives améliorent la réception des utilisateurs de téléphonie mobile, tout en diminuant l'exposition des endroits environnants. En se basant sur les paramètres réels d'une antenne située dans un quartier résidentiel, la vidéo montre, à l'aide de simulations, la manière dont les ondes radio se propagent dans ce quartier.
+Les conditions pour l'exploitation des antennes adaptatives sont remplies
+Les antennes 5G adaptatives des opérateurs de réseaux de radiocommunication mobile respectent les conditions définies dans l'aide à l'exécution de l'ordonnance sur la protection contre le rayonnement non ionisant (ORNI). C'est ce que révèle un examen à plusieurs niveaux que l'OFCOM a mené auprès des opérateurs de réseau. Tant la limitation automatique de la puissance que les systèmes d'assurance de la qualité des antennes respectent les exigences légales. Les cantons peuvent donc autoriser l'utilisation d'antennes adaptatives dans les réseaux de radiocommunication mobile.
+Premiers tests et mesures de l’OFCOM sur des antennes adaptatives (été 2020)
+En mars 2020, le Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC) a chargé l'OFCOM d'effectuer des tests sur les antennes adaptatives. Le rapport "Testkonzession und Messungen adaptive Antennen" (disponible en allemand uniquement) rassemble les mesures et les simulations effectuées dans le cadre de ce mandat.
+Téléphonie mobile : l’aide à l’exécution relative aux antennes adaptatives est publiée
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 09.04.2025

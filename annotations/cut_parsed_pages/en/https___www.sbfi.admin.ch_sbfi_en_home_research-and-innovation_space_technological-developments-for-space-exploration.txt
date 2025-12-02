@@ -1,0 +1,16 @@
+Technological Developments for Space Exploration
+© ESA / Bcomp
+Space exploration requires extremely sophisticated technologies that continuously expand the boundaries of what is possible. Satellites and on-board instruments are expected to function flawlessly, often over a period of several years. For obvious reasons, repairs or maintenance in space are not possible. Satellites and instruments must be able to resist extreme vibration during take-off. Once in orbit, they must also withstand cosmic radiation and very strong variations in temperature. In addition, they must be as light and compact as possible so that they can be launched into space more easily. The scientific instruments installed on satellites often use innovative measuring techniques that require pioneering technologies. To meet all these specifications and enable the European space industry to remain competitive, the European Space Agency (ESA) has established long-term technology programmes to support lasting research and development.
+The ongoing development and standardisation of new technologies are crucial factors in successful and long-term technological innovation. SERI’s Swiss Space Office supports the drivers of technological development, enabling them to acquire and preserve the expertise needed to become firmly established in a very competitive environment. Innovative technologies bring great added value when they make the transition from new to standardised technology.
+Technology transfer
+It is not rare for companies or research institutes to apply expertise developed in the space sector to other fields or use technologies from other areas for space science. This is referred to as "spin-off" or "technology transfer" operations. In Switzerland, there have been several cases of successful technology transfer. One example is the company bcomp, which has successfully adapted its natural fibre-based composite materials for use in space. In the future, this will make it possible to build rocket components and satellites that burn up better and more thoroughly when they re-enter the earth’s atmosphere at the end of their mission – a technology that contributes to a cleaner world.
+Main technological priorities for Switzerland
+In line with its space policy, Switzerland also pursues a niche strategy when it comes to technological development. It seeks to achieve - or defend and consolidate - a leading international position in specific sectors. To this end, Switzerland has established five technological priorities:
+Link
+Technology Transfer
+Natural fibres threaded into satellites for safer missions
+Contact
+SBFI, Aurélie Pezous
+
+T +41 58 465 31 99
+Shopping cart

@@ -1,0 +1,8 @@
+IKT-Standarddienste
+Informatikleistungen, welche die Verwaltungseinheiten des Bundes in gleicher oder ähnlicher Funktionalität und Qualität benötigen, werden als so genannte IKT-Standarddienste zentral für die ganze Bundesverwaltung geführt und zum Bezug angeboten. Verantwortlich für die Standarddienste ist der Bereich Digitale Transformation und IKT-Lenkung (DTI).
+Die Verwaltungseinheiten können zwischen unterschiedlichen Ausprägungen (Marktleistungen) der IKT-Standarddienste auswählen. Gemäss der Verordnung über die digitale Transformation und die Informatik legt der Bundeskanzler die Standarddienste mit Bezugszwang fest.
+Der Bereich DTI führt die Standarddienste. Das heisst, dass er dafür ein zentrales Anforderungs- und Leistungserbringer-Management auf Stufe Bund betreibt. Dabei werden in Absprache mit den Departementen die abzudeckenden Funktionalitäten, das Sourcing sowie das Leistungsbezugs- und Verrechnungsmodell festgelegt und dem Bundeskanzler unterbreitet.
+Das Prinzip der Standarddienste erlaubt eine bessere Steuerung und Führung eines beträchtlichen interdepartementalen Teilbereichs der Informatik und ermöglicht schliesslich auch das Nutzen von Synergien wie auch die Reduktion der Informatikkosten.
+Aktuelle IKT-Standarddienste
+Heute werden folgende IKT-Standarddienste (SD) vom Bereich DTI geführt:
+Fachkontakt

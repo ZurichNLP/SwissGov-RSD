@@ -1,0 +1,30 @@
+Sanktionsberechnung Personenwagen
+Die individuelle Zielvorgabe wird auf Basis des Zielwerts von 93.6 g CO2/km unter Berücksichtigung des Leergewichts berechnet.
+Sanktionsberechnung für Grossimporteure
+Überschreiten die durchschnittlichen CO2-Emissionen der neu zugelassenen Personenwagenflotte eines Grossimporteurs die individuelle Zielvorgabe, ist eine Sanktion zu entrichten. Die relevanten Berechnungsparameter für die Zielvorgabe für das Jahr 2025 sind gegenwärtig noch nicht definitiv bekannt. Sobald der Bundesrat die Ausführungsbestimmungen für das Jahr 2025 verabschiedet hat, wird ein Berechnungsbeispiel für Grossimporteure aufgeschaltet. Diese neuen Ausführungsbestimmungen treten voraussichtlich im 2. Quartal 2025, rückwirkend per 01.01.2025 in Kraft.
+Sanktionsberechnung für Kleinimporteure
+Bei Kleinimporteuren werden die Überschreitung der Zielvorgabe und die Sanktion für jeden Personenwagen einzeln berechnet. Die Höhe einer allfälligen Sanktion hängt dabei nicht allein vom CO2-Ausstoss, sondern auch vom Leergewicht des neu zugelassenen Fahrzeugs ab. Somit können auch Fahrzeuge mit einem CO2-Ausstoss von weniger als 93.6 g/km sanktionspflichtig sein. Mit Inkrafttreten der aktualisierten Ausführungsbestimmungen per Bundesratsbeschluss wird die Berechnungsformel im Verlauf des Jahres 2025 eine Anpassung erfahren. Auskunft über die Höhe einer allfälligen Sanktion gibt das Berechnungstool.
+Kompensation von Sanktionen für Kleinimporteure
+Kleinimporteure von Personenwagen müssen eine allfällige CO2-Sanktion vor der Fahrzeugzulassung entrichten. Für Fahrzeuge, welche die Zielvorgabe überschreiten, wird eine Sanktion fällig. Unterschreitet ein Fahrzeug die Zielvorgabe, fällt keine Sanktion an. Es wird in diesem Fall jedoch auch kein Bonus ausbezahlt. Kleinimporteure haben jedoch die Möglichkeit, ihre Fahrzeuge einem Grossimporteur abzutreten. Dadurch reduziert sich möglicherweise die Sanktion für ein emissionsstarkes Fahrzeug, bzw. ein Bonus auf ein effizientes Fahrzeug wird ausbezahlt.
+Diese Bedingungen sind eine privatrechtliche Vereinbarung zwischen dem abtretenden und dem übernehmenden Importeur. Die Abtretung muss vor der ersten Inverkehrssetzung in der Schweiz dem BFE gemeldet werden.
+Dokumente
+Sanktionsberechnung
+Formulare und Merkblätter
+Broschüren und Berichte
+Links
+Kennzahlen zu alternativen Antrieben
+Energieetikette für Personenwagen
+Berechnungstool für Kleinimporteure PW
+CO2-Börse
+Antrag auf Bescheinigung bezüglich Art. 23 der Verordnung über die Reduktion der CO2-Emissionen für PW
+Recht
+Bundesverfassung Artikel 74 Umweltschutz
+Bundesgesetz vom 23. Dezember 2011 über die Reduktion der CO2-Emissionen (CO2-Gesetz)
+Verordnung über die Reduktion der CO2-Emissionen (CO2-Verordnung)
+Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS)
+Verordnung vom 19. Juni 1995 über die Typengenehmigung von Strassenfahrzeugen (TGV)
+Liechtensteinisches Landesgesetzblatt 814.065: Gesetz vom 16. Dezember 2009 über die Reduktion der CO2-Emissionen (CO2-Gesetz)
+Liechtensteinisches Landesgesetzblatt 814.065.12: Verordnung vom 19. Juni 2012 über die Verminderung der CO2-Emissionen von Personenwagen
+Verordnung (EG) Nr. 443/2009 zur Festsetzung von Emissionsnormen für neue Personenkraftwagen
+Letzte Änderung 06.01.2025
+Zum Seitenanfang

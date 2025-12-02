@@ -1,0 +1,42 @@
+Light commercial vehicles
+Scope of application
+In accordance with the CO2 Act, carbon emission regulations for light commercial vehicles (LCVs) apply to all vans and light articulated vehicles that are registered in Switzerland for the first time. LCVs are classed as vehicles of vehicle type 30 or 38 with a maximum gross vehicle weight of 3.5 tonnes. The regulations also apply to vehicles with an emission-free drive system and a gross weight of between 3.5 and 4.25 tonnes which, apart from their weight, meet the definition of a van and whose weight in excess of 3.5 tonnes is caused solely by the additional weight of the emission-free drive.
+Vehicles that were previously registered in Switzerland are not subject to these provisions. Vehicles that were already registered abroad prior to their first registration in Switzerland fall within the scope of the carbon emission regulations if at the time of the customs declaration in Switzerland no more than twelve months have passed since the vehicle was first registered abroad. Vehicles which are declared to customs in Switzerland less than six months after their first registration abroad are always subject to the carbon emission regulations. Vehicles which are declared to customs between six and twelve months after their first registration abroad are divided into two categories depending on the total kilometres travelled at the time of customs clearance. These vehicles are subject to the regulations if the distance travelled is less than 5,000km at the time of customs declaration (or, if not recorded at the time of customs declaration, at the time of initial registration in Switzerland). If the distance travelled is more than 5,000km at the time of customs declaration or if more than twelve months have elapsed between initial registration abroad and customs declaration in Switzerland, the vehicle is considered a second-hand vehicle and is not subject to the carbon emission regulations (Art. 17d paras 3 and 4 CO2 Ordinance). Also exempt are LCVs with an unladen weight of more than 2,585kg measured in accordance with the measurement procedure for heavy vehicles in Regulation (EC) No 595/2009, provided they are not exclusively electrically powered.
+Targets
+Importers are required to meet a specific carbon emission target for their new vehicle fleet (in the case of small or private importers, the target applies to each individual vehicle). This target is usually calculated on the basis of the average target value, taking into account the unladen weight of the vehicle (see FAQs). If the carbon emissions per kilometre exceed this target, a penalty is levied per excess gram and vehicle.
+Vehicle assignments
+An importer may agree with a large importer that the latter will take over vehicles from them (called 'assignment' under Art. 22a para. 1 CO2 Ordinance). The assignment must be reported to the SFOE before the vehicle is placed on the market for the first time in Switzerland (Art. 22a para. 2 CO2 Ordinance). A vehicle can only be assigned to another importer once, and it is not possible to revoke the assignment (Art. 22a para. 3 CO2 Ordinance).
+DETEC eGovernment portal
+In principle, assignments must be reported to the SFOE via the . In a few exceptional cases, assignments must be reported to the SFOE using a form (see assignment process).
+Assignment procedures
+Further information on the assignments: 
+Procedure for small importers
+FEDRO KDI portal
+DETEC eGovernment portal
+assignment procedures
+In a first step, the vehicle data should be entered in the FEDRO KDI portal under 'Vehicle import'. Small importers must then apply for an attestation for their vehicle on the DETEC eGovernment portal, provided that the vehicle falls within the scope of the carbon emission regulations. Alternatively, small importers can also assign their vehicle to a large importer (see the vehicle  for more information). They must pay any penalty due before the vehicle is initally registered in Switzerland.
+Documents
+Enforcement results
+In 2017 the Federal Administrative Court decided that the public interest in results regarding the enforcement of regulations on CO2 emissions for vehicles outweighed data protection considerations (Decision A-6755/2016 of 23 October 2017). Based on this decision the Federal Office of Energy publishes an annual overview of enforcement results.
+Calculation of penalties
+Industry information
+Brochures and reports
+Forms and fact sheets
+Links
+European Commission - Reducing CO2 emissions from vans
+Law
+Ordinance on the Reduction of CO2 Emissions (CO2 Ordinance)
+European Commission - Reducing CO2 emissions from passenger cars - Documentation
+European Commission - Reducing CO2 emissions from vans - Documentation
+Regulation (EC) No. 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information
+Regulation (EC) No. 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information
+Regulation (EU) No 253/2014 of the European Parliament and of the Council of 26 February 2014 amending Regulation (EU) No 510/2011 to define the modalities for reaching the 2020 target to reduce CO2 emissions from new light commercial vehicles
+Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) No 510/2011 to define the modalities for reaching the 2020 target to reduce CO2 emissions from new light commercial vehicles
+Commission Staff Working Document Impact Assessment Accompanying the documents Proposal for a regulation of the European Parliament and of the Council amending Regulation (EC) No 443/2009
+Specialist staff
+
+				
+
+
+
+Last modification 06.01.2025

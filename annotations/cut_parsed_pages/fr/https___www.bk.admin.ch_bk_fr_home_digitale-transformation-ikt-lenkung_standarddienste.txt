@@ -1,0 +1,8 @@
+Services standard
+Lorsque les unités administratives de la Confédération ont besoin de prestations informatiques offrant, avec le même niveau de qualité, les mêmes fonctionnalités ou des fonctionnalités similaires, celles-ci sont centralisées, proposées sous forme de services informatiques standard dans toute l’administration fédérale et gérées par secteur Transformation numérique et gouvernance de l’informatique (TNI).
+Les unités administratives peuvent choisir entre différentes formes de services informatiques standard (prestations proposées). Selon l’ordonnance sur la transformation numérique et l’informatique, le Chancelier de la Confédération détermine les services standard assortis d’une obligation d’acquisition.
+Le domaine TNI gère les services standard, c’est-à-dire qu’il opère une gestion centralisée des exigences et des fournisseurs de prestations au niveau de la Confédération. Les fonctionnalités à couvrir, le sourcing ainsi que le modèle de commande et de facturation des prestations sont définis en concertation avec les départements, puis soumis au Chancelier de la Confédération.
+Le principe des services standard permet un meilleur pilotage d’une partie interdépartementale considérable des services informatiques et autorise l’exploitation de synergies ainsi que la réduction des frais informatiques.
+Services standard actuels
+Aujourd'hui les services suivants sont gérées par le secteur TNI comme services standard TIC :
+Contact spécialisé

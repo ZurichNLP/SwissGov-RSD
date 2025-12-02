@@ -1,0 +1,19 @@
+Electromagnetic fields
+Technical aspects
+OFCOM is the federal government's specialist centre for the technical aspects of the effects of electromagnetic waves on humans and the environment. OFCOM's expertise lies in the calculation of wave propagation, the measurement of field strength, the organisation of measurement campaigns and issues relating to measurement methods.
+Effects on health
+For questions regarding possible effects on health, the Federal Office for the Environment FOEN or the Federal Office of Public Health are available to you as relevant technical centres of the Confederation.
+5G and adaptive antennas
+For the deployment of 5G, operators are installing new 'adaptive antennas' that transmit information specifically to individual users who therefore benefit from optimal data transmission rate. In all other directions, transmission power is reduced.
+The following explanatory video, produced by OFCOM, shows how adaptive antennas improve reception for mobile telephony users while reducing the impact on surrounding areas. Based on the actual parameters of an antenna located in a residential area, the video illustrates, thanks to simulations, how radio waves propagate in this neighbourhood.
+Requirements met for operating adaptive antennas
+Mobile network operators' adaptive 5G antennas fulfil the implementing guidelines to the Ordinance on Protection against Non-Ionising Radiation (NIRO). This was the result of an in-depth examination of network operators by OFCOM. Both the automatic power lock and the quality assurance systems of the antennas meet the legal requirements. This means that the cantons can approve the use of adaptive antennas in mobile networks.
+First tests and measurements by OFCOM on adaptive antennas (summer 2020)
+In March 2020, the Federal Department of the Environment, Transport, Energy and Communications (DETEC) tasked OFCOM with conducting tests on adaptive antennas. The measurements and simulations conducted in the course of this task were recorded in the report "Testkonzession und Messungen adaptive Antennen" of 24 September 2020 in German.
+Specialist staff
+
+				
+
+
+
+Last modification 09.04.2025

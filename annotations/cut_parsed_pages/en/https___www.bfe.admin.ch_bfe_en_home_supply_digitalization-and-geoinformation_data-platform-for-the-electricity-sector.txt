@@ -1,0 +1,18 @@
+Data platform for the electricity sector
+The data platform (data hub) in the electricity sector serves as a centre for energy sector data. It is regulated by the Electricity Supply Act and the Electricity Supply Ordinance and is intended to ensure an efficient and secure exchange between electricity supply companies, balance groups, the national grid company and end consumers. The latter thus receive standardised digital data access, enabling them to easily provide their data to independent energy service providers and thus benefit from new digital services. The structure, tasks and functionalities of the data platform are defined by law and described in more detail in the industry guidelines. The platform is an important step for the digital innovation in the swiss energy sector.
+For information on applying for the national data platform, please see the press release (link) and the documents linked below.
+Documents
+Links
+Standardisierter Datenaustausch mit der nationalen Datenplattform (SDND) - Branchenempfehlung
+Media
+Press releases in German
+Law
+Federal Electricity Supply Act of 23 March 2007 (in German)
+Stromversorgungsverordnung vom 14. März 2008 (StromVV) und revidierte Energieverordnung
+Specialist staff
+
+				
+
+
+
+Last modification 03.03.2025

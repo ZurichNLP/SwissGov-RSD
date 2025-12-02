@@ -1,0 +1,22 @@
+Sorveglianza e controlli
+Lo spettro radio è un bene naturale la cui disponibilità è scarsa. L'UFCOM assicura agli utenti un accesso privo di interferenze a questo bene. Gli apparecchi elettrici e gli impianti di telecomunicazione possono avere un effetto indesiderato sullo spettro delle frequenze e compromettere la comunicazione. Un apparecchio radio può trasmettere su frequenze riservate ad esempio ai servizi di sicurezza, oppure può succedere che un titolare di una concessione utilizzi più apparecchi rispetto al numero di impianti notificati, e che ciò sovraccarichi il traffico di radiocomunicazione.
+Per impedire questi o altri tipi di interferenze, le autorizzazioni per la messa in servizio e l'esercizio di impianti e reti di radiocomunicazione nell'ambito della radiocomunicazione mobile terrestre, marittima, aeronautica e radioamatoriale sono sottoposte a regolamentazione. L'UFCOM rilascia concessioni, indicativi di chiamata e autorizzazioni nell'ambito dei quali disciplina le frequenze e altri parametri come ad esempio il numero di impianti, la potenza di emissione e l'ampiezza di banda occupata. Gli impianti di radiocomunicazione programmabili possono essere programmati unicamente con le frequenze descritte nella concessione. Ogni modifica deve per contro essere comunicata all'UFCOM.
+L'UFCOM esercita la sorveglianza sullo spettro delle frequenze e sulle concessioni di radiocomunicazione. Ogni anno effettua controlli a campione, con cui verifica:
+art. 52 LTC
+Se sono rispettate le basi legali, lo spettro delle frequenze può essere utilizzato liberamente. Le violazioni alla legge sulle telecomunicazioni sono punite con una multa (cfr. ). Nel caso vi sia un sospetto di uso di impianti di radiocomunicazione non conformi può essere effettuato un controllo dei prodotti.
+Informazioni complementari
+Utilizzo delle frequenze con o senza concessioni
+Piano nazionale di attribuzione delle frequenze
+Interferenze
+Apparecchi non conformi
+Basi legali
+Legge sulle telecomunicazioni (LTC)
+Ordinanza sugli impianti di telecomunicazione (OIT)
+Ordinanza sull'utilizzazione dello spettro delle radiofrequenze (OUS)
+Messaggio per lo specialista
+
+				
+
+
+
+Ultima modifica 18.03.2024

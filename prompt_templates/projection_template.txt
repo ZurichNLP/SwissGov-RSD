@@ -1,0 +1,7 @@
+sentence1_en: {{sentence1_en}}
+sentence2_en: {{sentence2_en}}
+labels1_en: {{labels1_en}}
+labels2_en: {{labels2_en}}
+
+text_a: {{text_a}}
+text_b: {{text_b}}

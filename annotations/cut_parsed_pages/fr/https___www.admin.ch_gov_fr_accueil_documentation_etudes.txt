@@ -1,0 +1,8 @@
+Etudes
+La base de données « Etudes réalisées sur mandat de la Confédération » contient des études, des rapports et des évaluations dont la réalisation a été confiée à des organismes externes par l’administration fédérale après le 1er janvier 2010, pour autant que leur publication soit autorisée et qu'ils n'entrent pas dans les catégories "projet de recherche" ou "évaluation de l'efficacité". Les documents sont assortis de résumés en quatre langues et de mots-clés. Les recherches dans la base de données peuvent être effectuées notamment selon le coût des études, les budgets concernés, les mandataires et les organismes mandatés.
+projets de recherche
+d'évaluation
+tous les projets
+Vous pouvez également effectuer des recherches de projets de recherche ou d'évaluation de l'efficacité en utilisant les rubriques correspondantes. La dernière rubrique permet une recherche au travers de , peu importe leur type.
+Un clic sur l'étude correspondante ouvre une vue plus détaillée. Vous pouvez également cliquer sur le champ "ARAMIS-ID" pour ouvrir l'étude directement dans la base de données Aramis.
+Informations complémentaires

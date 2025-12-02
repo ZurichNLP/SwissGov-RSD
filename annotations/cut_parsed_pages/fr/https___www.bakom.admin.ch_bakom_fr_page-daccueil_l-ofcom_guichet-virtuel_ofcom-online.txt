@@ -1,0 +1,18 @@
+Remplacement d'OFCOM Online par un nouveau portail
+Le portail OFCOM Online permettait jusqu'à présent de commander et de payer en ligne des produits ou des prestations dans les domaines de compétence de l'office. Il sera progressivement remplacé par le portail eGovernment DETEC d'ici fin 2024.
+eGovernment DETEC
+Le portail  est le portail central pour les prestations de cyberadministration de tout le Département fédéral de l'environnement, des transports, de l'énergie et de la communication. Son objectif est de regrouper les activités que les offices menaient jusqu'ici, y compris celles de l'OFCOM, et de simplifier la collaboration entre la Confédération, les cantons, la population, les entreprises et d'autres organisations. Grâce aux services numériques du nouveau portail, les démarches administratives pourront être effectuées où que vous soyez, en toute simplicité et 24h/24.
+Les personnes intéressées peuvent y commander des numéros individuels, des numéros courts ou des blocs de numéros, ou encore annoncer des programmes de radio et de télévision. Elles peuvent également signaler des perturbations radio, s'inscrire à des examens de radiocommunication ou demander un indicatif d’appel pour radioamateur.
+Les concessions de radiocommunication et les concessions OUC de courte durée doivent toujours être demandées via OFCOM Online. Les titulaires de concession à faisceaux hertziens peuvent en outre y consulter la situation de la bande Tx pour leurs emplacements.
+Informations complémentaires
+Portail eGovernment DETEC
+Demande d'attribution d'une concession de radiocommunication
+Demande d'attribution d'une concession OUC locale régionale pour des manifestations de courte durée
+Interrogation du statut Tx pour les sites à faisceaux hertziens
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 28.06.2024

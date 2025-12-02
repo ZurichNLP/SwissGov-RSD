@@ -1,0 +1,18 @@
+Federal architecture
+The goal of enterprise architecture is to assemble the components, including all of their characteristics and relationships, into a functioning whole, so that the enterprise goals are optimally supported, duplications are avoided, and cooperation is simplified. This is achieved in part by providing and applying generally recognised standards.
+Organisation
+Enterprise architecture development in the Federal Administration is carried out according to a federated approach by the DTI Sector, the departments, the federal offices and service providers.
+Departments and federal offices
+The departments and administrative units develop the enterprise architecture in a decentralised manner for their core task areas.
+Federal offices with cross-divisional tasks
+Federal offices with cross-divisional tasks, e.g. the Federal Finance Administration (FFA) or the Federal Office of Topography (swisstopo), define and coordinate the enterprise architecture for the cross-divisional aspects in their area of responsibility.
+DTI Sector
+The DTI Sector assumes the role of enterprise architect at the federal level and provides the necessary methods, processes and tools to envision and develop the federal architecture.
+Federal Architecture Board
+The Federal Architecture Board is the expert committee at which the service providers and service consumers of architecture-related businesses come together to discuss issues and take decisions on architectural requirements.
+Process and methodology
+The Federal Administration uses TOGAF as the methodology for enterprise architecture management.
+P030 - The Open Group Architecture Framework (TOGAF)
+TOGAF (The Open Group Architecture Framework) is made available and further developed by The Open Group. The original version can be downloaded free of charge from The Open Group's website.
+TOGAF
+Specialist staff

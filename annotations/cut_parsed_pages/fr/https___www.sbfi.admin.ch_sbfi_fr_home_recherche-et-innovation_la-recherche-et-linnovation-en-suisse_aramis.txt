@@ -1,0 +1,23 @@
+ARAMIS
+Le système d'information sur les projets de recherche de l'administration fédérale
+La banque de données ARAMIS contient des informations sur les projets de recherche et les évaluations que la Confédération réalise ou finance pour son propre compte. ARAMIS sert à assurer non seulement la coordination des données scientifiques mais aussi la transparence.
+Le système d'information ARAMIS permet à la Confédération
+ARAMIS se compose de deux volets:
+Office fédéral de la statistique
+Secrétariat d'État à la formation, à la recherche et à l'innovation
+Le système d'information revêt la forme d'une banque de données sur les projets de recherche, les évaluations relatives à l'efficacité et autres analyses réalisés par l'administration fédérale sous la forme de projets isolés ou reliés entre eux. En plus des informations de base telles que les titres et la durée des projets, les jeux de données fournissent également des indications sur les objectifs visés, les rapports finaux et les données des contrats. Ces dernières servent notamment de base à l'Office fédéral de la statistique et au  pour l'établissement de statistiques et pour d'autres évaluations.
+la recherche de l'administration fédérale
+ARAMIS est en fonction depuis 1997. Depuis 2004, la banque de données est l'un des piliers de l'assurance qualité de . Toutes les évaluations faites par l'administration fédérale, en particulier celles relatives à l'efficacité, sont recensées dans ARAMIS depuis 2005.
+ARAMIS
+ordonnance ARAMIS du 29 novembre 2013
+Le SEFRI assume la responsabilité générale d'ARAMIS. Les bases légales se trouvent dans l‘.
+«Études réalisées sur mandat de la Confédération»
+D'autres études et rapports réalisés par l'administration se trouvent sous .
+Lien
+ARAMIS système de recherches d'informations sur Internet
+Contact
+SEFRI, Thomas Boschung
+
+Responsable ARAMIS
+T +41 58 462 96 88
+Panier d'achat

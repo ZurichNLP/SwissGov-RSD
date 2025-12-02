@@ -1,0 +1,17 @@
+Erfassung der Weltraumlage - Space Safety
+© ESA
+Eine sichere Erforschung und nachhaltige Nutzung des Weltraums erfordert eine systematische Weltraumüberwachung. Diese ist insbesondere von Bedeutung, da wir zunehmend Anwendungen und Dienste sowohl für wissenschaftliche als auch für kommerzielle Zwecke nutzen, welche auf weltraumgestützter Infrastruktur basieren. Das Ziel des Space Safety Programmes der ESA (vormals Space Situational Awareness Programm SSA) ist es, zum Schutz unseres Planeten, der Menschheit sowie der Infrastruktur am Boden und im Weltraum vor Bedrohungen aus dem Weltraum beizutragen. Es werden Aktivitäten in den Bereichen Weltraumwetter, Schutz des Planeten vor Asteroideneinschlägen, Kollisionen von Satelliten mit Weltraumtrümmern und nachhaltige Nutzung des Weltraums durchgeführt.
+Die Vielzahl an Raumfahrtaktivitäten führt zu einer Zunahme an Objekten, welche die Erde umkreisen. Dies erhöht die Gefahr von Kollisionen und stellt ein Risiko dar für die funktionierenden Satelliten. Der erste Unfall zweier Satelliten ereignete sich am 10. Februar 2009 auf einer Höhe von 776 km über Sibirien. Dabei kollidierte ein privater amerikanischer Kommunikationssatellit mit einem russischen Militärsatelliten mit einer relativen Geschwindigkeit von 11,7 km/Sekunde.
+Bei der Beurteilung der Weltraumlage spielt auch das Weltraumwetter eine Rolle. Stürmisches Weltraumwetter kann die empfindliche Bordelektronik und die Solarzellen von Satelliten beschädigen. Ionosphärische Ströme stellen auch für die Infrastruktur am Boden, wie z.B. Hochspannungsnetze oder Stromverteilerzentralen, eine Bedrohung dar. Weiter werden durch Unwetter im Weltraum moderne Navigations- und Kommunikations-Systeme empfindlich gestört und in ihrer Funktion eingeschränkt.
+Eine weitere Bedrohung für unseren Planeten stellen Asteroideneinschläge dar. Beim Asteroideneinschlages 1908 in Tunguska (Sibirien) geht man von einer Grösse des Asteroiden von 60 m bis 100 m Durchmesser aus. Im Fall von Chelyabinsk im Jahr 2013 schätzt man, dass die Schockwelle, welche 6 russische Städte traf, von einem 20 m grossen Asteroiden ausgelöst wurde.
+Im Rahmen des ESA Space Safety Programmes werden Satelliten und Sensoren zur besseren Überwachung des Weltraumwetters und zum Schutz des Planeten vor Asteroideneinschlägen entwickelt. Dabei geht es um die Ausweitung des Beobachtungsnetzwerkes für die Datenerhebung sowie um die Entwicklung von Vorhersagemodellen für Prognosen und Warnmeldungen. Ferner wird, unter Schweizer Federführung, die weltweit erste Satellitenmission zur aktiven Entfernung von Weltraumtrümmern gebaut (ESA Mission ADRIOS) und es werden Sensortechnologien zur Überwachung von Weltraumtrümmern und zur automatischen Kollisionsvermeidung entwickelt.
+Schweizer Firmen und Forschungsinstitute sind seit Beginn in das Programm involviert. Sie verfügen über Know-how im Bereich Technologieentwicklungen, Software- und Hardware-Entwicklungen, über astronomische Forschungskompetenzen zur optischen Beobachtung von erdnahen Objekten (Weltraumtrümmer) und Satelliten sowie zur Erforschung des Weltraumwetters.
+Links
+ESA SSA
+Weltraumwetter
+Weltraumschrott
+Kontakt
+SBFI, Jürg Schopfer
+
+T +41 58 464 10 72
+Warenkorb

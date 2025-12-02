@@ -1,0 +1,82 @@
+CO2-Emissionsvorschriften für Neufahrzeuge
+In der Schweiz gelten analog zur EU CO2-Emissionsvorschriften für Neufahrzeuge. Erstmals zum Verkehr in der Schweiz zugelassene Personenwagen (PW) dürfen seit dem 1. Januar 2025 nach WLTP im Durchschnitt maximal 93.6 Gramm CO2 pro Kilometer ausstossen, erstmals zugelassene Lieferwagen und leichte Sattelschlepper (LNF) maximal 153.9 g CO2/km. Die Zielwerte 2025 wurden gegenüber den Vorjahren verschärft.
+Zudem gelten für Lastwagen und Sattelschlepper (schwere Nutzfahrzeuge, SNF) seit dem 1. Januar 2025 ebenfalls erstmalig CO2-Zielwerte. Dabei müssen die Importeure von neuen SNF die durchschnittlichen Emissionen gegenüber dem Ausgangswert der EU-Regelung (Emission der Neuwagenflotte 2019/2020) um 15% senken.
+Auf Basis dieser Zielwerte muss die Flotte jedes Importeurs eine individuelle Zielvorgabe einhalten. Überschreitet er diese, wird eine Sanktion fällig.
+Klein- und Grossimporteure
+Die CO2-Vorschriften betreffen alle Importeure von neuen PW, LNF und SNF. Dabei wird unterschieden zwischen Grossimporteuren und Kleinimporteuren. Als Grossimporteur gilt, wer pro Jahr mindestens 50 PW, bzw. mindestens 6 LNF oder mindestens 2 SNF erstmals zum Verkehr in der Schweiz zulässt. Sämtliche Importeure von SNF sowie Grossimporteure von PW und LNF müssen beim BFE registriert sein. Importeure können sich zu Emissionsgemeinschaften zusammenschliessen, um die Mindestzahl an Fahrzeugen für Grossimporteure zu erreichen und die Zielvorgabe im Kollektiv zu erfüllen. Emissionsgemeinschaften haben die Rechte und Pflichten eines Grossimporteurs.
+Privatpersonen, die ihren Neuwagen direkt importieren, gelten als Kleinimporteure. Kleinimporteure haben die Möglichkeit, ihr Fahrzeug über einen Grossimporteur abzurechnen. Dadurch können sie allfällige Sanktionszahlungen reduzieren oder beim Privatimport effizienter Fahrzeuge von einem Bonus profitieren.
+Anmeldung als Grossimporteur und Emissionsgemeinschaft
+www.uvek.egov.swiss
+Die Anmeldung als Grossimporteur und für Emissionsgemeinschaften erfolgt online auf dem eGovernment Portal UVEK unter .
+Bescheinigung von Fahrzeugen
+Fahrzeugimport
+Kleinimporteure von PW und LNF müssen eine allfällige CO2-Sanktion vor der Fahrzeugzulassung entrichten. Um diesen Prozess zu starten, müssen zuerst beim Bundesamt für Strassen (ASTRA) die notwendigen Fahrzeugdaten digital erfasst werden. Dies erfolgt im KDI-Portal des ASTRA: .
+Bei den SNF gelten sowohl für Gross- und Kleinimporteure dieselben Pflichten und Abläufe wie für Grossimporteure von PW und LNF.
+Dokumente
+Brancheninformation
+Broschüren und Berichte
+Links
+CO2-Börse
+Webseite ASTRA
+Antrag auf Bescheinigung bezüglich Art. 23 der Verordnung über die Reduktion der CO2-Emissionen für PW
+Antrag auf Bescheinigung bezüglich Art. 23 der Verordnung über die Reduktion der CO2-Emissionen für LNF
+Personenwagen
+Sanktionsberechnung PW
+Berechnungstool für Kleinimporteure PW
+Fragen & Antworten
+Kennzahlen alternative Antriebe Neuwagen
+Energieetikette für Personenwagen
+Lieferwagen und leichte Sattelschlepper
+Sanktionsberechnung LNF
+Berechnungstool für Kleinimporteure LNF
+Fragen & Antworten
+Medien
+UVEK eröffnet Vernehmlassung zur Teilrevision der CO2-Verordnung im EHS-Bereich
+Die Roadmap Elektromobilität des Bundes wird bis 2030 verlängert und ausgeweitet
+Importeure neuer Fahrzeuge erreichen erstmals die CO2-Zielwerte
+Tiefere CO2-Emissionen dank fortschreitender Elektrifizierung neuer Personen- und Lieferwagen
+Bundesrat will keinen vorzeitigen Verkaufsstopp für Benzin- und Dieselfahrzeuge
+Bundesrat schlägt Massnahmen zur Verstärkung bestehender Förderprogramme für nachhaltige Mobilitätslösungen vor
+Die Elektrifizierung der neuen Personenwagen und Lieferwagen setzt sich 2021 fort
+«Fahr mit dem Strom»: Informiert auf die Elektromobilität umsteigen
+Bundesrat setzt revidierte CO2-Verordnung in Kraft
+Deutlicher Rückgang von Treibstoffverbrauch und CO2-Emissionen neuer Personenwagen im Jahr 2020
+Leichte Zunahme von Treibstoffverbrauch und CO2-Emissionen neuer Personenwagen im 2019
+CO2-Emissionsvorschriften für neue Personenwagen – Bericht über die Auswirkungen 2012 – 2018
+Treibstoffverbrauch und CO2-Emissionen von neuen Personenwagen haben 2018 deutlich zugenommen
+CO2-Emissionen von Neuwagen – leichte Zunahme im Jahr 2017
+Verbrauch von neuen Personenwagen lag 2017 bei 5.87 Liter pro 100 Kilometer
+Mit dem «Salon Car Collector» energieeffiziente Autos sammeln
+CO2-Emissionen von Neuwagen – nur geringe Absenkung im Jahr 2016
+Verbrauch von Neuwagen lag 2016 bei 5.79 Liter pro 100 Kilometer
+co2tieferlegen macht energieeffiziente Fahrzeuge am Auto-Salon Genf sichtbar
+CO2-Emissionsvorschriften für neue Personenwagen – Bericht über die Auswirkungen 2012 – 2015
+Strengere Effizienzkriterien für Neuwagen ab 1. Januar 2017
+CO2-Emissionen von Neuwagen 2015 – Importeure verfehlen Zielvorgabe nur knapp
+Verbrauch von Neuwagen lag 2015 bei 5.84 Liter pro 100 Kilometer
+Neue App «Salon Car Collector» von co2tieferlegen am Automobil-Salon Genf
+co2tieferlegen unterstützt die Präsenz von energieeffizienten Fahrzeugen am Automobil-Salon Genf
+Strengere Effizienzkriterien für Neuwagen ab 1. Januar 2016
+CO2-Emissionen von Neuwagen 2014 – Importeure erreichen Zwischenziel
+Neuwagen verbrauchen durchschnittlich noch 6,11 Liter Benzin pro 100 Kilometer
+Zu hohe CO2-Emissionen von Neuwagen: 2013 wurden 5.1 Millionen Franken an Sanktionen fällig
+Neuwagen verbrauchen durchschnittlich noch 6,24 Liter Benzin pro 100 Kilometer
+Zu hohe CO2-Emissionen von Neuwagen: 2012 wurden 3.5 Millionen Franken an Sanktionen fällig
+Bundesrat heisst neue CO2-Verordnung gut
+CO2-Zielwerte für Personenwagen gelten ab Mitte 2012
+Recht
+Bundesverfassung Artikel 74 Umweltschutz
+Bundesgesetz vom 23. Dezember 2011 über die Reduktion der CO2-Emissionen (CO2-Gesetz)
+Verordnung über die Reduktion der CO2-Emissionen (CO2-Verordnung)
+Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS)
+Verordnung vom 19. Juni 1995 über die Typengenehmigung von Strassenfahrzeugen (TGV)
+Liechtensteinisches Landesgesetzblatt 814.065 Gesetz vom 11. November 2013 über die Reduktion der CO2-Emissionen
+Verordnung (EG) Nr. 443/2009 zur Festsetzung von Emissionsnormen für neue Personenkraftwagen
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 25.03.2025
+Zum Seitenanfang

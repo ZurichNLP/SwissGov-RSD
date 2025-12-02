@@ -1,0 +1,29 @@
+Geothermal energy
+The term “geothermal energy” refers to the energy that is stored in the form of heat below the earth's surface. At a depth of around 15 metres the temperature of the ground is constant throughout the year. In Switzerland, generally speaking the temperature below the surface increases by around 30° C per thousand metres of depth. The temperature at a depth of 5,000 metres is approximately 160° C. Significant quantities of heat above 40° C are available at depths greater than 1,000 metres. This geothermal energy can be extracted with the aid of a variety of methods.
+Vertical ground heat exchangers, groundwater wells, geothermal structures (foundation piles, diaphragm walls) and hot tunnel water are normally used in combination with a heat pump for heating – and in some cases, cooling – purposes. In its annual renewable energy statistics, the Swiss Federal Office of Energy (SFOE) publishes data relating to geothermal energy produced from these sources. Some of this energy is also produced centrally and distributed via a thermal network to district heat consumers.
+With the aid of deep drilling it is possible to obtain sufficient resources that can be utilised directly (i.e. without the need for a heat pump) for the production of heat, especially for supplying district heat networks. With temperatures above 100° C it is also possible to produce electricity and utilise the residual heat for heating purposes. If underground water (in aquifers) is not available, heat and electricity can be produced from dry crystalline rock layers with the aid of enhanced geothermal systems technology.
+While geothermal energy is already being used to supply a district heating network in Switzerland (in Riehen, canton of Basel-Stadt), no electricity is currently being produced from geothermal sources in our country. One of the main obstacles to the development of this technology is the fact that little is known as yet about the local conditions deep underground. For this reason, since 1 January 2018 various projects focusing on the use of geothermal energy for the production of heat and electricity have been supported in the form of financial contributions towards research. Furthermore, projects focusing on electricity production are also covered by a geothermal energy guarantee financed from the grid surcharge fund. Funding has already been granted for heat and electricity production projects that are currently being implemented.
+In any case, Switzerland has major geothermal energy potential, especially for the production of electricity with the aid of enhanced geothermal systems technology. The perspectives associated with this domestic, inexhaustible and permanent energy source are highly attractive: it is CO2-free, supplies local energy 24 hours a day all year round and its use requires very little space.
+Documents
+General aspects
+Shallow geothermal energy
+Deep geothermal energy
+Links
+Promotion of geothermal energy (in German)
+Study TA-SWISS: Energy from the Earth: Deep Geothermal as a Resource for the Future?
+Energeia Blog Beiträge zur Geothermie
+Geothermie-Schweiz. Dachverband der Akteure der Geothermie in der Schweiz
+TRANSFER das Programm zum Wissensaustausch
+Media
+Exploration grant for geothermal energy project of Geo-Energie Suisse AG at Haute-Sorne increased
+Further press releases in German
+Law
+Swiss Federal Energy Ordinance of 1st November 2017 (EnO) (in German)
+Ordinance on the Reduction of CO2 Emissions (CO2 Ordinance)
+Specialist staff
+
+				
+
+
+
+Last modification 09.09.2024

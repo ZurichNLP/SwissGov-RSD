@@ -1,0 +1,16 @@
+Impianti a bassa tensione
+L'ordinanza sugli impianti a bassa tensione (OIBT; RS 734.27) disciplina le condizioni per i lavori sugli impianti elettrici a bassa tensione e il controllo di questi impianti. Si applica agli impianti elettrici alimentati a corrente forte ma che funzionano con una tensione massima pari a 1000 V a corrente alternata oppure a 1500 V a corrente continua. La OBIT riguarda in particolare gli impianti domestici.
+L'installazione, le modifiche, la manutenzione e i controlli di questi impianti elettrici devono avvenire nel rispetto delle regole riconosciute della tecnica. Per garantire il rispetto di questi e di altri requisiti fondamentali per la sicurezza, l'OIBT disciplina, tra l'altro, le condizioni per il rilascio (e la revoca) delle autorizzazioni di installazione e di controllo, l'esecuzione di lavori di installazione e i relativi controlli (prima verifica e controlli periodici).
+Schede informative
+Nessuna scheda informativa
+Documenti
+Adeguamento delle basi legali concernenti i prodotti elettrici nonché i prodotti Ex
+Link
+Ispettorato federale degli impianti a corrente forte (ESTI)
+EIT.swiss
+ASCE
+Diritto
+Legge federale del 24 giugno 1902 concernente gli impianti elettrici a corrente forte e a corrente debole (legge sugli impianti elettrici, LIE)
+Ordinanza del 7 novembre 2001 concernente gli impianti elettrici a bassa tensione (ordinanza sugli impianti a bassa tensione, OIBT)
+Ordinanza del DATEC del 15 maggio 2002 sugli impianti elettrici a bassa tensione
+Ultima modifica 15.09.2021

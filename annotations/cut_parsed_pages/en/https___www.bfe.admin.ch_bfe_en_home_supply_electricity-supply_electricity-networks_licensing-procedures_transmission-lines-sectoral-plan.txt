@@ -1,0 +1,45 @@
+Spatial coordination – Transmission Lines sectoral plan
+Sectoral planning is the federal government’s overlying planning and coordination tool for implementing its spatial planning duties. Projects concerning the construction and expansion of high-voltage power lines at the 220/380 kV level which have a significant spatial and environmental impact normally have to be specified in the Transmission Lines sectoral plan. The Swiss Federal Office of Energy (SFOE) is responsible for processing this sectoral plan in cooperation with the Federal Office for Spatial Development (ARE), while the Federal Council is responsible for the detailed specifications. Other entities are involved in the sectoral plan procedure, including the support group, which has an important role to play.
+This support group is set up by the SFOE within the framework of the sectoral plan process. It comprises representatives of the Federal Office for Spatial Development (ARE), the Federal Office for the Environment (FOEN) and other federal authorities that may be affected by the project, plus the Federal Electricity Commission (ElCom), the Federal Inspectorate for Heavy Current Installations, the involved cantons, national environmental organisations and the applicant (as a rule, Swissgrid AG).
+The support group:
+Sectoral planning is an official procedure in which the aim is to determine how a given project can best be embedded in the landscape and meet the spatial planning and environmental protection requirements. Technical and economic deliberations are incorporated into the process. Interested parties have the opportunity to submit comments and statements of position within the scope of the consultation and participation procedure. The sectoral planning procedure is implemented in several stages.
+The entity submitting the application (as a rule, national grid operator Swissgrid AG) draws up potential planning zone variants and concludes a cooperation agreement with the involved cantons. This regulates the planning objectives, competencies, timetable for the next steps in the procedure, involvement and information of the communalities, and the procedure for adapting the cantonal planning. This ensures that the interests of the cantons are taken into account at an early stage.
+In the next step, the applicant initiates the sectoral plan procedure at the SFOE. Applications have to be accompanied by a substantiation of the project, together with an explanation of its necessity, an assessment of the potential planning zones and the concluded coordination agreement.
+The SFOE forwards the application documentation to the authorities represented in the Federal Spatial Planning Conference for comment within two months.
+Upon receipt of the feedback, the SFOE sets up a support group within two months. For the purpose of inspecting the potential planning zones, the SFOE may arrange for an on-site visit by the support group. The latter then examines the application documents and recommends a planning zone, which has to be large enough to ensure that more than one planning corridor can be developed.
+Based on the recommendation by the support group, the SFOE prepares a draft version of the detailed plan and initiates the consultation and participation procedure in the cantons. Interested persons, organisations and associations have the opportunity to submit comments and statements of position within the scope of the consultation and participation procedure.
+Once the above procedure has been concluded, the SFOE finalises the detailed plan and initiates a consultation of public authorities.
+Within two months after the conclusion of the consultation of public authorities, the SFOE petitions the Federal Council to specify the planning zone.
+In cases in which the scope for more than one planning zone is deemed insufficient, the applicant may, with the consent of the involved cantons, submit a proposal to the SFOE for a single planning zone. Upon consultation with the support group, the SFOE may waive a formal specification of the planning zone.
+Together with the involved cantons, the applicant prepares at least two corridors in the planning zone and submits the necessary documentation to the SFOE.
+The latter then submits the documentation to the support group and may arrange for an on-site visit by the support group for the purpose of inspecting the potential corridors.
+The support group assesses the proposed corridors and recommends a planning corridor to the SFOE, together with the type of transmission technology to be used (overhead lines or underground cables). In its assessment it takes the spatial and environmental impacts into account, as well as technical aspects and the question of economic viability.
+Based on the recommendation by the support group, the SFOE prepares a draft version of the detailed plan and initiates the consultation and participation procedure in the cantons.
+The SFOE then finalises the detailed plan and initiates a consultation of public authorities.
+Within two months after the conclusion of the consultation of public authorities, the SFOE petitions the Federal Council to designate the planning corridor and applicable transmission technology.
+The procedure culminates in a detailed plan in which the Federal Council defines a corridor for the transmission line project and specifies the type of transmission technology to be used (overhead lines or underground cables). The detailed plan is binding for the entity submitting the application, as well as for the federal, cantonal and communal authorities. Appeals against decisions taken by the Federal Council within the scope of the sectoral plan procedure are not possible.
+Following the conclusion of the sectoral plan procedure, the applicant concerned is authorised to develop the transmission line project for the specified corridor and initiate the planning approval process.
+Under certain circumstances, it is possible to waive the implementation of a sectoral plan procedure. Here the SFOE decides on any exemptions from the sectoral plan requirement.
+The SFOE determines whether a project concerning a transmission line with a nominal voltage of 220 kV or higher has to be specified in a sectoral plan (verification of a sectoral plan requirement). This verification is made by the SFOE in its official capacity, or at the request of the Federal Inspectorate for Heavy Current Installations or the applicant. The SFOE may request appropriate documentation from the applicant.
+If it can be assumed that the project will not have any significant spatial or environmental impacts, it is not subject to the sectoral plan requirement. Otherwise, the SFOE determines whether any grounds exist for exemption from the sectoral plan requirement, or whether the sectoral plan procedure should be initiated.
+The applicable grounds for exemption are summarised in Article 1b of the Ordinance on the Planning Approval Procedure for Electrical Systems (SR 734.25).
+Documents
+Transmission lines evaluation scheme
+Documentation on ongoing sectoral plan procedures
+Transmission Lines sectoral plan
+Links
+Map of the transmission lines sectoral plan
+Geobasic data and geodata model
+Planning approval procedure for electrical systems
+Swissgrid AG (national grid operator)
+Swiss Federal Electricity Commission (ElCom)
+Eidgenössisches Starkstrominspektorat (ESTI)
+Raumordnungskonferenz ROK
+Media
+Grimsel line: underground installation recommended. Monitoring group makes recommendation for the new Innertkirchen – Ulrichen extra-high voltage line
+Further press releases in German
+Law
+SR 734.7 – Electricity Supply Act of 23 March 2007
+SR 734.0 – Electricity Act of 24 June 1902
+SR 734.25 – Ordinance of 2 February 2000 on the Planning Approval Procedure for Electrical Systems
+Last modification 02.10.2023

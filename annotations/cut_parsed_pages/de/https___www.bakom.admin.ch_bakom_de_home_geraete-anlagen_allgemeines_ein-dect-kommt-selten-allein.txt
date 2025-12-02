@@ -1,0 +1,16 @@
+Vorsicht, ein DECT kommt selten allein!
+Störungen in den Mobiltelefonienetzen UMTS (Universal Mobile Telecommunications System) treten seit einigen Monaten immer häufiger auf. Sie werden von Schnurlostelefonen DECT (Digital Enhanced Cordless Telecommunications) hervorgerufen, die ausserhalb Europas - also zum Beispiel in den Vereinigten Staaten, Südamerika, Kanada oder Asien - oder im Internet gekauft wurden. Das BAKOM schliesst nicht aus, dass Personen, die solche Schnurlostelefone eingeführt und verwendet haben, für die Kosten der Störungssuche und -behebung aufkommen müssen.
+Das BAKOM empfiehlt den Nutzerinnen und Nutzern, ihre DECT-Schnurlostelefone in der Schweiz oder Europa im Fachhandel zu kaufen, um keine Störungen in den UMTS-Mobiltelefonienetzen zu verursachen. Solche Störungen ziehen einen Eingriff des BAKOM und die Ausserbetriebsetzung des Schnurlostelefons nach sich. Den Eigentümerinnen und Eigentümer solcher Telefone, die sie direkt importiert haben, können auch die Kosten für den Eingriff des Amtes verrechnet werden.
+Störungen im UMTS-Netz
+DECT-Geräte, die in Nord- und Südamerika oder Asien verkauft werden, benutzen andere Frequenzbänder. Sie sind in Europa den UMTS-Mobiltelefonienetzen vorbehalten. Obwohl die Hersteller diese Telefone auf dem europäischen Markt nicht anbieten, werden einige hier verwendet und verursachen Störungen in den UMTS-Mobiltelefonienetzen. In den letzten 12 Monaten musste das BAKOM über hundertmal wegen Problemmeldungen der Mobiltelefonieanbieter eingreifen. Die Analyse dieser Fälle zeigt, dass diese Schnurlostelefone entweder nach Reisen in andere Teile der Welt in die Schweiz gebracht oder im Internet bestellt wurden.Die in Europa spezifisch für diesen Markt entwickelte DECT-Technologie hat sich auf dem Kontinent als einzige Technologie für Schnurlostelefone durchgesetzt. Ihr Erfolg lässt sich einerseits mit der europaweiten Harmonisierung des ausschliesslich diesen Telefonen vorbehaltenen 1.8 GHz-Frequenzbandes und andererseits mit ihren technischen Eigenschaften erklären. Beim Eroberungsfeldzug auf anderen Märkten, insbesondere dem amerikanischen, war die Technologie gezwungen andere Frequenzen zu nutzen. Dies, wegen der unterschiedlichen Verwendung des Frequenzspektrums in den verschiedenen Regionen der Welt.
+Weitere Informationen
+Marktzugang Funkanlagen
+RIR0503-01
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 03.07.2018
+Zum Seitenanfang

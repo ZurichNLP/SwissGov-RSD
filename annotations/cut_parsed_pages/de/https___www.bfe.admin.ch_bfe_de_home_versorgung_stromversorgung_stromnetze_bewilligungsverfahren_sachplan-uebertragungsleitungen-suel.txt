@@ -1,0 +1,53 @@
+Räumliche Koordination – Sachplan Übertragungsleitungen (SÜL)
+Die Sachplanung ist das übergeordnete Planungs- und Koordinationsinstrument des Bundes für die Umsetzung seiner raumplanerischen Aufgaben. Bauvorhaben für den Aus- und Neubau von Hochspannungsleitungen auf der Spannungsebene 220/380 kV, die sich erheblich auf Raum und Umwelt auswirken, müssen in der Regel im Sachplan Übertragungsleitungen (SÜL) festgesetzt werden. Verantwortlich für die Erarbeitung des SÜL ist das Bundesamt für Energie (BFE) in Zusammenarbeit mit dem Bundesamt für Raumentwicklung (ARE). Für die Festsetzungen im SÜL ist der Bundesrat zuständig. In das Sachplanverfahren sind weitere Beteiligte involviert. Eine wichtige Rolle spielt dabei die Begleitgruppe.
+Die projektspezifische Begleitgruppe wird vom BFE im Rahmen der Sachplanverfahren eingesetzt. In der Begleitgruppe sind das ARE, das BAFU und allenfalls weitere vom Vorhaben betroffene Bundesämter sowie die die ElCom, das ESTI, die betroffenen Kantone, die gesamtschweizerisch tätigen Umweltschutzorganisationen und die gesuchstellende Unternehmung (i.d.R. die Swissgrid AG) vertreten.
+Die Begleitgruppe
+Beim Sachplanverfahren handelt es sich um ein Behördenverfahren, in dem das Vorhaben möglichst optimal in die Landschaft eingebettet und mit den Anforderungen der Raumplanung und des Umweltschutzes abgestimmt werden soll. Technische und wirtschaftliche Überlegungen werden miteinbezogen. Interessierte Private können im Rahmen des Anhörungs- und Mitwirkungsverfahrens Stellung nehmen. Das Sachplanverfahren läuft in mehreren Phasen ab.
+Die gesuchstellende Unternehmung (in der Regel die nationale Netzgesellschaft Swissgrid AG) erarbeitet Varianten möglicher Planungsgebiete und schliesst mit den betroffenen Kantonen eine Koordinationsvereinbarung ab. Darin werden die Planungsziele, die Zuständigkeiten und der zeitliche Ablauf für die weiteren Verfahrensschritte, die Mitwirkung und die Information der Gemeinden sowie das Vorgehen zur Anpassung der kantonalen Planung geregelt. Damit wird sichergestellt, dass die Anliegen der Kantone frühzeitig berücksichtigt werden können.
+Die gesuchstellende Unternehmung leitet anschliessend das Sachplanverfahren beim BFE ein. Dem Gesuch sind eine Begründung des Vorhabens sowie Angaben zu dessen Bedarf, eine Beurteilung der möglichen Planungsgebiete sowie die Koordinationsvereinbarung beizulegen.
+Das BFE übermittelt die Gesuchsunterlagen an die in der Raumordnungskonferenz des Bundes (ROK) vertretenen Ämter zur Stellungnahme innert zwei Monaten.
+Nach Eingang der Stellungnahmen setzt das BFE innert zwei Monaten eine Begleitgruppe ein. Es kann für die Besichtigung der möglichen Planungsgebiete eine Begehung mit der Begleitgruppe organisieren.
+Die Begleitgruppe prüft die Gesuchsunterlagen und empfiehlt ein Planungsgebiet. Dieses muss so gross sein, dass darin mehrere Planungskorridore ausgearbeitet werden können.
+Das BFE erarbeitet gestützt auf die Empfehlung der Begleitgruppe den Entwurf für das Objektblatt und eröffnet das Anhörungs- und Mitwirkungsverfahren in den Kantonen. Interessierte Private, Organisationen und Verbände können im Rahmen des Anhörungs- und Mitwirkungsverfahren Stellung nehmen.
+Nach dem Anhörungs- und Mitwirkungsverfahren bereinigt das BFE das Objektblatt und führt eine Ämterkonsultation durch.
+Das BFE veranlasst innerhalb von zwei Monaten nach Abschluss der Ämterkonsultation die Festsetzung des Planungsgebietes durch den Bundesrat.
+In den Fällen, in denen der Spielraum für mehrere Planungsgebiete als nicht ausreichend betrachtet wird, kann die gesuchstellende Unternehmung mit Zustimmung der betroffenen Kantone dem BFE nur ein einziges Planungsgebiet vorschlagen. Das BFE kann nach Rücksprache mit der Begleitgruppe auf eine formelle Festsetzung des Planungsgebiets verzichten.
+Die gesuchstellende Unternehmung erarbeitet unter Einbezug der betroffenen Kantone im Planungsgebiet mindestens zwei Korridorvarianten und reicht dem BFE die erforderlichen Unterlagen ein.
+Das BFE übermittelt diese Unterlagen der Begleitgruppe. Es kann für die Besichtigung der möglichen Korridorvarianten eine Begehung mit der Begleitgruppe organisieren.
+Die Begleitgruppe beurteilt die vorgeschlagenen Korridore und empfiehlt dem BFE einen Planungskorridor sowie die Übertragungstechnologie (Freileitung oder Erdkabel). Bei dieser Beurteilung berücksichtigt sie die Auswirkungen auf Raum und Umwelt, die technischen Aspekte und die Wirtschaftlichkeit.
+Das BFE erarbeitet gestützt auf die Empfehlung der Begleitgruppe den Entwurf für das Objektblatt und eröffnet das Anhörungs- und Mitwirkungsverfahren in den Kantonen.
+Anschliessend bereinigt das BFE das Objektblatt und führt eine Ämterkonsultation durch.
+Das BFE veranlasst innerhalb von zwei Monaten nach Abschluss der Ämterkonsultation die Festsetzung des Planungskorridors und der Übertragungstechnologie durch den Bundesrat.
+Das Ergebnis dieses Verfahrens ist ein Objektblatt, in welchem der Bundesrat einen Planungskorridor für das Leitungsbauvorhaben sowie die anzuwendende Übertragungstechnologie (Freileitung oder Erdkabel) festsetzt. Das Objektblatt ist für die gesuchstellende Unternehmung sowie für die Behörden von Bund, Kantonen und Gemeinden verbindlich. Die Entscheide, welche vom Bundesrat im Rahmen des Sachplanverfahrens getroffen werden, sind nicht anfechtbar.
+Nach Abschluss des Sachplanverfahrens kann die gesuchstellende Unternehmung innerhalb des festgesetzten Korridors das konkrete Leitungsprojekt ausarbeiten und das Plangenehmigungsverfahren einleiten.
+Unter bestimmten Umständen kann auf die Durchführung eines Sachplanverfahrens verzichtet werden. Das BFE entscheidet über die entsprechenden Ausnahmen von der Sachplanpflicht.
+Das BFE prüft, ob ein Vorhaben betreffend eine Leitung mit einer Nennspannung von 220 kV oder höher in einem Sachplan festgesetzt werden muss (Prüfung der Sachplanpflicht). Diese Prüfung erfolgt von Amtes wegen oder auf Antrag des ESTI oder der Gesuchstellerin. Das BFE kann von der gesuchstellenden Unternehmung geeignete Unterlagen verlangen.
+Wenn davon ausgegangen werden kann, dass das Vorhaben keine erheblichen Auswirkungen auf Raum und Umwelt hat, unterliegt es der Sachplanpflicht nicht. Andernfalls prüft das BFE, ob allenfalls Gründe für eine Ausnahme von der Sachplanpflicht vorliegen und ob das Sachplanverfahren einzuleiten ist.
+Die entsprechenden Ausnahmetatbestände sind in Artikel 1b der Verordnung über das Plangenehmigungsverfahren für elektrische Anlagen (VPeA, SR 734.25) umschrieben.
+Dokumente
+Bewertungsschema Übertragungsleitungen
+Unterlagen zu laufenden Sachplanverfahren
+Sachplan Übertragungsleitungen (SÜL)
+Links
+Karte Sachplan Übertragungsleitungen (SÜL)
+Geobasisdaten und Geodatenmodell
+Plangenehmigungsverfahren (PGV) für elektrische Anlagen
+Nationale Netzgesellschaft Swissgrid AG
+Eidgenössischen Elektrizitätskommission ElCom
+Eidgenössisches Starkstrominspektorat (ESTI)
+Raumordnungskonferenz des Bundes (ROK)
+Medien
+Bundesrat setzt Planungskorridor für Hochspannungsleitung in Graubünden fest
+Bundesrat setzt Planungskorridor für Hochspannungsleitung durch das Maggiatal fest
+Planungskorridor für Hochspannungsleitung zwischen All’Acqua und Magadino durch das Maggiatal wird öffentlich aufgelegt
+Bundesrat verabschiedet Totalrevision des Konzeptteils des Sachplans Übertragungsleitungen (SÜL)
+Bundesrat setzt zwei Planungskorridore für die Grimselleitung fest
+Bundesrat setzt Planungskorridor für Höchstspannungsleitung im Reusstal fest
+Grimsel-Leitung soll weitgehend erdverkabelt werden. Empfehlung der Begleitgruppe für die neue Höchstspannungsleitung Innertkirchen – Ulrichen
+UVEK startet Anhörung zur Revision des Konzeptteils des Sachplans Übertragungsleitungen
+Recht
+SR 734.7 - Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgungsgesetz, StromVG)
+SR 734.0 - Bundesgesetz vom 24. Juni 1902 betreffend die elektrischen Schwach- und Starkstromanlagen (Elektrizitätsgesetz, EleG)
+SR 734.25 - Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für elektrische Anlagen (VPeA)
+Letzte Änderung 20.12.2024
+Zum Seitenanfang

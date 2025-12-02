@@ -1,0 +1,57 @@
+Drones et modèles réduits d'avion
+Les drones sont des appareils télécommandés, généralement de petite taille. Légalement, ils sont assimilés à des modèles réduits d'avion et considérés comme des installations de radiocommunication. Le nombre de drones exploités à titre commercial et privé en Suisse est en constante augmentation.
+L'Office fédéral de l'aviation civile (OFAC) est l'organe compétent en matière de politique aéronautique et de surveillance de l'aviation civile suisse:
+OFAC Homepage
+En ce qui concerne la réglementation relative au spectre des fréquences et aux installations de radiocommunication, les drones relèvent de la compétence de l'OFCOM :
+Contact spécialisé pour les fréquences et les concessions de radiocommunication:
+kf-fk@bakom.admin.ch
+Conformité des drones
+ici.
+Dans la mesure où il contient un émetteur et/ou un récepteur radio, un drone est considéré comme une installation de radiocommunication. Les exigences légales relatives à l'accès au marché (p. ex., l'offre, la vente, le prêt, la mise en circulation) et à la conformité des équipements sont décrites 
+ici
+Vous trouverez  des informations sur l'achat d'installations de radiocommunication à l'étranger pour un usage personnel ou sur la revente en Suisse.
+Contact spécialisé Accès au marché et conformité:
+ra-mk@bakom.admin.ch
+Utilisation des ressources en fréquences
+Des fréquences sont nécessaires pour les applications de commande et de contrôle, pour la transmission de données d'utilisation, ainsi que pour les systèmes d'alerte de trafic et d'évitement de collision.
+Les fréquences disponibles doivent généralement être partagées avec d'autres utilisateurs. Vu qu'aucune ressource de fréquences n'est actuellement disponible exclusivement pour les drones, une utilisation sans perturbations n'est pas garantie. Des travaux sont en cours au niveau international pour résoudre ce problème.
+Ressources de fréquences pour les systèmes de contrôle et de communication ainsi que pour la transmission de données d'utilisation (payload)
+Différentes bandes de fréquences sont disponibles pour les applications de commande et de contrôle ainsi que pour la transmission de données d'utilisation (sol-air/air-sol). Leur utilisation est soumise à différentes dispositions réglementaires (prescriptions techniques d'interface [RIR]):
+Les utilisations de fréquences susmentionnées ne requièrent aucune concession, ni annonce préalable, ni certificat de capacité.
+Ressources de fréquences pour les systèmes d'alerte de trafic et d'évitement de collision
+L'utilisation des fréquences est soumise à différentes dispositions réglementaires (prescriptions techniques d'interface [RIR]):
+Les utilisations de fréquences susmentionnées ne requièrent aucune concession, ni annonce préalable, ni certificat de capacité.
+Directive relative à l'utilisation des transpondeurs et de l'ADS-B pour les drones et les modèles réduits d'avion
+rpas@bazl.admin.ch
+Autorisation d’exploitation selon une SORA
+Les intéressés sont priés de s'adresser à l'OFAC rpas@bazl.admin.ch pour demander l'utilisation d'un transpondeur et de l'ADS-B sur un drone. Plus d'informations sont disponibles sur le site de l'OFAC :  "Transponder (Info)"
+Une fois que l'OFAC a autorisé l'utilisation du transpondeur et de l'ADS-B sur le drone (en attribuant l'adresse de 24 bits (ICAO code)), le requérant doit demander la notification de l'équipement radio à :
+Installation radio à bord d'un aéronef - Informations détaillées | eGovernment DETEC
+.
+Les fréquences utilisées à cette fin sont soumises à certaines exigences réglementaires (prescriptions techniques d’interface (RIR)) :
+kf-fk@bakom.admin.ch
+Pour toute question concernant l'utilisation du portail eGovernment, vous pouvez également vous adresser à l'OFCOM à l’adresse suivante : 
+Ressources de fréquences pour les systèmes pour la détection
+Actuellement, aucune fréquence n'est disponible en Suisse pour la détection des drones. Toutefois, des travaux sont en cours en vue de libérer des fréquences. Une fois ces travaux achevés, un cadre réglementaire sera défini (prescriptions techniques d'interface [RIR]).
+Utilisation de fréquences de radiocommunication mobile
+En principe, l'utilisation du spectre radioélectrique mobile est limitée aux applications terrestres.
+ECC Report 309
+ECC Report 348
+ECC Decision (22)07
+Des recherches ont été entreprises au niveau européen pour permettre l'exploitation d'un équipement utilisateur aerial user equipment (UE) à bord d'un aéronef sans pilote (par exemple, les drones) ou à bord d'un aéronef avec pilote (par exemple, les hélicoptères), principalement à des fins professionnelles. Les résultats ont été publiés par le Electronic Communications Committee (ECC) dans deux rapports : le ECC Report 309 et le ECC Report 348. Les conclusions de ces rapports ont été utilisées pour élaborer la . Cette décision, qui décrit les exigences techniques relatives à l'utilisation d’aerial UE pour les communications basées sur Long Term Evolution (LTE) et la 5G New Radio (5G NR) dans des bandes de fréquences spécifiques pour mobile/fixed communications networks (MFCN). Cette décision nécessite encore des études et des procédures pour sa mise en œuvre au niveau national.
+L'OFCOM analyse et discute actuellement des conséquences de la mise en œuvre de la décision ECC Decision (22)07 en Suisse. Tant que la décision n'est pas mise en œuvre dans le cadre national (à savoir PNAF), l'utilisation des fréquences MFCN pour l’aerial UE n'est pas autorisée en Suisse. Néanmoins, une licence d'essai peut être demandée à l'OFCOM pour effectuer des essais d’aerial UE sur les fréquences MFCN. Il faut savoir qu'il n'existe toutefois aucun droit à l'octroi d'une telle licence.
+Organes internationaux
+ECC - Groups - ECC - ECC PT1 - News (cept.org)
+ECC Project Team 1  - 
+Le groupe de projet étudie, entre autres, les problèmes liés à l'utilisation d’aerial UE dans les zones frontalières.  Ainsi que la préparation d'une réponse au mandat de la Commission Européenne concernant les conditions techniques et opérationnelles harmonisées pour l'utilisation de systèmes d'antennes non actives avec des stations de terminaux aerial dans les bandes MFCN harmonisées.
+Documents
+ECC Report 309 (PDF, 13 MB, 24.08.2020)
+ECC Report 348 (PDF, 800 kB, 30.03.2023)
+ECC Decision (22)07 (PDF, 168 kB, 19.08.2024)
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 26.03.2025

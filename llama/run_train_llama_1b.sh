@@ -1,0 +1,23 @@
+python -m llama.train_llama \
+    --model_name_or_path meta-llama/Llama-3.2-1B-Instruct \
+    --dataset_name custom \
+    --dataset_train_split train \
+    --dataset_test_split valid \
+    --max_seq_length 4096 \
+    --learning_rate 2.0e-4 \
+    --num_train_epochs 10 \
+    --per_device_train_batch_size 2 \
+    --gradient_accumulation_steps 8 \
+    --per_device_eval_batch_size 2 \
+    --gradient_checkpointing \
+    --logging_steps 25 \
+    --evaluation_strategy epoch \
+    --save_strategy epoch \
+    --load_best_model_at_end True \
+    --metric_for_best_model eval_loss \
+    --save_total_limit 1 \
+    --use_peft \
+    --lora_r 32 \
+    --lora_alpha 16 \
+    --load_in_4bit \
+    --output_dir out/Llama-3.2-1B-Instruct-rsd

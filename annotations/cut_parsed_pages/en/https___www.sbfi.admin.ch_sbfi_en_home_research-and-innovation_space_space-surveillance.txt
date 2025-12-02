@@ -1,0 +1,17 @@
+Space Safety
+© ESA
+The systematic monitoring of outer space is necessary to ensure the safe exploration and sustainable use of space. The safety aspect takes on even greater importance as scientific and commercial applications and services based on space infrastructures become more prevalent. It is the aim of ESA’s Space Safety Programme (formerly the Space Situational Awareness Programme) to contribute to the protection of our planet, of humanity, and of infrastructures both on Earth and in space against threats from outer space. The programme includes activities in the areas of space weather, protecting the planet against asteroids, collisions between satellites and space debris, and the sustainable use of space.
+The sheer scope of space activities has led to a proliferation of objects orbiting the Earth. This increases the risk of collisions for satellites that are still in use. The first accident between two operational satellites occurred on 10 February 2009 at an altitude of 776 km above Siberia. A private American communications satellite hit a Russian military satellite at a relative speed of 11.7 km/second.
+The monitoring of space weather is another important aspect of space safety. Magnetic storms can damage the highly sensitive electronic instruments and solar panels on satellites. Ionospheric currents also pose a danger to ground infrastructures, particularly for high-voltage networks and electrical substations. Magnetic storms can disrupt modern navigation and communication systems and can even render them inoperable.
+Another threat our planet faces is asteroid impacts. The asteroid that collided with Earth in Tunguska (Siberia) in 1908 is believed to have been between 60 m and 100 m in diameter. In the case of Chelyabinsk in 2013, it is estimated that the asteroid whose shock wave affected six Russian cities was 20 m wide.
+The ESA Space Safety Programme is developing satellites and sensors to better monitor space weather and protect the planet from asteroids. This involves expanding the observation network to improve data collection, and developing prediction models for forecasts and alert systems. Furthermore, the world's first satellite mission for the active removal of space debris (ESA’s ADRIOS mission) is currently being set up, under Swiss leadership, and sensor technologies to monitor space debris and make automatic collision avoidance possible are being developed.
+Swiss companies and research institutes have been taking part in the programme since its beginnings. They contribute their know-how to the development of technology, software and hardware. They also apply their astronomical research expertise to observe near-Earth objects (debris in space) as well as satellites and to study space weather.
+Links
+ESA SSA
+Space Weather
+Space debris
+Contact
+SERI, Jürg Schopfer
+
+T +41 58 464 10 72
+Shopping cart

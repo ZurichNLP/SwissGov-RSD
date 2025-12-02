@@ -1,0 +1,51 @@
+Coordination territoriale: plan sectoriel des lignes de transport d’électricité (PSE)
+La planification sectorielle est le principal instrument de planification et de coordination de la Confédération dans la mise en œuvre de ses tâches relatives à l’aménagement du territoire. Les projets d’extension ou de construction de lignes à haute tension (220/380 kV), qui ont des effets importants sur le territoire et l’environnement, doivent en règle générale figurer dans le plan sectoriel des lignes de transport d’électricité (PSE). L’élaboration du PSE est du ressort de l’Office fédéral de l’énergie (OFEN), qui collabore pour ce faire avec l’Office fédéral du développement territorial (ARE). C’est au Conseil fédéral qu’il incombe de déterminer au final ce qui figurera dans le PSE. D’autres parties prenantes sont impliquées dans la procédure de plan sectoriel, notamment le groupe d’accompagnement, qui y joue un rôle majeur.
+Le groupe d’accompagnement spécifique à un projet est institué par l’OFEN dans le cadre de la procédure de plan sectoriel. Il comprend des représentants de l’ARE, de l’OFEV et, le cas échéant, d’autres offices fédéraux concernés par le projet, ainsi que de l’ElCom, de l’ESTI, des cantons concernés, des organisations de protection de l’environnement actives dans toute la Suisse et de l’entreprise requérante (en règle générale Swissgrid SA).
+Le groupe d’accompagnement;
+L’entreprise requérante (en règle générale Swissgrid SA, société nationale du réseau de transport) élabore différentes variantes concernant les zones de planification possibles et conclut un accord de coordination avec les cantons concernés. Ce document fixe les objectifs du projet, les compétences et le calendrier des étapes suivantes, la participation et l’information des communes ainsi que la procédure d’adaptation de la planification cantonale. Cette façon de procéder permet d’assurer que les requêtes des cantons soient prises en compte le plus tôt possible dans la planification.
+L’entreprise requérante demande ensuite à l’Office fédéral de l’énergie (OFEN) de mener une procédure de plan sectoriel. Elle joint à sa demande une justification du projet et des informations sur sa nécessité ainsi qu’une évaluation des zones de planification possibles et l’accord de coordination.
+L’Office fédéral de l’énergie (OFEN) transmet le dossier aux offices représentés au sein de la Conférence de la Confédération pour l’organisation du territoire (COT), qui doivent prendre position dans un délai de deux mois.
+Après réception de leurs prises de position, l’OFEN forme dans les deux mois un groupe d’accompagnement spécifique au projet. Il peut organiser une visite des zones de planification potentielles avec ce groupe.
+Après examen du dossier, le groupe d’accompagnement recommande une zone de planification. Celle-ci doit être suffisamment grande pour permettre l’élaboration de plusieurs corridors de planification.
+Sur la base de cette recommandation, l’OFEN établit un projet de fiche d’objet et ouvre la procédure de consultation et de participation dans les cantons. Celle-ci permet aux particuliers, aux organisations et aux associations intéressés dese prononcer.
+Au terme de cette consultation, l’OFEN remanie son projet de fiche d’objet et mène une procédure de consultation des offices.
+Dans les deux mois suivant la clôture de cette deuxième procédure de consultation, il demande au Conseil fédéral de déterminer la zone de planification.
+Dans les cas où la marge de manœuvre pour plusieurs zones de planification n’est pas considérée comme suffisante, l’entreprise requérante peut, avec l’approbation des cantons concernés, proposer à l’OFEN une seule zone de planification. Après entente avec le groupe d’accompagnement, l’OFEN peut renoncer à la détermination formelle de la zone de planification.
+L’entreprise requérante élabore au moins deux corridors de planification avec la participation des cantons concernés et fournit les documents nécessaires à l’Office fédéral de l’énergie (OFEN).
+L’OFEN transmet ce dossier au groupe d’accompagnement. Il peut organiser une visite des corridors de planification potentiels avec ce dernier.
+Après évaluation des corridors proposés, le groupe d’accompagnement recommande à l’OFEN un corridor de planification ainsi que la technologie de transport à utiliser (ligne aérienne ou ligne souterraine). Lors de son évaluation, il tient compte de l’effet sur l’aménagement du territoire et sur l’environnement, des aspects techniques et de la rentabilité.
+Sur la base de cette recommandation, l’OFEN établit un projet de fiche d’objet et ouvre la procédure de consultation et de participation dans les cantons.
+Au terme de cette consultation, l’OFEN remanie son projet de fiche d’objet et mène une procédure de consultation des offices.
+Dans les deux mois suivant la clôture de cette deuxième procédure de consultation, il demande au Conseil fédéral de déterminer le corridor de planification et la technologie de transport de l’électricité.
+La procédure de plan sectoriel, procédure de type administratif, vise à intégrer le mieux possible un projet dans le paysage en tenant compte des exigences en matière d’aménagement du territoire et de protection de l’environnement. Cette procédure inclut notamment des réflexions d’ordre technique et économique. Elle comprend différentes étapes, dont celle de la consultation et de la participation durant laquelle les particuliers intéressés peuvent se prononcer.
+Cette procédure aboutit à la formulation d’une fiche d’objet, dans laquelle le Conseil fédéral détermine le corridor de planification pour la construction de la ligne électrique ainsi que la technologie de transport à utiliser (ligne aérienne ou ligne souterraine). La fiche d’objet a force obligatoire pour les autorités fédérales, cantonales et communales. Les décisions arrêtées par le Conseil fédéral dans le cadre de la procédure de plan sectoriel ne peuvent pas faire l’objet d’un recours.
+Une fois la procédure de plan sectoriel achevée, l’entreprise requérante peut élaborer un projet concret de ligne électrique dans le cadre du corridor de planification fixé et lancer la procédure d’approbation des plans.
+Dans certains cas, il est possible de renoncer à une telle procédure. C’est l’Office fédéral de l’énergie qui détermine les projets pouvant bénéficier d’une exception à l’obligation de fixation dans un plan sectoriel.
+L’Office fédéral de l’énergie (OFEN) vérifie si un projet concernant une ligne d’une tension nominale égale ou supérieure à 220 kV doit être fixé dans un plan sectoriel (obligation de fixer un projet dans un plan sectoriel). Cet examen est réalisé d’office ou sur demande de l’ESTI ou de l’entreprise requérante. L’OFEN peut demander à cette dernière les documents appropriés.
+S’il ressort de la vérification que le projet n’a pas d’effet considérable sur l’aménagement du territoire et sur l’environnement, celui-ci n’est pas soumis à l’obligation d’être fixé dans un plan sectoriel. Dans le cas contraire, l’OFEN examine s’il existe des motifs de déroger à cette obligation et si la procédure de plan sectoriel doit être engagée.
+La liste des cas dans lesquels il est possible de déroger à l’obligation de fixer un projet dans un plan sectoriel sont décrits à l’art. 1b de l’ordonnance sur la procédure d’approbation des plans des installations électriques (OPIE, RS 734.25).
+Documents
+Modèle d’évaluation pour les lignes de transport d’électricité
+Documentation concernant les procédures de plan sectoriel en cours
+Plan sectoriel des lignes de transport d’électricité (PSE)
+Liens
+Carte plans sectoriels des lignes de transport d’électricité (PSE)
+Géodonnées de base et modèle de géodonnées
+Procédure d’approbation des plans (PAP) pour les installations électriques
+Société nationale pour l’exploitation du réseau Swissgrid SA
+Commission fédérale de l’électricité ElCom
+Inspection fédérale des installations à courant fort ESTI
+Conférence pour l'organisation du territoire COT
+Médias
+Le Conseil fédéral détermine le corridor de planification pour une ligne à haute tension dans les Grisons
+Le Conseil fédéral détermine le corridor de planification pour la ligne à haute tension traversant le Vallemaggia
+Un corridor de planification pour la ligne à haute tension entre All’Acqua et Magadino traversant la Vallemaggia sera mis à l’enquête publique
+Le Conseil fédéral approuve la révision totale de la partie conceptuelle du plan sectoriel des lignes de transport d’électricité (PSE)
+Le Conseil fédéral détermine le corridor de planification pour la ligne à haute tension dans la vallée de la Reuss
+La ligne du Grimsel doit être en grande partie enterrée. Recommandation du groupe d’accompagnement pour la nouvelle ligne à très haute tension Innertkirchen – Ulrichen
+Le DETEC lance la consultation concernant la révision de la partie conceptuelle du plan sectoriel des lignes de transport d’électricité
+Droit
+RS 734.7 - Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)
+RS 734.0 - Loi fédérale du 24 juin 1902 sur les installations électriques (LIE)
+RS 734.25 - Ordonnance du 2 février 2000 sur la procédure d’approbation des plans des installations électriques (OPIE)
+Dernière modification 20.12.2024

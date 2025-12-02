@@ -1,0 +1,37 @@
+Vote électronique
+La Confédération et les cantons ont acquis depuis 2004 une expérience significative en matière de vote électronique. Depuis 2004, plus de 300 essais ont été menés à cet égard avec succès.
+Avec le projet Vote électronique, on a pris les mesures nécessaires pour que le citoyen puisse exercer ses droits politiques également par voie électronique, ce qui peut ouvrir de nouvelles perspectives à la démocratie.
+Vote électronique est un projet porté conjointement par la Confédération et les cantons. Ce projet fait partie intégrante de la stratégie suisse de cyberadministration : les électeurs doivent pouvoir voter sans entraves, de façon mobile et de manière vérifiable. Vote électronique apportera aux électeurs les avantages suivantes :
+Le principe qui veut que « la sécurité prime la vitesse » est appliqué depuis que le projet a été lancé. En Suisse sont uniquement agréés les systèmes de vote électronique qui répondent aux sévères exigences de sécurité fédérales. Les conditions permettant de garantir la fiabilité du vote électronique sont réunies et le secret du vote est lui aussi garanti.
+État actuel
+Le Conseil fédéral a chargé la Chancellerie fédérale, le 26 juin 2019, de concevoir avec les cantons une restructuration de la phase d’essai du vote électronique. La restructuration de la phase d’essai se fait en fonction des objectifs suivants :
+Exigences du droit fédéral
+En 2020, la Chancellerie fédérale et les cantons ont établi en commun un rapport final consacré à la restructuration et à la reprise des essais. La première étape de la restructuration de la phase d’essai a consisté à réviser les bases légales du vote électronique. Les projets de révision partielle de l’ordonnance sur les droits politiques (ODP) et de révision totale de l’ordonnance de la ChF sur le vote électronique (OVotE) sont entrés en vigueur le 1er juillet 2022 ().
+Communiqué de presse du Conseil fédéral du 3 mars 2023
+Communiqué de presse du Conseil fédéral du 16 août 2023
+Conditions des essais
+Le Conseil fédéral a accordé aux cantons de Bâle-Ville, de Saint-Gall et de Thurgovie l’autorisation générale pour mener des essais de vote électronique durant la période 2023 à 2025 et dans le cadre du scrutin du 22 octobre 2023 pour l’élection du Conseil national (voir Communiqué de presse du Conseil fédéral du 3 mars 2023 et Communiqué de presse du Conseil fédéral du 16 août 2023). Les autorisations générales sont valables pour une partie limitée de l’électorat (voir ).
+Communiqué de presse du Conseil fédéral du 22 novembre 2023
+Conditions des essais
+Réuni le 22 novembre 2023, le Conseil fédéral a aussi accordé au canton des Grisons une autorisation générale pour mener des essais de vote électronique durant la période 2024 à 2026 (voir Communiqué de presse du Conseil fédéral du 22 novembre 2023). L’autorisation est valable pour une partie limitée de l’électorat (voir ).
+Contrôles des systèmes
+catalogue des mesures de la Confédération et des cantons
+Les cantons utilisent le système de vote électronique à vérifiabilité complète de La Poste Suisse. Le système et son exploitation ont été développés et, sur mandat de la Chancellerie fédérale, contrôlés (voir Contrôles des systèmes). Les besoins d’action qui subsistent ont été identifiés et consignés dans un catalogue de mesures commun, conformément au processus d’amélioration continue de la Confédération et des cantons concernés, et en accord avec La Poste (cf. ). La Chancellerie fédérale s’assure de la mise en œuvre des mesures dans le cadre des procédures d’agrément.
+Communiqués de presse
+Le Conseil fédéral autorise le recours au vote électronique dans le canton des Grisons
+À sa séance du 22 novembre 2023, le Conseil fédéral a accordé au canton des Grisons une autorisation générale pour mener des essais de vote électronique dans le cadre des votations fédérales. L’autorisation générale est valable pour une partie limitée de l’électorat jusqu’à la votation du 8 mars 2026 comprise. Par ailleurs, la Chancellerie fédérale a délivré pour sa part l’agrément pour la votation du 3 mars 2024.
+Le Conseil fédéral autorise le recours au vote électronique pour l’élection 2023 du Conseil national
+Réuni le 16 août 2023, le Conseil fédéral a accordé aux cantons de Bâle-Ville, de Saint-Gall et de Thurgovie une autorisation générale pour mener un essai de vote électronique dans le cadre du scrutin du 22 octobre 2023 pour l’élection du Conseil national. Les autorisations générales sont valables pour une partie limitée de l’électorat.
+Le Conseil fédéral autorise la reprise des essais de vote électronique
+À sa séance du 3 mars 2023, le Conseil fédéral a accordé aux cantons de Bâle-Ville, de Saint-Gall et de Thurgovie l’autorisation générale pour la reprise des essais de vote électronique dans le cadre des votations fédérales. L’autorisation est valable pour une partie limitée de l’électorat jusqu’à la votation du 18 mai 2025 comprise. À cette occasion, la Chancellerie fédérale a délivré pour sa part l’agrément pour la votation du 18 juin 2023.
+Conférence de presse du 3 mars 2023
+Vote électronique : entrée en vigueur des nouvelles bases légales
+La première étape de la restructuration de la phase d’essai du vote électronique sera régie par de nouvelles bases légales à partir du 1er juillet 2022. À sa séance du 25 mai 2022, le Conseil fédéral a arrêté la mise en vigueur du projet de révision partielle de l’ordonnance sur les droits politiques (ODP). Il a également pris acte de ce que l’ordonnance de la Chancellerie fédérale sur le vote électronique (OVotE), qui a fait l’objet d’une révision totale, entrera en vigueur en même temps. Une fois ce nouveau cadre réglementaire mis en place, les cantons pourront à nouveau demander au Conseil fédéral de proposer à leurs électeurs le vote électronique.
+Vote électronique : les résultats du premier contrôle indépendant sont disponibles
+Le système de vote électronique que la Poste suisse est en train de développer a été considérablement amélioré. Les premiers rapports d’audit indépendant établis par les experts mandatés par la Chancellerie fédérale montrent toutefois que certaines étapes, parfois importantes, doivent encore être menées dans le développement du système. Ce dernier intégrera les résultats de ce contrôle.
+Tous les communiqués de presse
+La sécurité du E-Voting en Suisse
+La vidéo de la Chancellerie fédérale explique les mesures mises en œuvre pour un vote électronique sécurisé en Suisse.
+Documents
+Vote électronique : Fiche d'information (PDF, 129 kB, 03.03.2023)
+Vote électronique : Glossaire (PDF, 142 kB, 03.03.2023)

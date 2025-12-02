@@ -1,0 +1,8 @@
+Studi
+La Banca dati «Studi elaborati da periti esterni» contiene gli studi, i rapporti e le valutazioni commissionati dall'Amministrazione federale a organizzazioni esterne dopo il 1° gennaio 2010. I singoli documenti sono corredati da un compendio quadrilingue del contenuto e da parole chiave. La ricerca è possibile in base a vari criteri quali ad esempio i costi, il credito a cui questi sono stati imputati, il mandante o il mandatario.
+Progetti di ricerca/di sviluppo
+Valutazione del progetto/verifiche di efficacia
+tutti i progetti
+È inoltre possibile effettuare ricerche per categoria quali "Progetti di ricerca/di sviluppo" o "Valutazione del progetto/verifiche di efficacia" utilizzando la rubrica corrispondente. L'ultima rubrica permette una ricerca generale di , indipendentemente dal tipo di progetto.
+Cliccando sullo studio corrispondente si apre una visualizzazione dettagliata. È inoltre possibile cliccare sull'Aramis-ID per consultare direttamente lo studio in Aramis.
+Ulteriori informazioni

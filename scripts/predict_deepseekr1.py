@@ -1,0 +1,108 @@
+from openai import OpenAI
+import json
+from tqdm import tqdm
+
+client = OpenAI(api_key=open(".openai/deepseek.txt").read().strip(), base_url="https://api.deepseek.com")
+
+start = 0
+end = 1101
+output = f"data/evaluation/llm_predictions/deepseek-r1-{start}-{end}.jsonl"
+
+with open("data/evaluation/llm_inputs/test.jsonl", "r") as f_in, open(output, "a") as f_out:
+    i = None
+    for i, line in enumerate(tqdm(f_in, desc=f"Processing items {start}-{end} (current: {i if i else start})", initial=start)):
+        if i < start:
+            continue
+        if i >= end:
+            break
+        item = json.loads(line)
+        
+        # Extract sentences from the message content
+        content = item["messages"][0]["content"]
+        # Find the last occurrence of "Sentence 1:" and "Sentence 2:"
+        sentence1_start = content.rfind("Sentence 1: [") + len("Sentence 1: [")
+        sentence1_end = content.find("]", sentence1_start)
+        sentence2_start = content.rfind("Sentence 2: [") + len("Sentence 2: [")
+        sentence2_end = content.find("]", sentence2_start)
+
+        sentence1 = content[sentence1_start:sentence1_end].replace('"', '').split(", ")
+        sentence2 = content[sentence2_start:sentence2_end].replace('"', '').split(", ")
+        
+        # Create API request object
+        api_request = {
+            "custom_id": f"request-{item['id']}",
+            "method": "POST",
+            "url": "https://api.deepseek.com",
+            "body": {
+                "model": "deepseek-reasoner",
+                "messages": item["messages"],
+                "response_format": {"type": "json_object"}
+            }
+        }
+
+        response = client.chat.completions.create(
+                                                    model="deepseek-reasoner",
+                                                    messages=item['messages'],
+                                                    response_format={"type": "json_object"}
+                                                )
+        
+        # Create API response object
+        api_response = {
+            "id": response.id,
+            "custom_id": api_request["custom_id"],
+            "response": {
+                "status_code": 200,
+                "request_id": response.id,
+                "body": {
+                    "id": response.id,
+                    "object": "chat.completion",
+                    "created": response.created,
+                    "model": response.model,
+                    "choices": [{
+                        "index": 0,
+                        "message": {
+                            "role": response.choices[0].message.role,
+                            "content": response.choices[0].message.content,
+                            "reasoning_content": response.choices[0].message.reasoning_content,
+                            "refusal": None
+                        },
+                        "logprobs": None,
+                        "finish_reason": response.choices[0].finish_reason
+                    }],
+                    "usage": {
+                        "prompt_tokens": response.usage.prompt_tokens,
+                        "completion_tokens": response.usage.completion_tokens,
+                        "total_tokens": response.usage.total_tokens,
+                        "prompt_tokens_details": {
+                            "cached_tokens": 0,
+                            "audio_tokens": 0
+                        },
+                        "completion_tokens_details": {
+                            "reasoning_tokens": response.usage.completion_tokens_details.reasoning_tokens,
+                            "audio_tokens": 0,
+                            "accepted_prediction_tokens": 0,
+                            "rejected_prediction_tokens": 0
+                        }
+                    },
+                    "service_tier": "default",
+                    "system_fingerprint": "fp_72ed7ab54c"
+                }
+            },
+            "error": None,
+        }
+
+        # Create output object
+        output = {
+            "item_id": item["id"],
+            "sentence1": " ".join(sentence1),
+            "sentence2": " ".join(sentence2), 
+            "api_request": api_request['body']['messages'][0]['content'],
+            "api_response": api_response,
+            "provider": "deepseek-r1"
+        }
+        
+        # Write to JSONL file with ensure_ascii=False to preserve special characters
+        f_out.write(json.dumps(output, ensure_ascii=False) + "\n")
+        f_out.flush()
+
+print(f"Results saved to {output}")

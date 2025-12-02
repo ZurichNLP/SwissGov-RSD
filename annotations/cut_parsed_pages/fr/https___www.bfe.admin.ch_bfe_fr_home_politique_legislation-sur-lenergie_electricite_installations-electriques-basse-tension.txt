@@ -1,0 +1,16 @@
+Installations électriques à basse tension
+L’ordonnance sur les installations à basse tension (OIBT; RS 734.27) règle les conditions applicables aux interventions sur des installations électriques à basse tension et le contrôle de ces installations. Elle s’applique aux installations électriques alimentées en courant fort, exploitées sous une tension n’excédant pas 1000 V en courant alternatif ou 1500 V en courant continu. Les installations intérieures notamment sont soumises aux dispositions de l’OIBT.
+Les installations électriques à basse tension doivent être établies, modifiées, entretenues et contrôlées selon les règles techniques reconnues. Afin d’assurer le respect des exigences fondamentales concernant la sécurité (dont celles précitées), l’OIBT régit notamment les conditions relatives à l’octroi (ou à la révocation) d’une autorisation d’installer ou de contrôler ainsi que l’exécution des travaux d’installation et leur contrôle (premier contrôle et contrôle périodique).
+Fiches d’information
+Pas de fiches d’information
+Documents
+Adaptation des bases légales relatives aux matériels électriques et aux matériels Ex
+Liens
+Inspection fédérale des installations à courant fort (ESTI)
+EIT.swiss
+ASCE
+Droit
+Loi fédérale du 24 juin 1902 concernant les installations électriques à faible et à fort courant (loi sur les installations électriques, LIE)
+Ordonnance du 7 novembre 2001 sur les installations électriques à basse tension (ordonnance sur les installations à basse tension, OIBT)
+Ordonnance du DETEC du 30 avril 2018 sur les installations électriques à basse tension
+Dernière modification 15.09.2021

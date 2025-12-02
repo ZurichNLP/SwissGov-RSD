@@ -1,0 +1,24 @@
+Calcul de la sanction pour les véhicules utilitaires lourds
+Calcul de la sanction pour les véhicules utilitaires lourds
+Conformément à la loi sur le CO2, des valeurs cibles de CO2 s’appliqueront aux véhicules utilitaires lourds à partir du 1er janvier 2025. Celles-ci sont définies sous la forme d’une réduction en pour-cent par rapport aux valeurs de base indiquées dans la réglementation de l’UE. Chaque année, les importateurs de véhicules se voient attribuer une valeur cible spécifique qui découle de la valeur cible visée dans la loi sur le CO2 et des caractéristiques de leurs véhicules admis à la circulation. Lorsque la flotte de véhicules neufs ou le véhicule d’un importateur ne respecte pas la valeur cible spécifique, une sanction dépendant du dépassement est due pour chaque véhicule.
+Valeur cible spécifique
+La formule de calcul de la valeur cible pour les véhicules utilitaires lourds est conforme aux dispositions de l’UE, qui répartit les véhicules en neuf sous-groupes en fonction de leurs caractéristiques techniques ou de leur utilisation.
+Les valeurs de base pour calculer la valeur cible en grammes de CO2 par tonne-kilomètre sont définies par branche et par sous-groupe. La valeur cible des flottes de véhicules neufs est calculée sur cette base en tant que chiffre individuel pour chaque importateur, en tenant compte de la part des sous-groupes dans sa propre flotte de véhicules neufs pour l’année concernée et des facteurs de pondération fixes pour le kilométrage et la charge utile qui figurent dans le règlement (UE) 2019/1242.
+Valeurs de base de chaque sous-groupe
+Les valeurs de base pour calculer la valeur cible spécifique sont celles indiquées dans la réglementation de l’UE, publiée dans la décision d’exécution (UE) 2021/781.
+Émissions de CO2 des véhicules utilitaires lourds
+Les émissions de CO2 d’un véhicule utilitaire lourd sont obtenues au moyen de la procédure de simulation «VECTO». La valeur d’émission pertinente pour la sanction est calculée en tenant compte du facteur de pondération pour le kilométrage et la charge utile et des carburants synthétiques imputables. Pour les parcs de véhicules neufs comptant plusieurs véhicules, c’est la moyenne des émissions de CO2 qui s’applique. De plus, un allègement est accordé ici si le parc de véhicules neufs dépasse les valeurs seuils fixées pour les véhicules électriques selon l’article 26c.
+Calcul de la sanction
+Si les émissions moyennes de CO2 du parc de véhicules utilitaires lourds nouvellement immatriculés d’un grand importateur (au moins deux immatriculations par an) excèdent sa valeur cible spécifique, celui-ci doit s’acquitter d’une sanction en fonction du dépassement et du nombre de véhicules.
+Cession de véhicules
+Les importateurs de véhicules utilitaires lourds doivent s’acquitter d’une éventuelle sanction en matière de CO2 après la fin de l’année de référence concernée. Une sanction est applicable pour les véhicules qui excèdent la valeur cible fixée en matière d’émissions de CO2. Si un véhicule n’atteint pas la valeur cible, aucune sanction n’est appliquée. Dans ce cas, il n’y a pas non plus de versement d’un bonus. Les importateurs ont la possibilité de céder leurs véhicules à un grand importateur. Il peut ainsi arriver que la sanction pour un véhicule à fortes émissions soit réduite ou qu’un bonus soit versé pour un véhicule énergétiquement efficace. Ces conditions s’apparentent à un accord de droit privé entre l’importateur cédant et l’importateur cessionnaire. La cession doit être annoncée à l’OFEN avant la première immatriculation en Suisse des véhicules concernés par le biais du portail eGovernment DETEC.
+Documents
+Liens
+Portail eGovernment DETEC
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 28.11.2024

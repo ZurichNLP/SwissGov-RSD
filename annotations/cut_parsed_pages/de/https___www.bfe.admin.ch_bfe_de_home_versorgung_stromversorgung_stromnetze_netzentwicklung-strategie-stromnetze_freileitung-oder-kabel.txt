@@ -1,0 +1,21 @@
+Freileitung oder Kabel
+Ob eine Höchstspannungsleitung für die Netzebene 1 (NE1, 220 kV und 380 kV) als Freileitung gebaut oder als Kabel im Boden verlegt werden soll, muss im Einzelfall und auf der Grundlage objektiver Kriterien entschieden werden. Dafür hat das Bundesamt für Energie ein Bewertungsschema Übertragungsleitungen entwickelt. Wichtigstes Ziel dieses neuen Schemas ist die Beurteilung von Korridorvarianten im Hinblick auf das Festlegen des geeignetsten Korridors für Übertragungsleitungen. Gleichzeitig wird damit die Versachlichung der Frage «Freileitung oder Erdverlegung» erreicht und dadurch das Bewilligungsverfahren beschleunigt. Das Schema besteht aus vier Pfeilern mit je drei bis vier Kriteriengruppen (Raumentwicklung, Technik, Umwelt und Wirtschaft). Die Projekte werden anhand der darin enthaltenen Kriterien untersucht und bewertet.
+Um zu bestimmen, ob ein Hochspannungsleitungsprojekt als Freileitung oder als Erdkabel für die Spannungsebenen 3 bis 7 (< 220 kV) durchgeführt werden soll, muss der Mehrkostenfaktor gemäss LeV berechnet werden. Um diesen Faktor zu ermitteln, hat das Bundesamt für Energie einen Leitfaden und eine Excel-Datei entwickelt, die für jedes betroffene Projekt verwendet werden müssen.
+Dokumente
+Bewertungsschema
+Bestimmung des Mehrkostenfaktors
+Links
+Sachplan Übertragungsleitungen (SÜL)
+Recht
+Elektrizitätsgesetz, EleG, SR 734.0
+Änderung des EleG vom 15. Dezember 2017
+Leitungsverordnung, LeV, SR 734.31
+Leitungsverordnung, LeV, SR 734.31, Änderung vom 3. April 2019
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 19.07.2021
+Zum Seitenanfang

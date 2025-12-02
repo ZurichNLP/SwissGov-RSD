@@ -1,0 +1,29 @@
+Calculation of penalties for passenger cars
+The individual target is calculated on the basis of the target value of 93.6g CO2/km and also depends on the unladen weight.
+Calculation of penalties for large importers
+If the average carbon emissions of a large importer’s newly registered car fleet exceed the individually specified target level, a penalty is levied. The relevant calculation parameters for the 2025 target have not yet been finalised. Once the Federal Council has adopted the implementing provisions for 2025, a calculation example for large importers will be published. These new provisions are expected to come into force in the second quarter of 2025, with retroactive effect from 1 January 2025.
+Calculation of penalties for small importers
+Excess emissions and penalties are individually calculated for each passenger car imported by a small importer. The size of the penalty is calculated on the basis of both on the vehicle’s carbon emissions and its unladen weight. This means that a vehicle may be subject to a penalty even if it does not exceed the 93.6g/km carbon emissions target. When the updated implementation provisions come into force by order of the Federal Council, the calculation formula will be adjusted (in the course of 2025). The calculation tool can be used to calculate any penalty due.
+Compensation of penalties for small importers
+Small importers of passenger cars may be required to pay a carbon penalty before vehicles are registered in Switzerland. A penalty is levied for vehicles that exceed the carbon emissions target. If a vehicle’s emissions are below the specified target, no penalty applies. However, no bonus is paid out in this case either. Small importers have the option of assigning their emissions to a large importer. This may reduce the penalty for a high-emission vehicle, or a bonus may be paid out for an efficient vehicle.
+The assigning (small) importer and the large importer draw up an agreement under private law to this effect. Vehicles must be assigned and the SFOE notified thereof before initial registration in Switzerland.
+Documents
+Calculation of penalties
+Forms and fact sheets
+Brochures and reports
+Links
+Key data relating to alternative drives (in German)
+Energy label for cars
+Tool for calculating the penalty for small importers of cars
+CO2 exchange (in German)
+Antrag auf Bescheinigung bezüglich Art. 23 der Verordnung über die Reduktion der CO2-Emissionen für PW
+Law
+Article 74 of the Swiss Federal Constitution - Protection of the environment
+Federal Act of 23 December 2011 on the Reduction of CO2 Emissions (CO2 Act) (in German)
+Ordinance on the Reduction of CO2 Emissions (CO2 Ordinance)
+Ordinance of 19 June 1995 on technical requirements on road vehicles (in German)
+Ordinance of 19 June 1995 on the homologation of road vehicles (in German)
+Liechtenstein National Legal Gazette 814.065: Act of 16 December 2009 on the Reduction of CO2 Emissions (CO2 Act) (in German)
+Liechtenstein National Legal Gazette 814.065.12: Ordinance of 19 June 2012 on the Reduction of CO2 Emissions from motor cars (in German)
+Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community’s integrated approach to reduce CO2 emissions from light-duty vehicles
+Last modification 06.01.2025

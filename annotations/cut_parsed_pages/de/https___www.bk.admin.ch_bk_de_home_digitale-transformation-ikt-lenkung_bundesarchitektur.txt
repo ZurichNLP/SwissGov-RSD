@@ -1,0 +1,18 @@
+Bundesarchitektur
+Das Ziel der Unternehmensarchitektur ist es, die Elemente der IKT und der geschäftlichen Tätigkeit mit all ihren Eigenschaften und Beziehungen so zu einem funktionsfähigen Ganzen zusammenzufügen, dass die Geschäftsprozesse optimal unterstützt, Doppelspurigkeiten vermieden und die Zusammenarbeit vereinfacht werden. Dies soll unter anderem mit der Bereitstellung und Anwendung von allgemein anerkannten Standards erreicht werden.
+Organisation
+Die Entwicklung der Bundesarchitektur geschieht in einem föderierten Ansatz durch den Bereich DTI, die Departemente, Ämter und Leistungserbringer.
+Departemente und Bundesämter
+Für ihre Kernaufgabenbereiche entwickeln die Departemente und Verwaltungseinheiten die Unternehmensarchitektur dezentral.
+Bundesämter mit übergreifenden Aufgaben
+Bundesämter mit übergreifenden Aufgaben, beispielsweise die Eidgenössische Finanzverwaltung (EFV) oder das Bundesamt für Landestopographie (Swisstopo), definieren und koordinieren die Unternehmensarchitektur für die übergreifenden Aspekte in ihrem Verantwortungsbereich.
+DTI
+Der Bereich DTI ist verantwortlich für die Architektur der aufgabenneutralen IKT-Grundleistungen, soweit diese von der Mehrheit der Departemente benötigt werden, beispielsweise die Standarddienste. Er koordiniert zudem die Architekturarbeiten mit den Departementen und definiert zu diesem Zweck bundesweit gültige Vorgaben und Standards.
+Architekturboard Bund
+Das Gremium Architekturboard Bund dient der gegenseitigen Abstimmung der Architekturen und der Methoden sowie der Hilfsmittel zu deren Erstellung. Im Architekturboard Bund vertreten sind alle Departemente und die grösseren internen IKT-Leistungserbringer. Es wird vom Bereich DTI geleitet.
+Vorgehen und Methode
+Als Methode für das Management der Unternehmensarchitektur setzt die Bundesverwaltung TOGAF ein.
+P030 - The Open Group Architecture Framework (TOGAF)
+TOGAF (The Open Group Architecture Framework) wird von der Open Group bereitgestellt und weiterentwickelt. Die Digitalversion kann kostenlos auf der Open Group-Web-Site eingesehen werden.
+TOGAF
+Fachkontakt

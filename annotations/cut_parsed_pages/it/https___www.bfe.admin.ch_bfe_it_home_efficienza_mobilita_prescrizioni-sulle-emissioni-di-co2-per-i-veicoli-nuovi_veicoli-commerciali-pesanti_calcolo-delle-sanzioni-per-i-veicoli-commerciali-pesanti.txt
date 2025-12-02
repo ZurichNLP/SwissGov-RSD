@@ -1,0 +1,24 @@
+Calcolo delle sanzioni per i veicoli commerciali pesanti
+Calcolo delle sanzioni per i veicoli commerciali pesanti
+Secondo la legge sul CO2, a partire dal 1° gennaio 2025 anche i veicoli commerciali pesanti dovranno rispettare determinati valori obiettivo per le emissioni di CO2. Questi valori vengono fissati sulla base di una riduzione percentuale rispetto ai valori iniziali definiti nella normativa UE. Gli importatori di veicoli ricevono annualmente un obiettivo individuale, che viene ricavato in base al valore obiettivo e alle caratteristiche dei loro veicoli immatricolati. Se il parco veicoli nuovi o il veicolo di un importatore non rispetta l’obiettivo, l’importatore deve pagare per ogni veicolo una sanzione stabilita in funzione di quanto tale obiettivo è stato superato.
+Obiettivo individuale
+La formula per il calcolo dell’obiettivo dei veicoli commerciali pesanti è conforme alle disposizioni UE, che classificano i veicoli in nove sottogruppi in base alle loro caratteristiche tecniche e all’uso a cui sono destinati.
+I valori iniziali per il calcolo dell’obiettivo in grammi di CO2 per tonnellata-chilometro sono definiti a livello di settore per ciascun sottogruppo. L’obiettivo per i parchi veicoli nuovi è calcolato su tale base sotto forma di cifra unica per ogni importatore, utilizzando le quote di sottogruppo del proprio parco veicoli nuovi nell’anno in questione e i fattori di ponderazione fissi per il chilometraggio e il carico utile conformemente al regolamento (UE) 2019/1242.
+Valori iniziali per sottogruppo
+I valori iniziali per il calcolo dell’obiettivo individuale corrispondono a quelli fissati nella normativa UE e pubblicati nella decisione di esecuzione (UE) 2021/781.
+Emissioni di CO2 dei veicoli commerciali pesanti
+Le emissioni di CO2 di un veicolo commerciale pesante vengono calcolate con il metodo di simulazione VECTO. Il valore delle emissioni rilevante ai fini della sanzione viene calcolato tenendo conto del fattore di ponderazione per il chilometraggio e il carico utile nonché dei carburanti sintetici computabili. Per i parchi veicoli nuovi con più veicoli si considera la media delle emissioni di CO2; è prevista un’agevolazione se il parco veicoli nuovi oltrepassa il valore soglia di veicoli elettrici di cui all’articolo 26c.
+Calcolo della sanzione
+Se le emissioni medie di CO2 del parco di VCP di nuova immatricolazione di un grande importatore (almeno due nuove immatricolazioni in un anno) superano l’obiettivo individuale di tale importatore, quest’ultimo è tenuto al pagamento di una sanzione, che dipende dal grado di superamento dell’obiettivo e dal numero di veicoli.
+Cessione di veicoli
+Gli importatori di VCP devono pagare un’eventuale sanzione alla fine del rispettivo anno di riferimento. Viene inflitta una sanzione per i veicoli che oltrepassano l’obiettivo. Se, invece, le emissioni di un veicolo rimangono al di sotto dell’obiettivo, non viene esatta alcuna sanzione, ma non viene comunque corrisposto alcun bonus. Gli importatori hanno la possibilità di cedere i propri veicoli a un grande importatore. In questo modo è possibile che una sanzione per un veicolo ad alte emissioni venga ridotta o che venga versato un bonus per un veicolo efficiente. Queste condizioni sono un accordo di diritto privato tra l’importatore che cede il veicolo e quello che lo acquista. La cessione deve essere notificata all’UFE precedentemente alla prima immatricolazione in Svizzera sul portale eGovernment DATEC.
+Documenti
+Link
+Portale eGovernment DATEC
+Messaggio per lo specialista
+
+				
+
+
+
+Ultima modifica 28.11.2024

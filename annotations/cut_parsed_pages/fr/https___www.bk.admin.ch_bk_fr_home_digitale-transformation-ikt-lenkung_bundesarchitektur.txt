@@ -1,0 +1,18 @@
+Architecture de la Confédération
+L'architecture d'entreprise a pour but d'assembler différents modules, avec toutes leurs propriétés et relations, en un tout opérationnel, de façon à contribuer de manière optimale l'atteinte des objectifs de l'entreprise, à éviter les doublons et à simplifier la collaboration. Ce but doit être atteint, entre autres, grâce à la mise à disposition et à l'utilisation de normes reconnues de manière générale.
+Organisation
+Le développement de l'architecture d'entreprise dans l'administration fédérale s'effectue en une approche fédérée par le secteur TNI, les départements, les offices et les fournisseurs de prestations.
+Départements et offices fédéraux
+Les départements et les unités administratives développent l'architecture d'entreprise de façon décentralisée pour leurs principaux domaines de tâches.
+Offices fédéraux assumant des tâches transversales
+Les offices qui assument des tâches transversales, par ex. l'Administration fédérale des finances (AFF) ou l'Office fédéral de topographie (swisstopo), se chargent de définir et de coordonner l'architecture d'entreprise relative aux aspects transversaux de leur domaine de compétence.
+Secteur TNI
+Le secteur TNI joue le rôle, au niveau fédéral, de l'architecte de la Confédération et met à disposition les méthodes, processus et outils nécessaires pour la visualisation et le déroulement de l'architecture de la Confédération.
+Le Conseil de l'architecture de la Confédération
+Le Conseil de l'architecture de la Confédération (Architekturboard Bund, ABB) est l'organe spécialisé dans lequel les bénéficiaires et les fournisseurs de prestations discutent des objets concernant l'architecture et décident des prescriptions à fixer en la matière.
+Processus et méthode
+L'administration fédérale gère l'architecture d'entreprise selon la méthode TOGAF.
+P030 - The Open Group Architecture Framework (TOGAF)
+La méthode TOGAF (The Open Group Architecture Framework) est développée et mise à disposition par The Open Group. La version originale peut être téléchargée gratuitement sur le site Internet du Open Groupe.
+TOGAF
+Contact spécialisé

@@ -1,0 +1,13 @@
+Solar Energy at High Temperature
+Solar power systems concentrate direct solar radiation turning it into a high-temperature energy source for the generation of electricity or to trigger chemical reactions. In this process, mirrors focus solar radiation onto receivers placed at the focal point, or in the focal line, of the system, where energy is either conveyed to a heat transfer medium or used directly. Electricity production costs at solar thermal power plants (STE) are higher than those for photovoltaic systems. However, the technology brings advantages in respect of integration into the energy system, which means photovoltaic systems and STE could well complement each other.
+Current research priorities
+Priorities of the research promoted by the SFOE:
+Links
+ARAMIS
+Specialist staff
+
+				
+
+
+
+Last modification 16.11.2017

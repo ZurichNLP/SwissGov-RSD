@@ -1,0 +1,6 @@
+"aligned_pages_split1_de.json" # Mirjam
+"aligned_pages_split1_fr.json" # Isabelle 
+"aligned_pages_split1_it.json" # Giovanni
+"aligned_pages_split2_de.json" # Isabelle
+"aligned_pages_split2_fr.json" # Dominic
+"aligned_pages_split2_it.json" # Serena

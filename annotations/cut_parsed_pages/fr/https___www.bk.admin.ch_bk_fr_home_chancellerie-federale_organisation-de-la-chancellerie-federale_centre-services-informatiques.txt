@@ -1,0 +1,15 @@
+Section Service numériques
+La Section Service numériques met son savoir à la disposition de la Chancellerie fédérale et lui fournit les prestations en informatique et en télécommunication nécessaires à l’accomplissement de ses tâches. Il couvre trois domaines d’activité:
+Gestion des applications, des services et du changement
+La gestion des applications et des services vise à assurer leur
+pérennité. La gestion du changement veille à une exécution méthodique et logique des modifications apportées aux applications et aux infrastructures. La plupart des changements s’expliquent par de nouvelles exigences de la part des utilisateurs ou par la modernisation des infrastructures informatiques dont les applications dépendent.
+Projets
+Lorsqu’il s’agit de suivre la réalisation de projets informatiques, la Section Service numériques fournit des directeurs de projet, qui prennent en charge la partie
+technique ou, en cas de besoin, l’organisation du projet dans son ensemble. Les projets sont réalisés, selon leur importance, en interne ou avec le concours de partenaires externes.
+Architecture et sécurité
+L’architecture informatique a pour objectif de coordonner les
+applications entre elles, d’assurer la bonne marche des interfaces, d‘harmoniser fonctions et solutions techniques et d’éviter les doublons.
+La sécurité informatique consiste à veiller à ce que les projets soient
+conformes aux exigences de sécurité de la Confédération, que les systèmes gérés par des prestataires soient à jour et que les failles de sécurité soient
+comblées. Elle comprend enfin la gestion des risques informatiques.
+Contact spécialisé

@@ -1,0 +1,15 @@
+C'è DECT e DECT!
+Da qualche mese si registra un costante aumento delle interferenze sulle reti di telefonia mobile UMTS (Universal Mobile Telecommunications System), causate dai telefoni senza filo DECT (Digital Enhanced Cordless Telecommunications) acquistati al di fuori dell'Europa, ad esempio negli Stati Uniti, in America latina, Canada o Asia o via Internet. L'Ufficio federale delle comunicazioni (UFCOM) non esclude di addossare i costi della ricerca e della soppressione delle interferenze alle persone che hanno importato e utilizzato questo genere di apparecchi.
+L'UFCOM raccomanda di acquistare il proprio telefono senza filo DECT in Svizzera o in Europa da rivenditori o negozi specializzati. Solo in questo modo si evita di provocare interferenze nelle reti di telefonia mobile UMTS, nonché il conseguente intervento dell'UFCOM e la messa fuori servizio dell'apparecchio in questione. Alle persone che utilizzano questi telefoni dopo averli importati direttamente, l'Ufficio federale potrebbe anche fatturare i costi del suo intervento.
+Interferenze sulle reti UMTS
+Gli apparecchi DECT in vendita nel Nord America, in America latina o in Asia utilizzano bande di frequenza che in Europa sono riservate alla telefonia mobile UMTS. Di conseguenza i fabbricanti non propongono questo genere di telefoni sul mercato europeo. Tuttavia, alcuni di essi sono approdati nel vecchio continente e il loro utilizzo provoca gravi interferenze alle reti di telefonia mobile UMTS. Negli scorsi 12 mesi, l'UFCOM ha dovuto intervenire più di un centinaio di volte in seguito a segnalazioni di problemi riscontrati da operatori mobili. Analizzando questi casi, emerge che questi telefoni senza filo sono stati portati in Svizzera in occasione di un viaggio all'estero oppure ordinati su Internet. La tecnologia DECT, sviluppata in Europa appositamente per questo mercato, si è imposta sull'intero continente come unica tecnologia per i telefoni senza filo. Il suo successo risiede da un lato nell'armonizzazione a livello europeo della banda di frequenze dei 1.8 GHz riservata esclusivamente a questi telefoni e, dall'altro, nelle sue caratteristiche tecniche. Esportata in altri mercati, in particolare in quello americano, questa tecnologia è stata costretta ad utilizzare altre frequenze, dato che ogni regione del mondo ripartisce lo spettro in modo diverso.
+Informazioni complementari
+Accesso al mercato di impianti di radiocomunicazione
+RIR0503-01
+Messaggio per lo specialista
+
+				
+
+
+
+Ultima modifica 03.07.2018

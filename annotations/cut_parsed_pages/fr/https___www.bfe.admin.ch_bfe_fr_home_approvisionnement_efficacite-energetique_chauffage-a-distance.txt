@@ -1,0 +1,31 @@
+Chauffage à distance
+Pour ingénieuse qu’elle soit, l’idée d’utiliser la chaleur excédentaire dégagée par les grandes installations de production d’énergie et usines d’incinération pour couvrir les besoins en chauffage et eau chaude des habitations et des centres de services n’est pas nouvelle. Les installations de chauffage à distance jouissaient d’une certaine notoriété dans les années 1960 et 1970, et Energie2000, le programme qui a précédé SuisseEnergie, encourageait spécifiquement l’exploitation des rejets de chaleur par ce système. Aujourd’hui, les réseaux thermiques sont à nouveau sur le devant de la scène, principalement dans le domaine des énergies renouvelables avec des centrales électriques à bois et des centrales géothermiques et par l’utilisation qui est faite de l’eau des lacs ou des rivières ainsi que des nappes phréatiques.
+La chaleur à distance est produite dans une installation – centrale thermique, usine d’incinération des ordures ménagères, installation de combustion de copeaux de bois – avant d’être acheminée par un réseau de conduites vers les clients sous forme d’eau chaude destinée à chauffer des locaux ou à préparer de l’eau chaude sanitaire.
+Les réseaux thermiques alimentant des pompes à chaleur servent, de manière centralisée ou décentralisée, à porter l’eau de chauffage à la température souhaitée. Dans le même temps, les pompes à chaleur peuvent alimenter un réseau de froid et utiliser la chaleur résiduelle provenant de la production de froid, par exemple, pour générer de l’eau chaude.
+Dans le cas du couplage chaleur-force (CCF), l’électricité et la chaleur thermique sont simultanément produites avant d’être acheminées vers les clients par un réseau de chauffage à distance. La chaleur à distance présente de nombreux avantages: les installations sont peu encombrantes, le client ne doit se préoccuper ni d’acheter ou de stocker des combustibles, ni d’entretenir son installation, et cette technique offre une sécurité d’approvisionnement élevée car les systèmes de chaleur à distance peuvent fonctionner avec différents agents énergétiques.
+Classification par type
+Classification par type
+Le terme générique désignant le chauffage à distance est «réseau thermique».
+Un réseau thermique désigne généralement un réseau à basse température (jusqu’à 60°C), notamment lorsque la chaleur (prélèvement de chaleur depuis le réseau) et le froid (injection de chaleur dans le réseau) sont produits de façon décentralisée, le plus souvent par des pompes à chaleur ou des machines frigorifiques.
+Documents
+Rapports
+Base de données Publications "Réseaux thermiques"
+Liens
+Chaleur ambiante
+Réseaux thermiques
+Géodonnées techniques «Réseaux thermiques»
+Réseaux Thermiques Suisse
+Société Suisse de l’Industrie du Gaz et des Eaux (SSIGE)
+Energie-bois Suisse
+Géothermie-Suisse
+Géoinformation
+QM Chauffage à distance
+Hochschule Luzern - Thermische Netze
+Geomaps - Thermische Netze
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 17.12.2020

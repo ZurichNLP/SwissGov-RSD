@@ -1,0 +1,28 @@
+Die Energieetikette für elektronische Displays
+Im Grunde genügt ein einziger Blick, um den Energieverbrauch eines Displays zu beurteilen. Auf der aufgeklebten Energieetikette finden Sie eine Skala mit den Energieeffizienzklassen, Grün ist die beste und Rot die schlechteste Klasse.
+In der Schweiz müssen alle ausgestellten Displays zwingend mit einer Energieetikette versehen sein.
+Auf dieser Etikette wird nebst dem Energieverbrauch in Kilowattstunden während 1000 Stunden auch die Bildschirmdiagonale sowie die Effizienzklasse und der Energieverbrauch bei der Wiedergabe von High Dynamic Range-Inhalten deklariert.
+Ausserdem gelten spezifische Anforderungen an den Stromverbrauch im Standby- und Aus-Modus.
+Dokumente
+Revision der Energieeffizienzverordnung EnEV
+Faktenblatt
+Vollzugshilfe für die Umsetzung der Vorschriften über Anlagen und Geräte nach der Energieeffizienzverordnung (EnEV)
+Links
+EnergieSchweiz - Informationen zum Kauf und zur Nutzung
+Vorlagen für Energieetiketten
+Recht
+Bundesverfassung Artikel 89 Energiepolitik
+Artikel 44 des Energiegesetzes (EnG)
+Energieeffizienzverordnung vom 1. November 2017 (EnEV)
+Detailanforderungen
+Energieeffizienzverordnung (EnEV), Anhang 1.12
+Verordnung (EU) 2019/2021 der Kommission vom 1. Oktober 2019
+Delegierte Verordnung (EU) 2019/2013 der Kommission vom 11. März 2019
+Fachkontakt
+
+				
+
+
+
+Letzte Änderung 01.03.2021
+Zum Seitenanfang

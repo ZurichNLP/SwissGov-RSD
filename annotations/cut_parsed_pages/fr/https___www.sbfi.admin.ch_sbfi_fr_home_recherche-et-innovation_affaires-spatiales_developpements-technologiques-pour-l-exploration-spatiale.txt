@@ -1,0 +1,16 @@
+Développements technologiques pour l'exploration spatiale
+© ESA / Bcomp
+L’exploration spatiale fait appel aux technologies les plus pointues et elle repousse sans cesse les limites du possible. On attend des satellites et des instruments embarqués qu’ils fonctionnent avec une fiabilité absolue, souvent pendant plusieurs années. Pour des raisons évidentes, une réparation ou une maintenance en orbite n’est pas envisageable. Les satellites et les instruments doivent résister à des vibrations extrêmes lors du lancement, et une fois en orbite, au rayonnement cosmique et à de très fortes variations de température. À ces contraintes s’ajoutent celles du poids et du volume qu’il s’agit de minimiser pour la mise en orbite. Les instruments scientifiques qui équipent les satellites recourent souvent à des méthodes d’observation novatrices qui font appel à des technologies inédites. Pour répondre à toutes ces exigences et permettre à l’industrie spatiale européenne de rester compétitive, l’Agence spatiale européenne ESA a mis en place des programmes technologiques qui soutiennent les activités de recherche et développement dans une perspective à long terme.
+Le développement constant de technologies innovantes et leur standardisation sont à la clé d’une activité technologique suivie s’inscrivant dans une perspective à long terme. Le domaine Affaires spatiales du Secrétariat d’État à la formation, à la recherche et à l’innovation SEFRI soutient les acteurs du développement technologique dans l’acquisition et la préservation de compétences leur permettant de s’établir durablement dans un environnement très compétitif. Une technologie innovante dégage une forte valeur ajoutée lorsqu’elle passe du statut de nouvelle technologie à celle de technologie de base (standardisation).
+Transfert de technologie
+Il n’est pas rare que des entreprises ou des instituts de recherche actifs dans le secteur spatial parviennent à valoriser des compétences développées pour le spatial en les mettant à profit dans d’autres domaines ou à transmettre des technologies à d’autres secteurs. On parle dans ce cas de «spinning out» et de «spinning in» (transfert de technologie). En Suisse aussi, on connaît de nombreux exemples de transfert de technologie réussi. On peut citer l’exemple de l’entreprise bcomp, qui a adapté avec succès ses matériaux composites à base de fibres naturelles pour le domaine spatial. À l’avenir, il sera ainsi possible de construire des éléments de fusée, mais aussi des satellites, qui se désintégreront mieux et plus complètement lors de leur rentrée dans l’atmosphère terrestre à la fin de leur mission. Cette technologie contribue ainsi à une Terre plus propre.
+Axes technologiques prioritaires de la Suisse
+Conformément à sa politique spatiale, la Suisse poursuit une stratégie de niche également en matière de développement technologique, visant à atteindre – voire à défendre et à consolider – une position internationale de pointe dans des secteurs déterminés. Dans cette perspective, la Suisse a défini cinq axes technologiques prioritaires:
+Liens
+Technology Transfer
+Natural fibres threaded into satellites for safer missions
+Contact
+SBFI, Aurélie Pezous
+
+T +41 58 465 31 99
+Panier d'achat

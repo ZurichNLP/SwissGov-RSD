@@ -1,0 +1,15 @@
+Attention, un DECT peut en cacher un autre!
+Les perturbations des réseaux de téléphonie mobile UMTS (Universal Mobile Telecommunications System) sont en constante augmentation depuis quelques mois. Elles sont provoquées par des téléphones sans fil DECT (Digital Enhanced Cordless Telecommunications) achetés hors Europe, par exemple aux Etats-Unis, en Amérique du sud, au Canada ainsi qu'en Asie ou par l'internet. L'OFCOM n'exclut pas de faire payer les coûts de recherche et de suppression des perturbations aux personnes qui ont importé et utilisé ces téléphones sans fil.
+L'OFCOM recommande d'acheter son téléphone sans fil DECT en Suisse ou en Europe auprès de revendeurs ou commerces spécialisés afin d'éviter de provoquer des perturbations aux réseaux de téléphonie mobile UMTS, perturbations qui se soldent par une intervention de l'OFCOM et une mise hors service du téléphone sans fil. Les propriétaires de ces téléphones qui les ont directement importés peuvent également se voir facturer les coûts de l'intervention de l'office.
+Perturbations sur le réseau UMTS
+Les appareils DECT mis en vente en Amérique du Nord, du Sud ou en Asie utilisent d'autres bandes de fréquences qui, en Europe, sont réservées aux réseaux de téléphonie mobile UMTS. Même si les fabricants ne proposent pas ces téléphones sur le marché européen, certains y sont tout de même utilisés. Ils provoquent alors des perturbations dommageables aux réseaux de téléphonie mobile UMTS. Dans les 12 derniers mois, l'OFCOM a dû intervenir plus d'une centaine de fois suite aux annonces de problèmes des opérateurs de téléphonie mobile. L'analyse de ces cas montre que ces téléphones sans fil ont été ramenés en Suisse à l'occasion de voyages dans d'autres parties du monde ou commandés sur l'internet. Développée en Europe et spécifiquement pour ce marché, la technologie DECT s'est imposée sur le continent comme seule technologie pour les téléphones sans fil. Son succès s'explique d'une part par l'harmonisation au niveau européen de la bande de fréquences des 1.8 GHz réservée exclusivement à ces téléphones et par ses caractéristiques techniques d'autre part. En partant à la conquête d'autres marchés, américain notamment, cette technologie a été contrainte d'utiliser d'autres fréquences, en raison de la répartition différente de l'usage du spectre dans les différentes régions du monde.
+Informations complémentaires
+Accès au marché d'installations de radiocommunication
+RIR0503-01
+Contact spécialisé
+
+				
+
+
+
+Dernière modification 08.09.2010

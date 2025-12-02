@@ -1,0 +1,20 @@
+Overhead lines versus underground cables
+The question of whether transmission lines for network level 1 (220 kV and 380kV) are to be constructed overhead or placed underground has to be decided on a case-by-case basis and in accordance with objective criteria. For this purpose the Swiss Federal Office of Energy has developed a transmission lines evaluation model. The main objective of the new model is to evaluate various options in order to define the most suitable corridor for transmission lines. This procedure facilitates the process of making an objective decision concerning this question and accelerating the licensing procedure. The model comprises four pillars, each of which contains three to four groups of criteria (spatial development, technology, environment and the economy). Projects are examined on the basis of the criteria.
+To determine whether a high-voltage transmission line project is to be carried out with overhead lines or underground cabling for voltage levels 3 to 7 (<220 kV), the additional cost factor has to be calculated in accordance with the provisions of the Transmission Lines Ordinance. To determine this factor, the Swiss Federal Office of Energy has prepared a set of guidelines in an Excel file which must be used for each project concerned.
+Documents
+Bewertungsschema
+Determination of the additional cost factor
+Links
+Transmission Lines sectoral plan
+Law
+Elektrizitätsgesetz, EleG, SR 734.0
+Änderung des EleG vom 15. Dezember 2017
+Leitungsverordnung, LeV, SR 734.31
+Leitungsverordnung, LeV, SR 734.31, Änderung vom 3. April 2019
+Specialist staff
+
+				
+
+
+
+Last modification 19.07.2021
