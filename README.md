@@ -1,5 +1,7 @@
 # SwissGov-RSD: A Human-annotated, Cross-lingual Benchmark for the Recognition of Token-level Semantic Differences Between Related Documents
 
+[![Dataset](https://img.shields.io/badge/🤗-Huggingface%20Dataset-yellow.svg)](https://huggingface.co/datasets/ZurichNLP/SwissGov-RSD)
+
 A comprehensive benchmark for evaluating token-level semantic difference recognition across multiple languages including iSTS-RSD ([Vamvas and Sennrich, 2023](https://aclanthology.org/2023.emnlp-main.835/)) and SwissGov-RSD (TODO: Cite once available).
 
 ---
