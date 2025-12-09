@@ -198,7 +198,15 @@ python -m scripts.latency_test
 If you use this library in your research, please cite the accompanying paper:
 
 ```bibtex
-@article{TODO: add once available}
+@misc{wastl2025swissgovrsdhumanannotatedcrosslingualbenchmark,
+      title={SwissGov-RSD: A Human-annotated, Cross-lingual Benchmark for Token-level Recognition of Semantic Differences Between Related Documents}, 
+      author={Michelle Wastl and Jannis Vamvas and Rico Sennrich},
+      year={2025},
+      eprint={2512.07538},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.07538}, 
+}
 ```
 
 
