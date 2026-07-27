@@ -124,12 +124,16 @@ if __name__ == "__main__":
     parser.add_argument('--lang', type=str, choices=['de', 'fr', 'it'])
     parser.add_argument('--split', type=str, choices=['dev', 'test', 'val', 'full'])
     parser.add_argument('--short', action='store_true')
+    parser.add_argument('--layer', type=int, default=-1,
+                        help='Hidden layer to extract features from (diffalign only, default: -1)')
     args = parser.parse_args()
 
     if args.type == 'finetuned':
+        if args.layer != -1:
+            raise ValueError("--layer is only supported for --type diffalign")
         recognizer = EncoderDifferenceRecognizer(args.model_name_or_path)
     elif args.type == 'diffalign':
-        recognizer = DiffAlign(args.model_name_or_path)
+        recognizer = DiffAlign(args.model_name_or_path, layer=args.layer)
     else:
         raise ValueError(f"Invalid recognizer type: {args.type}")
 
