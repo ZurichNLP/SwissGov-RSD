@@ -1,6 +1,6 @@
 # SwissGov-RSD: A Human-annotated, Cross-lingual Benchmark for the Recognition of Token-level Semantic Differences Between Related Documents
 
-[![Paper](https://img.shields.io/badge/📄%20Paper-arXiv%3A2512.07538-B31B1B.svg)](https://arxiv.org/pdf/2512.07538)
+[![Paper](https://img.shields.io/badge/📄%20Paper-ACL%20Anthology-B31B1B.svg)](https://aclanthology.org/2026.acl-long.1437/)
 [![Dataset](https://img.shields.io/badge/🤗-Huggingface%20Dataset-yellow.svg)](https://huggingface.co/datasets/ZurichNLP/SwissGov-RSD)
 [![MT Eval](https://img.shields.io/badge/🌐-Translation%20Eval%20Subset-4A90D9.svg)](https://github.com/miwytt/multi-parallel-swissgov/tree/main)
 
@@ -201,6 +201,7 @@ python -m scripts.latency_test
 
 ---
 ## Updates
+* 07.07.2026: The SwissGov-RSD paper received an SAC Highlight at ACL 2026! 🏆
 
 * 06.04.2026: The SwissGov-RSD paper was accepted to ACL Main! 🎉
 
