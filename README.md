@@ -4,7 +4,7 @@
 [![Dataset](https://img.shields.io/badge/🤗-Huggingface%20Dataset-yellow.svg)](https://huggingface.co/datasets/ZurichNLP/SwissGov-RSD)
 [![MT Eval](https://img.shields.io/badge/🌐-Translation%20Eval%20Subset-4A90D9.svg)](https://github.com/miwytt/multi-parallel-swissgov/tree/main)
 
-A comprehensive benchmark for evaluating token-level semantic difference recognition across multiple languages including iSTS-RSD ([Vamvas and Sennrich, 2023](https://aclanthology.org/2023.emnlp-main.835/)) and SwissGov-RSD ([Wastl et al., 2025](https://www.arxiv.org/abs/2512.07538)).
+A comprehensive benchmark for evaluating token-level semantic difference recognition across multiple languages including iSTS-RSD ([Vamvas and Sennrich, 2023](https://aclanthology.org/2023.emnlp-main.835/)) and SwissGov-RSD ([Wastl et al., 2025](https://aclanthology.org/2026.acl-long.1437/)).
 
 ---
 
